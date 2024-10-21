@@ -33,8 +33,13 @@ menu:
         weight: 6
         name: Contact
 
-      - url: https://eens-fr.netlify.app
+      - url: https://eens-it.netlify.app
         weight: 7
+        name: IT
+        pre: <i class="fas fa-globe"></i>
+
+      - url: https://eens-fr.netlify.app
+        weight: 8
         name: FR
         pre: <i class="fas fa-globe"></i>
 
