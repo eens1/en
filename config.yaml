@@ -34,15 +34,15 @@ menu:
         weight: 6
         name: Contact
 
-      - identifier: languages
+      - identifier: lang
         weight: 7
-        name: LANG
+        name: ""
         pre: "<i class='fas fa-globe'></i>"
 
       - url: https://eens-fr.netlify.app
         name: Français
-        parent: languages 
+        parent: lang
 
       - url: https://eens-it.netlify.app
         name: Italiano 
-        parent: languages 
+        parent: lang
