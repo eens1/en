@@ -34,8 +34,12 @@ menu:
         weight: 6
         name: Contact
 
-      - identifier: lang
+      - url: /about
         weight: 7
+        name: About
+
+      - identifier: lang
+        weight: 8
         name: "LANG"
         pre: "<i class='fas fa-globe'></i>"
 
