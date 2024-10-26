@@ -10,6 +10,8 @@ To be saved, it is absolutely necessary to profess the traditional Catholic fait
 
 > Father Pierre of Jean Olivi, Friar Minor: "... it is a diabolical error to attach oneself to the particular opinion of a man with the firmness which is only due to an article of faith." (Castet 1680, t. 2, p. 329)
 
-I encourage you to read the book, [Outside the Catholic Church there is absolutely no salvation](https://www.vaticancatholique.com/hors-de-eglise-catholique-pas-de-salut/ ), published by Most Holy Family Monastery and which deals in great detail with this fundamental dogma, and responds to all common objections.
+I encourage you to read the book, [Outside the Catholic Church there is absolutely no salvation](https://vaticancatholic.com/outside-the-church-there-is-no-salvation/), published by Most Holy Family Monastery and which deals in great detail with this fundamental dogma, and responds to all common objections.
 
 > John 15:6 : "If anyone abideth not in me, he shall be cast forth as a branch, and shall wither, and they shall gather him up, and cast him into the fire, and he burneth."
+
+There is no salvation outside of Jesus Christ, and the Catholic Church is His Mystical Body.
