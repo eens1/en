@@ -46,3 +46,7 @@ menu:
       - url: https://eens-it.netlify.app
         name: Italiano 
         parent: lang
+
+params:
+  featuredPosts:
+    - /spirituality/rosary
