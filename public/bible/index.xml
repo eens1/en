@@ -4,7 +4,9 @@
     <title>Bible on </title>
     <link>/bible/</link>
     <description>Recent content in Bible on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 20:00:34 +0200</lastBuildDate><atom:link href="/bible/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/bible/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
