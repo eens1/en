@@ -20,13 +20,13 @@
 
   <link rel="stylesheet" href="/css/home.css">
 
-  <link rel="stylesheet" href="/css/nav.css">
-
   <link rel="stylesheet" href="/css/pagination.css">
 
   <link rel="stylesheet" href="/css/pdf.css">
 
   <link rel="stylesheet" href="/css/postnav.css">
+
+  <link rel="stylesheet" href="/css/sidebar.css">
 
   <link rel="stylesheet" href="/css/style.css">
 
@@ -51,47 +51,15 @@
 St. John Eudes, Man’s Contract With God In Baptism: “… that you may have a true faith in those things which God has revealed, it is necessary that you should believe in the Catholic Church, in which alone you can learn with certainty what God has revealed… Certainly those who do not believe in the Catholic Church cannot have divine faith in the mysteries which they believe, but only natural and human faith… Thank God for having given you the precious gift of faith, and having made you a child of the holy Catholic Church, which is the faithful repository of the truths of salvation, and which all Christians are obliged to acknowledge as the true Church." />
 <meta name="twitter:image" content="/" />
 
-
 </head>
 
 <body>
 
 <header>
 
-
-	
-
 </header>
 
 <main>
-
-
-	<nav class="navbar">
-
-<div class="logo">
-<a href="https://eens.netlify.app">
-(&tau;) Extra Ecclesiam Nulla Salus
-</a>
-</div>
-
-<div class="banner">
-<img src="/images/banner.png"/>
-</div>
-
-  <div class="hamburger">
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-  </div>
-
-  <ul class="nav-links">
-    
-    
-  </ul>
-  
-</nav>
-
-
 
 
 
@@ -303,6 +271,174 @@ St. John Eudes, Man’s Contract With God In Baptism: “… that you may have a
 
 
 </main>
+
+
+<div id="sidebar" class="sidebar">
+  <button id="toggle-sidebar" class="toggle-button">☰</button>
+  <div class="sidebar-content">
+    <ul>
+      
+      <li>
+        <a 
+          href="/" 
+          class="">
+          Home
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/bible" 
+          class="">
+          Bible
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/doctrine" 
+          class="">
+          Doctrine
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/apologetics" 
+          class="">
+          Apologetics
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/spirituality" 
+          class="">
+          Spirituality
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/about" 
+          class="">
+          About
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="#" 
+          class="has-submenu">
+          Other languages
+          
+          <span class="submenu-indicator">▶</span>
+          
+        </a>
+        
+        <ul class="submenu">
+          
+          <li>
+            <a href="https://eens-fr.netlify.app">Français</a>
+          </li>
+          
+          <li>
+            <a href="https://eens-it.netlify.app">Italiano</a>
+          </li>
+          
+        </ul>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="/contact" 
+          class="">
+          Contact
+          
+        </a>
+        
+      </li>
+      
+      <li>
+        <a 
+          href="#" 
+          class="has-submenu">
+          Links
+          
+          <span class="submenu-indicator">▶</span>
+          
+        </a>
+        
+        <ul class="submenu">
+          
+          <li>
+            <a href="https://vaticancatholic.com">VaticanCatholic.com</a>
+          </li>
+          
+          <li>
+            <a href="https://vaticancatholique.com">VaticanCatholique.com</a>
+          </li>
+          
+          <li>
+            <a href="https://vaticanocattolico.com">VaticanoCattolico.com</a>
+          </li>
+          
+        </ul>
+        
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<script>
+  const sidebar = document.getElementById('sidebar');
+  const toggleButton = document.getElementById('toggle-sidebar');
+
+  
+  toggleButton.addEventListener('click', function () {
+    sidebar.classList.toggle('collapsed');
+  });
+
+  
+  if (window.innerWidth <= 768) {
+    sidebar.classList.add('collapsed');
+  }
+
+  
+  window.addEventListener('resize', function () {
+    if (window.innerWidth <= 768) {
+      sidebar.classList.add('collapsed');
+    } else {
+      sidebar.classList.remove('collapsed');
+    }
+  });
+
+  
+  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
+    const submenu = menuItem.nextElementSibling;
+    if (submenu && submenu.classList.contains('submenu')) {
+      menuItem.addEventListener('click', function (event) {
+        event.preventDefault(); 
+        submenu.classList.toggle('expanded');
+        this.querySelector('.submenu-indicator').classList.toggle('rotated');
+      });
+    }
+  });
+</script>
+
 
 <footer>
 
