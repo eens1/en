@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/douay-rheims/new-testament/06-romans/chap007/" />
+<link rel="canonical" href="//localhost:1313/bible/douay-rheims/new-testament/06-romans/chap007/" />
 
 
 
@@ -44,14 +44,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapter 7" />
 <meta name="twitter:description" content="1 Know you not, brethren (for I speak to them that know the law) that the law hath dominion over a man as long as it liveth?
 2 For the woman that hath an husband, whilst her husband liveth is bound to the law. But if her husband be dead, she is loosed from the law of her husband.
 3 Therefore, whilst her husband liveth, she shall be called an adulteress, if she be with another man: but if her husband be dead, she is delivered from the law of her husband: so that she is not an adulteress, if she be with another man." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 
 </head>
@@ -286,52 +286,6 @@
 
 
 </main>
-
-
-<div id="sidebar" class="sidebar">
-  <button id="toggle-sidebar" class="toggle-button">☰</button>
-  <div class="sidebar-content">
-    <ul>
-      
-    </ul>
-  </div>
-</div>
-<script>
-  const sidebar = document.getElementById('sidebar');
-  const toggleButton = document.getElementById('toggle-sidebar');
-
-  
-  toggleButton.addEventListener('click', function () {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  
-  if (window.innerWidth <= 768) {
-    sidebar.classList.add('collapsed');
-  }
-
-  
-  window.addEventListener('resize', function () {
-    if (window.innerWidth <= 768) {
-      sidebar.classList.add('collapsed');
-    } else {
-      sidebar.classList.remove('collapsed');
-    }
-  });
-
-  
-  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
-    const submenu = menuItem.nextElementSibling;
-    if (submenu && submenu.classList.contains('submenu')) {
-      menuItem.addEventListener('click', function (event) {
-        event.preventDefault(); 
-        submenu.classList.toggle('expanded');
-        this.querySelector('.submenu-indicator').classList.toggle('rotated');
-      });
-    }
-  });
-</script>
-
 
 <footer>
 

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/douay-rheims/old-testament/52-wisdom/chap002/" />
+<link rel="canonical" href="//localhost:1313/bible/douay-rheims/old-testament/52-wisdom/chap002/" />
 
 
 
@@ -44,13 +44,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapter 2" />
 <meta name="twitter:description" content="1 For they have said, reasoning with themselves, but not right: The time of our life is short and tedious, and in the end of a man there is no remedy, and no man hath been known to have returned from hell:
 2 For we are born of nothing, and after this we shall be as if we had not been: for the breath in our nostrils is smoke: and speech a spark to move our heart," />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 
 </head>
@@ -285,52 +285,6 @@
 
 
 </main>
-
-
-<div id="sidebar" class="sidebar">
-  <button id="toggle-sidebar" class="toggle-button">☰</button>
-  <div class="sidebar-content">
-    <ul>
-      
-    </ul>
-  </div>
-</div>
-<script>
-  const sidebar = document.getElementById('sidebar');
-  const toggleButton = document.getElementById('toggle-sidebar');
-
-  
-  toggleButton.addEventListener('click', function () {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  
-  if (window.innerWidth <= 768) {
-    sidebar.classList.add('collapsed');
-  }
-
-  
-  window.addEventListener('resize', function () {
-    if (window.innerWidth <= 768) {
-      sidebar.classList.add('collapsed');
-    } else {
-      sidebar.classList.remove('collapsed');
-    }
-  });
-
-  
-  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
-    const submenu = menuItem.nextElementSibling;
-    if (submenu && submenu.classList.contains('submenu')) {
-      menuItem.addEventListener('click', function (event) {
-        event.preventDefault(); 
-        submenu.classList.toggle('expanded');
-        this.querySelector('.submenu-indicator').classList.toggle('rotated');
-      });
-    }
-  });
-</script>
-
 
 <footer>
 

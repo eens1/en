@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/douay-rheims/new-testament/05-acts/chap002/" />
+<link rel="canonical" href="//localhost:1313/bible/douay-rheims/new-testament/05-acts/chap002/" />
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapter 2" />
@@ -52,7 +52,7 @@
 2 And suddenly there came a sound from heaven, as of a mighty wind coming: and it filled the whole house where they were sitting.
 3 And there appeared to them parted tongues, as it were of fire: and it sat upon every one of them.
 4 And they were all filled with the Holy Ghost: and they began to speak with divers tongues, according as the Holy Ghost gave them to speak." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 
 </head>
@@ -309,52 +309,6 @@
 
 
 </main>
-
-
-<div id="sidebar" class="sidebar">
-  <button id="toggle-sidebar" class="toggle-button">☰</button>
-  <div class="sidebar-content">
-    <ul>
-      
-    </ul>
-  </div>
-</div>
-<script>
-  const sidebar = document.getElementById('sidebar');
-  const toggleButton = document.getElementById('toggle-sidebar');
-
-  
-  toggleButton.addEventListener('click', function () {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  
-  if (window.innerWidth <= 768) {
-    sidebar.classList.add('collapsed');
-  }
-
-  
-  window.addEventListener('resize', function () {
-    if (window.innerWidth <= 768) {
-      sidebar.classList.add('collapsed');
-    } else {
-      sidebar.classList.remove('collapsed');
-    }
-  });
-
-  
-  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
-    const submenu = menuItem.nextElementSibling;
-    if (submenu && submenu.classList.contains('submenu')) {
-      menuItem.addEventListener('click', function (event) {
-        event.preventDefault(); 
-        submenu.classList.toggle('expanded');
-        this.querySelector('.submenu-indicator').classList.toggle('rotated');
-      });
-    }
-  });
-</script>
-
 
 <footer>
 

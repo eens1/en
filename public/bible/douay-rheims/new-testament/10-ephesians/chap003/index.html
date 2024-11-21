@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/douay-rheims/new-testament/10-ephesians/chap003/" />
+<link rel="canonical" href="//localhost:1313/bible/douay-rheims/new-testament/10-ephesians/chap003/" />
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapter 3" />
@@ -52,7 +52,7 @@
 2 If yet you have heard of the dispensation of the grace of God which is given me towards you:
 3 How that, according to revelation, the mystery has been made known to me, as I have written above in a few words:
 4 As you reading, may understand my knowledge in the mystery of Christ," />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 
 </head>
@@ -283,52 +283,6 @@
 
 
 </main>
-
-
-<div id="sidebar" class="sidebar">
-  <button id="toggle-sidebar" class="toggle-button">☰</button>
-  <div class="sidebar-content">
-    <ul>
-      
-    </ul>
-  </div>
-</div>
-<script>
-  const sidebar = document.getElementById('sidebar');
-  const toggleButton = document.getElementById('toggle-sidebar');
-
-  
-  toggleButton.addEventListener('click', function () {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  
-  if (window.innerWidth <= 768) {
-    sidebar.classList.add('collapsed');
-  }
-
-  
-  window.addEventListener('resize', function () {
-    if (window.innerWidth <= 768) {
-      sidebar.classList.add('collapsed');
-    } else {
-      sidebar.classList.remove('collapsed');
-    }
-  });
-
-  
-  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
-    const submenu = menuItem.nextElementSibling;
-    if (submenu && submenu.classList.contains('submenu')) {
-      menuItem.addEventListener('click', function (event) {
-        event.preventDefault(); 
-        submenu.classList.toggle('expanded');
-        this.querySelector('.submenu-indicator').classList.toggle('rotated');
-      });
-    }
-  });
-</script>
-
 
 <footer>
 

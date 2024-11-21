@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/douay-rheims/new-testament/01-matthew/chap013/" />
+<link rel="canonical" href="//localhost:1313/bible/douay-rheims/new-testament/01-matthew/chap013/" />
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapter 13" />
@@ -52,7 +52,7 @@
 2 And great multitudes were gathered together unto him, so that he went up into a boat and sat: and all the multitude stood on the shore.
 3 And he spoke to them many things in parables, saying: Behold the sower went forth to sow.
 4 And whilst he soweth some fell by the way side, and the birds of the air came and ate them up." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 
 </head>
@@ -320,52 +320,6 @@
 
 
 </main>
-
-
-<div id="sidebar" class="sidebar">
-  <button id="toggle-sidebar" class="toggle-button">☰</button>
-  <div class="sidebar-content">
-    <ul>
-      
-    </ul>
-  </div>
-</div>
-<script>
-  const sidebar = document.getElementById('sidebar');
-  const toggleButton = document.getElementById('toggle-sidebar');
-
-  
-  toggleButton.addEventListener('click', function () {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  
-  if (window.innerWidth <= 768) {
-    sidebar.classList.add('collapsed');
-  }
-
-  
-  window.addEventListener('resize', function () {
-    if (window.innerWidth <= 768) {
-      sidebar.classList.add('collapsed');
-    } else {
-      sidebar.classList.remove('collapsed');
-    }
-  });
-
-  
-  document.querySelectorAll('.sidebar-content ul > li > a.has-submenu').forEach(function (menuItem) {
-    const submenu = menuItem.nextElementSibling;
-    if (submenu && submenu.classList.contains('submenu')) {
-      menuItem.addEventListener('click', function (event) {
-        event.preventDefault(); 
-        submenu.classList.toggle('expanded');
-        this.querySelector('.submenu-indicator').classList.toggle('rotated');
-      });
-    }
-  });
-</script>
-
 
 <footer>
 
