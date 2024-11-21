@@ -6,37 +6,51 @@ languageName: "English"
 defaultContentLanguage: en
 params:
    dateFormat: "Jan 02, 2006"
-   featuredPosts:
-     - /spirituality/rosary
-   sidebar:
-     - title: "Home"
-       link: "/"
-     - title: "Bible"
-       link: "/bible"
-     - title: "Doctrine"
-       link: "/doctrine"
-     - title: "Apologetics"
-       link: "/apologetics"
-     - title: "Spirituality"
-       link: "/spirituality"
-     - title: "About"
-       link: "/about"
-     - title: "Other languages"
-       submenu:
-         - title: "Français"
-           link: "https://eens-fr.netlify.app"
-         - title: "Italiano"
-           link: "https://eens-it.netlify.app"
-     - title: "Contact"
-       link: "/contact"
-     - title: "Links"
-       submenu:
-         - title: "VaticanCatholic.com"
-           link: "https://vaticancatholic.com"
-         - title: "VaticanCatholique.com"
-           link: "https://vaticancatholique.com"
-         - title: "VaticanoCattolico.com"
-           link: "https://vaticanocattolico.com"
+menu:
+   main:
+      - identifier: home
+        url: /
+        weight: 1
+        pre: <i class="fas fa-home"></i>
 
+      - name: Bible
+        url: /bible
+        weight: 2
 
+      - name: Doctrine
+        url: /doctrine
+        weight: 3
 
+      - name: Spirituality
+        url: /spirituality
+        weight: 4
+
+      - identifier: apologetics
+        name: Apologetics 
+        url: /apologetics
+        weight: 5
+
+      - url: /contact
+        weight: 6
+        name: Contact
+
+      - url: /about
+        weight: 7
+        name: About
+
+      - identifier: lang
+        weight: 8
+        name: "LANG"
+        pre: "<i class='fas fa-globe'></i>"
+
+      - url: https://eens-fr.netlify.app
+        name: Français
+        parent: lang
+
+      - url: https://eens-it.netlify.app
+        name: Italiano 
+        parent: lang
+
+params:
+  featuredPosts:
+    - /spirituality/rosary
