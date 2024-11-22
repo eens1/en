@@ -30,6 +30,3 @@ menu:
       - name: "Italiano"
         url: "https://eens-it.netlify.app"
         weight: 5 
-params:
-  featuredPosts:
-    - /spirituality/rosary
