@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-*By Brother Michael Dimond and Brother Peter Dimond, O.S.B.*
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 
-*Source: [vaticancatholic.com](https://vaticancatholic.com/sedevacantism-sedevacantists)*
+Source: [vaticancatholic.com](https://vaticancatholic.com/sedevacantism-sedevacantists)
 
 <blockquote>
 <p>Pope Vigilius, <em>Second Council of Constantinople</em>, 553: “… we bear in mind what was promised about the holy Church and Him who said <strong><em>the gates of Hell will not prevail against it</em></strong> <strong>(<u>by these we understand the death-dealing tongues of heretics</u>)</strong>…” (<em>Decrees of the Ecumenical Councils</em>, Sheed &amp; Ward and Georgetown University Press, 1990, Vol. 1, p. 113.)</p>

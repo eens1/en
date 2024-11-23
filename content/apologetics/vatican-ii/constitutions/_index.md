@@ -114,6 +114,7 @@ There can be absolutely no doubt that Vatican II denies the dogmatic teaching of
 This heresy in Vatican II’s Declaration *Nostra Aetate* is the theological foundation for the Vatican II sect’s current teaching on the Jews. It is the reason that the Vatican currently publishes books which teach that the Jews are perfectly free to live as if Christ had not come. It is the reason that the Vatican II sect teaches that the Old Covenant is valid. It is the reason why John Paul II and Benedict XVI both made trips to the Synagogue to attempt to validate the Jewish religion, as we will see.
 
 <div class="footnotes">
+
 <p>[1] Yves Marsaudon in his book Ecumenism Viewed by a Traditional Freemason, Paris: Ed. Vitiano, 121; quoted by Permanences, no. 21 (July 1965), 87; also quoted by Bishop Tissier De Mallerais, The Biography of Marcel Lefebvre, Kansas City, MO: Angelus Press, 2004, p. 328.</p>
 
 <p>
@@ -131,6 +132,5 @@ This heresy in Vatican II’s Declaration *Nostra Aetate* is the theological fou
 <p>
 [5] 1937 Latin Version of Denzinger, Enchiridion Symbolorum, Herder & Co.., no. 705.
 </p>
-
 
 </div>
