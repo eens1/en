@@ -1,7 +1,7 @@
 ---
 title: "What Millions Of Fake Christians Get Wrong About Ephesians (VIDEO)"
 date: "2024-11-24T06:58:47"
-draft: "False"
+draft: "false"
 description: "No description available."
 tags: []
 locale: "en_US"

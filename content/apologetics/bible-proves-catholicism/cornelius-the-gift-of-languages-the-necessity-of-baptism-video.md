@@ -1,7 +1,7 @@
 ---
 title: "Cornelius, The Gift Of Languages & The Necessity Of Baptism"
 date: "2024-11-24T07:15:52"
-draft: "False"
+draft: "false"
 description: "CORNELIUS, THE GIFT OF LANGUAGES & THE NECESSITY OF BAPTISM Bro. Peter Dimond Some people believe that a few verses in the Acts of the Apostles indicate that Cornelius (the first Gentile convert) and his [...]"
 tags: []
 locale: "en_US"

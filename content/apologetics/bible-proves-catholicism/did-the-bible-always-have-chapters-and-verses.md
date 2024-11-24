@@ -1,7 +1,7 @@
 ---
 title: "Did the Bible always have chapters and verses?"
 date: "2024-11-24T09:27:34"
-draft: "False"
+draft: "false"
 description: "Spirituality St. Francis Xavier, Jan. 1548: “When I was at Malacca I established the custom that at the beginning of night the souls in Purgatory, and the souls of the living who are in a [...]"
 tags: []
 external_url: "https://vaticancatholic.com/the-bible-chapters-and-verses/"

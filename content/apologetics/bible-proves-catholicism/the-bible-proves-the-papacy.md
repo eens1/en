@@ -1,7 +1,7 @@
 ---
 title: "The Bible Proves The Papacy"
 date: "2024-11-24T07:23:02"
-draft: "False"
+draft: "false"
 description: "This is one of the most important videos we have ever produced.  Among other things, it covers a new biblical proof of the Papacy that is of great significance."
 tags: []
 locale: "en_US"

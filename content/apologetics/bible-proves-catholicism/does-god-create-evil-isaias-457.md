@@ -1,7 +1,7 @@
 ---
 title: "Does God 'Create Evil' (Isaias 45:7)?"
 date: "2024-11-24T09:36:16"
-draft: "False"
+draft: "false"
 description: "The answer is that Isaias 45:7 (as well as a similar statement in Amos 3:6) refers to the evil of punishments: persecutions, war, calamities, famines and afflictions that God sends as a consequence of man’s [...]"
 tags: []
 external_url: "https://vaticancatholic.com/does-god-create-evil-isaias-457/"

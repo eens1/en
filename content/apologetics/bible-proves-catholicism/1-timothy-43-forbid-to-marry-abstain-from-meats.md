@@ -1,7 +1,7 @@
 ---
 title: "Does 1 Timothy 4:3 (They Forbid to Marry & Abstain from Meats) Refer to Catholics?"
 date: "2024-11-24T09:32:52"
-draft: "False"
+draft: "false"
 description: "Bro. Peter Dimond 1 Timothy 4:1-5 “Now the Spirit manifestly saith, that in the last times some shall depart from the faith, giving heed to spirits of error, and doctrines of devils, speaking lies in hypocrisy, and [...]"
 tags: []
 external_url: "https://vaticancatholic.com/does-1-timothy-43-they-forbid-to-marry-abstain-from-meats-refer-to-catholics/"

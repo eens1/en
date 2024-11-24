@@ -1,7 +1,7 @@
 ---
 title: "Catholic Commentary On Acts 16:4 - vaticancatholic.com"
 date: "2024-11-24T09:30:54"
-draft: "False"
+draft: "false"
 description: "Bro. Peter Dimond Following the Council of Jerusalem in Acts 15, St. Paul returned to Antioch.  While in Antioch he had the desire to visit various cities where the word of the Lord had been [...]"
 tags: []
 external_url: "https://vaticancatholic.com/acts-16-4-bible-commentary/"

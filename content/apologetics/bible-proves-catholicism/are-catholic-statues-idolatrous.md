@@ -1,7 +1,7 @@
 ---
 title: "Are Catholic Statues Idolatrous?"
 date: "2024-11-24T09:35:35"
-draft: "False"
+draft: "false"
 description: "vaticancatholic.com … I recently read some of the post in your website and I have started it when I found a video in YouTube entitled Is the World about to End? And after that I [...]"
 tags: []
 external_url: "https://vaticancatholic.com/catholics-worship-statues/"

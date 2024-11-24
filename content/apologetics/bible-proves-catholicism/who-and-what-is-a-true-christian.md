@@ -1,7 +1,7 @@
 ---
 title: "Who and What is a True Christian?"
 date: "2024-11-24T09:37:12"
-draft: "False"
+draft: "false"
 description: "A Christian is someone who follows the true faith of Jesus Christ.  In the Acts of the Apostles we read that it was at Antioch that the followers of Christ were first called Christians. Acts [...]"
 tags: []
 external_url: "https://vaticancatholic.com/who-what-true-christian/"

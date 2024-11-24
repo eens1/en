@@ -1,7 +1,7 @@
 ---
 title: "Documentary: Protestantism's Big Justification Lie"
 date: "2024-11-24T07:13:51"
-draft: "False"
+draft: "false"
 description: "This is a must-see new documentary. Among many other things, it explains, examines, and refutes the historic Protestant teaching on Justification (and Forensic Justification) by exposing a fatal flaw at its core.  It reveals a devastating new [...]"
 tags: []
 locale: "en_US"

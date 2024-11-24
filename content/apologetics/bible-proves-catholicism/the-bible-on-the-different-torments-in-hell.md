@@ -1,7 +1,7 @@
 ---
 title: "The Bible On The Different Torments In Hell"
 date: "2024-11-24T09:24:52"
-draft: "False"
+draft: "false"
 description: "Spirituality St. Alphonsus (c. 1755): “Sacred Scripture enumerates a number of other torments which will afflict the damned [besides hellfire].  One of these is the ‘worm,’ to which the Scriptures refer frequently… most theologians explain [...]"
 tags: []
 external_url: "https://vaticancatholic.com/the-bible-on-the-different-torments-in-hell/"

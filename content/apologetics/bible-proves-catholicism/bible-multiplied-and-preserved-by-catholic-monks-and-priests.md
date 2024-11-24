@@ -1,7 +1,7 @@
 ---
 title: "The Bible was multiplied and preserved by Catholic monks and priests"
 date: "2024-11-24T09:28:32"
-draft: "False"
+draft: "false"
 description: "Spirituality St. Francis Xavier (1545): “St. Francis Xavier spoke to the King of Japan particularly of the uncertainty and shortness of life; he bade him to think of the handful of dust and ashes which [...]"
 tags: []
 external_url: "https://vaticancatholic.com/the-bible-was-multiplied-and-preserved-by-catholic-monks-and-priests/"
