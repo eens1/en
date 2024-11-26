@@ -17,7 +17,7 @@ Source: Washbourne 1882, pp .248-249.
 
 The devils will have unusual power, the immaculate purity of our Order, and of others, will be so much obscured that there will be very few Christians who will obey the true Sovereign Pontiff and the Roman Church with loyal hearts and perfect charity.
 
-**At the time of this tribulation a man, not canonically elected, will be raised to the Pontificate, who, by his cunning, will endeavour to draw many into error and death**.
+**At the time of this tribulation a man, not canonically elected, will be raised to the Pontificate, who, by his cunning, will endeavor to draw many into error and death**.
 
 Then scandals will be multiplied, our Order will be divided, and many others will be entirely destroyed, because they will consent to error instead of opposing it.
 
