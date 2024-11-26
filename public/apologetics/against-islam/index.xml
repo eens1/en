@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Against Islam on Extra Ecclesiam Nulla Salus</title>
-    <link>http://localhost:1313/apologetics/against-islam/</link>
+    <link>https://eens-en.netlify.app/apologetics/against-islam/</link>
     <description>Recent content in Against Islam on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/apologetics/against-islam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Sep 2024 20:02:27 +0200</lastBuildDate>
+    <atom:link href="https://eens-en.netlify.app/apologetics/against-islam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Specific Teaching Against Islam</title>
+      <link>https://eens-en.netlify.app/apologetics/against-islam/against-islam/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:27 +0200</pubDate>
+      <guid>https://eens-en.netlify.app/apologetics/against-islam/against-islam/</guid>
+      <description>By Brother Peter Dimond, O.S.B.&#xA;Source: vaticancatholic.com&#xA;Pope Eugene IV, Council of Basel, Session 19, Sept. 7, 1434:&#xA;“… there is hope that very many from the abominable sect of Mahomet will be converted to the Catholic faith.”[1]&#xA;Pope Callixtus III, 1455: “I vow to… exalt the true Faith, and to extirpate the diabolical sect of the reprobate and faithless Mahomet [Islam] in the East.”[2]&#xA;The Catholic Church considers Islam an “abominable” and “diabolical” sect.</description>
+    </item>
   </channel>
 </rss>
