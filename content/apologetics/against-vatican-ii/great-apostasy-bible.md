@@ -9,7 +9,7 @@ Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/great-apostasy-bible/)
 
-![](/images/great-apostasy.jpg)
+{{< figure src="https://i.ibb.co/3Ynfvtf/great-apostasy.jpg" >}}
 
 *John Paul II during a syncretist prayer gathering with various false religious leaders at Assisi in 1986 - This “ecumenical” activity was always condemned by the Catholic Church, and specifically labeled as a complete rejection of the Catholic Faith by Pope Pius XI in 1928.  This is a revolution against the Faith – a new Gospel.*
 
@@ -55,11 +55,15 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/great-apostasy-bible/)
 <blockquote>
 <p>Our Lady of La Salette, Sept. 19, 1846: <strong>“Rome will lose the Faith and become the seat of the Anti-Christ… the Church will be in eclipse.”</strong></p>
 </blockquote>
-<p><img decoding="async" class="size-full wp-image-123641 aligncenter" src="https://vaticancatholic.com/images/our-lady-of-la-salette.jpg" alt="" width="70%"></p>
+
+{{< figure src="https://i.ibb.co/9Nfgyns/our-lady-of-la-salette.jpg" >}}
+
 <p>This startling prophecy coincides with the prophecies in Sacred Scripture (Apocalypse 17 and 18), which inform us that the city of seven hills (Rome) will become a harlot (a counterfeit Bride of Christ), which will commit spiritual fornication (idolatry) and tread upon the blood of the saints (false ecumenism).&nbsp; The great harlot prophesied in the Bible is not the Catholic Church; it is a counterfeit Catholic Church, an apostate, phony Bride which arises in the last days to deceive Catholics and eclipse the true Church which has been reduced to a remnant.&nbsp; In this book we will bring forward the overwhelming, undeniable, irrefutable evidence from doctrinal grounds and unassailable facts that the “Church” which has arisen with the Second Vatican Council (1962-1965) is not the Catholic Church at all, but rather a massively fraudulent Counter-Church which denies the fundamental teachings of the Catholic Church.</p>
 <p>We will show that the men who imposed this new Vatican II religion and the New Mass were not Catholics at all, but manifest heretics preaching a new religion.</p>
 <p><strong>In fact, any doubts about the authenticity of Our Lady’s message at La Salette will be obliterated by a careful examination of the evidence in this book</strong>.&nbsp; Among other things, this book will document that the Vatican now teaches that Jews are perfectly free <u>not</u> to believe in Jesus Christ.</p>
-<p><img decoding="async" class="size-full wp-image-123642 aligncenter" src="https://vaticancatholic.com/images/anti-pope-john-paul-ii-elio-toaff.jpg" alt="" width="70%"></p>
+
+{{< figure src="https://i.ibb.co/37cb3YQ/anti-pope-john-paul-ii-elio-toaff.jpg" >}}
+
 <p>This may startle some, but this is a fact.&nbsp; Without even considering all of the other apostasy which we will cover in this book, this fact proves that Our Lady’s words have come true: Rome (not the Catholic Church) has lost the Faith (given way to a non-Catholic, counterfeit sect) and become the seat of the Antichrist.&nbsp;</p>
 <p>In late 2001, the Pontifical Biblical Commission released a book entitled <em>The Jewish People and the Holy Scriptures in the Christian Bible.&nbsp; </em>The book <strong><u>argues that the Jews’ continued wait for the Messiah is validated and justified by the Old Testament</u></strong>.&nbsp; “The expectancy of the Messiah was justified in the Old Testament,” papal spokesman Joaquin Navarro-Valls explained, “and if the Old Testament keeps its value, then it keeps that as a value, too.&nbsp; <u>It says you cannot just say all the Jews are wrong and we are right</u>.”&nbsp; Asked by reporters whether his statements might be taken to suggest that the Messiah may not in fact have come, Navarro-Valls replied, “It means it would be wrong for a Catholic to wait for the Messiah, <u>but not for a Jew</u>.”&nbsp; This means that the Vatican now holds that the Jews are perfectly free to reject Christ; this is the teaching of the Vatican II “popes.”</p>
 <p>Rome has lost the Faith and become the seat of the Antichrist.&nbsp;</p>
