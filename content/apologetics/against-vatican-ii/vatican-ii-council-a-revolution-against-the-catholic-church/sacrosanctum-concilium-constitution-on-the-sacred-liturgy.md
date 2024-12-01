@@ -1,14 +1,23 @@
 ---
-title: "Sacrosanctum Concilium – Vatican II’s Constitution on the Sacred Liturgy"
-date: 2024-09-06T20:02:15+02:00
-draft: false
+title: "Sacrosanctum Concilium – Constitution on the Sacred Liturgy"
+date: "2024-12-01T19:25:31"
+draft: "false"
+description: "Go back to The Vatican II Revolution 8. Sacrosanctum Concilium – Vatican II’s Constitution on the Sacred Liturgy Sacrosanctum Concilium was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to [...]"
+tags: []
+external_url: "https://vaticancatholic.com/sacrosanctum-concilium"
+locale: "en_US"
+type: "article"
+image: "https://vaticancatholic.com/images/sacrosanctum-concilium.jpg"
+image:width: "283"
+image:height: "213"
+image:type: "image/jpeg"
 ---
 
+Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium)
 
+<h2>8. <em>Sacrosanctum Concilium</em> – Vatican II’s Constitution on the Sacred Liturgy</h2>
 <p><em>Sacrosanctum Concilium</em> was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to the Mass and the other sacraments following Vatican II.</p>
-
-<p align="center"><img decoding="async" class="" src="/images/new-mass-clown-liturgical-abuse-sacrosanctum-concilium.jpg" alt="New Mass Clown Liturgical Abuses Sacrosanctum Concilium" width="50%" /></p>
-
+<p align="center"><img decoding="async" class="" src="https://vaticancatholic.com/images/new-mass-clown-liturgical-abuse-sacrosanctum-concilium-.jpg" alt="New Mass Clown Liturgical Abuses Sacrosanctum Concilium" width="50%" /></p>
 <p align="center">A post-Vatican II “Mass”</p>
 <p>These incredible changes will be covered in more detail in the next section of this book dealing with “The Liturgical Revolution.”  What <em>Sacrosanctum Concilium</em> started, Paul VI finished by suppressing the traditional Latin Mass and replacing it with an invalid Protestant service that is referred to as the New Mass or <em>the Novus Ordo Missae</em> (the New Order of the Mass).  The “New Mass” alone has been responsible for the departure of millions from the Catholic Church.</p>
 <p align="center"><img decoding="async" src="https://www.mostholyfamilymonastery.com/images/new-mass-chicken-roast-beef.jpg" alt="New Mass Chicken Roast Beef Liturgical Abuse Sacrosanctum Concilium" /></p>
@@ -33,9 +42,7 @@ draft: false
 <p><em>Sacrosanctum Concilium #128: </em>“<span style="text-decoration: underline;">The ecclesiastical canons and statutes which deal with the provision of visible things for worship are to be revised <strong>AS SOON AS POSSIBLE</strong></span>…”<a id="_ednref129" title="" href="#_edn129" name="_ednref129">[129]</a></p>
 </blockquote>
 <p>Yes, the Devil could not wait to destroy the precious liturgical heritage of the Catholic Church by means of the heretics at Vatican II.  His goal was to leave as little of Tradition remaining as he could.  And, as we will continue to document, that’s exactly what he did.</p>
-
-<p align="center"><img decoding="async" src="/images/new-mass-luchador-mask-fray-tormenta.jpg" alt="Sacrosanctum Concilium New Mass Luchador Mask Tormenta" width="70%" /></p>
-
+<p align="center"><img decoding="async" src="https://vaticancatholic.com/images/new-mass-luchador-mask-fray-tormenta.jpg" alt="Sacrosanctum Concilium New Mass Luchador Mask Tormenta" width="70%" /></p>
 <p align="center">Another post-Vatican II “Mass”</p>
 <p>In <em>Sacrosanctum Concilium</em> #37 and #40.1, the Council falls into heresy against the teaching of Pope Pius X in <em>Pascendi</em> on Modernist Worship.</p>
 
@@ -60,9 +67,7 @@ draft: false
 <p><em>Sacrosanctum Concilium</em> # 34: “<span style="text-decoration: underline;">The rites should radiate a rich simplicity</span>; they should be brief and lucid, avoiding pointless repetitions; they should be intelligible for the people, and should not in general require much explanation.”<a id="_ednref133" title="" href="#_edn133" name="_ednref133">[133]</a></p>
 <p><em>Sacrosanctum Concilium</em> # 50: “<span style="text-decoration: underline;">Therefore the rites</span>, in a way that carefully preserves what really matters, <span style="text-decoration: underline;">should become simpler</span>.  Duplications which have come in over the course of time should be discontinued, as should the less useful accretions.”<a id="_ednref134" title="" href="#_edn134" name="_ednref134">[134]</a></p>
 </blockquote>
-
-<p align="center"><img decoding="async" src="/images/new-mass-camping-tent.jpg" alt="New Mass Camping Tent" width="70%" /></p>
-
+<p align="center"><img decoding="async" src="https://vaticancatholic.com/images/new-mass-camping-tent.jpg" alt="New Mass Camping Tent" width="70%" /></p>
 <p align="center">We can see just how “simple” they have become</p>
 <p>Pope Pius VI explicitly condemned the idea that the traditional liturgical rites of the Church should be simplified in his dogmatic Constitution <em>Auctorem fidei</em>!</p>
 
@@ -102,8 +107,15 @@ draft: false
 <p>Pope Paul III, <em>Council of Trent</em>, Session 7, Can. 13, <em>ex cathedra</em>: “<strong>If anyone shall say that the received and approved rites of the Catholic Church</strong> accustomed to be used in the solemn administration of the sacraments <strong>may be disdained or omitted by the minister without sin</strong> and at pleasure, <strong><span style="text-decoration: underline;">or may be changed by any pastor of the churches to other new ones:</span></strong><span style="text-decoration: underline;"> <strong>let him be anathema</strong></span><strong>.”<a id="_ednref143" title="" href="#_edn143" name="_ednref143"><strong>[143]</strong></a></strong></p>
 </blockquote>
 <p>There are other heresies in the documents of Vatican II.  However, what has been covered should be enough to convince anyone of good will that no Catholic can accept this heretical council without denying the Faith.  And it is not sufficient merely to resist the heresies of Vatican II; <strong>one must entirely condemn this non-Catholic council and all who would obstinately adhere to its teachings.</strong>  For if a person rejects the heresies of Vatican II, yet still considers himself in communion with those who accept the heresies of Vatican II, then such a person is still actually in communion with heretics and is therefore a heretic.</p>
+<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
+<p></p>
 <div class="footnotes">
+<p></p>
+
+
+<hr align="left" size="1" width="33%" />
+
 <div id="edn116">
 <p><a id="_edn116" title="" href="#_ednref116" name="_edn116">[116]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 833.</p>
 
@@ -215,5 +227,4 @@ draft: false
 <div id="edn143">
 <p><a id="_edn143" title="" href="#_ednref143" name="_edn143">[143]</a> Denzinger 856.</p>
 
-</div>
 </div>

@@ -5,9 +5,12 @@ draft: false
 tags: []
 ---
 
+By Brother Peter Dimond, O.S.B.
+
+Source: [endtimes.video](https://endtimes.video/vatican-ii-new-religion/)
+
 {{< youtube IX97Qg4DIJU >}}
 
-By Brother Peter Dimond, O.S.B.
 
 <p>There are many heresies in Vatican II.  This article will focus on one that’s very widespread and quite visible in the Vatican II Sect.  (The video linked above contains abundant visual evidence for these points).  As our material proves, the Vatican II Sect is not the Catholic Church but the prophesied end-times Counter Church.  In number 8 of Vatican II’s decree on ecumenism, we read:</p>
 <blockquote>

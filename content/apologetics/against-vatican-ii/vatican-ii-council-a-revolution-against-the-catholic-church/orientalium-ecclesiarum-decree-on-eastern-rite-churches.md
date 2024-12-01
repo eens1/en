@@ -1,13 +1,24 @@
 ---
-title: "Orientalium ecclesiarum – Vatican II’s Decree on Eastern Catholic Churches"
-date: 2024-09-06T20:02:15+02:00
-draft: false
+title: "Orientalium Ecclesiarum – Decree on Eastern Rite Churches"
+date: "2024-12-01T19:21:02"
+draft: "false"
+description: "Go back to The Vatican II Revolution 2.  Orientalium ecclesiarum – Vatican II’s Decree on Eastern Catholic Churches The Vatican II Decree Orientalium ecclesiarum deals with eastern Catholic churches.  It also deals with the Eastern Schismatic [...]"
+tags: []
+external_url: "https://vaticancatholic.com/orientalium-ecclesiarum"
+locale: "en_US"
+type: "article"
+image: "https://vaticancatholic.com/images/orientalium-ecclesiarum.jpg"
+image:width: "729"
+image:height: "518"
+image:type: "image/jpeg"
 ---
 
+Source: [vaticancatholic.com](https://vaticancatholic.com/orientalium-ecclesiarum)
 
+<h2><strong>2.  <em>Orientalium ecclesiarum</em> – Vatican II’s Decree on Eastern Catholic Churches</strong><strong>
+</strong></h2>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/1Jj7tuRDzRY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<p>The Vatican II Decree <em>Orientalium ecclesiarum</em> deals with eastern Catholic churches.  It also deals with the Eastern Schismatic sects, the so-called “Orthodox” non-Catholic churches.  In dealing with the so-called Orthodox in # 27 of this decree, Vatican II provides us with one of its most significant heresies.</p>
+The Vatican II Decree <em>Orientalium ecclesiarum</em> deals with eastern Catholic churches.  It also deals with the Eastern Schismatic sects, the so-called “Orthodox” non-Catholic churches.  In dealing with the so-called Orthodox in # 27 of this decree, Vatican II provides us with one of its most significant heresies.</p>
 
 <blockquote>
 <p><span style="font-size: 14pt;">Vatican II document,<em> Orientalium Ecclesiarum</em> # 27: “Given the above-mentioned principles, <span style="text-decoration: underline;">the sacraments of Penance, Holy Eucharist, and the anointing of the sick may be conferred on eastern Christians who in good faith are separated from the Catholic Church</span>, if they make the request of their own accord and are properly disposed.”<a id="_ednref34" title="" href="#_edn34" name="_ednref34">[34]</a></span></p>
@@ -54,8 +65,14 @@ draft: false
 <blockquote>
 <p>Vatican II document,<em> Orientalium Ecclesiarum</em> # 28: “With the same principles in mind, <span style="text-decoration: underline;">sharing in sacred functions and things and places is allowed among Catholics and their separated eastern brothers and sisters</span>...”<a id="_ednref44" title="" href="#_edn44" name="_ednref44">[44]</a></p>
 </blockquote>
+<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
+<p></p>
 <div class="footnotes">
+
+
+<hr align="left" size="1" width="33%" />
+
 <div id="edn34">
 <p><a id="_edn34" title="" href="#_ednref34" name="_edn34">[34]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 907.</p>
 
@@ -99,5 +116,4 @@ draft: false
 <div id="edn44">
 <p><a id="_edn44" title="" href="#_ednref44" name="_edn44">[44]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 907.</p>
 
-</div>
 </div>

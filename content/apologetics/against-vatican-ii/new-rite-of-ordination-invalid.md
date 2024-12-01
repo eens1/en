@@ -4,14 +4,10 @@ date: 2024-09-06T20:02:15+02:00
 draft: false
 ---
 
-
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/new-rite-of-ordination-invalid/)
 
-<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/WWo-7uVR8yI" allowfullscreen="allowfullscreen" width="640" height="480" frameborder="0"></iframe></p>
-<p style="text-align: center;"><a href="http://www.youtube.com/watch?v=m7PS5UoT9NU" target="_blank" rel="noopener"><b>VIDEO: More Information on the New Rite of Ordination</b></a> - <b> </b>[17 min.]</p>
-<p style="text-align: center;"><iframe src="//www.youtube.com/embed/m7PS5UoT9NU?rel=0" allowfullscreen="allowfullscreen" width="640" height="480" frameborder="0"></iframe></p>
 <blockquote>
 <p>Michael Davies: “… <strong><span style="text-decoration: underline;">every prayer in the traditional rite [of Ordination] which stated specifically the essential role of a priest as a man ordained to offer propitiatory sacrifice for the living and dead has been removed [from the New Rite of Paul VI]</span>. In most cases <span style="text-decoration: underline;">these were the precise prayers removed by the Protestant reformers</span>, </strong>or if not precisely the same there are clear parallels.”<a href="#_edn1" name="_ednref1">[1]</a></p>
 </blockquote>

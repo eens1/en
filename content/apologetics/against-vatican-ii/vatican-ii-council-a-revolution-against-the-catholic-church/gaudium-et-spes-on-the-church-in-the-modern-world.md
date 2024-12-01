@@ -1,10 +1,21 @@
 ---
-title: "Gaudium et Spes – Vatican II’s Constitution on the Church in the Modern World"
-date: 2024-09-06T20:02:15+02:00
-draft: false
+title: "Gaudium et Spes – On the Church in the Modern World"
+date: "2024-12-01T19:25:10"
+draft: "false"
+description: "Go back to The Vatican II Revolution 7.  Gaudium et Spes – Vatican II’s Constitution on the Church in the Modern World Vatican II document, Gaudium et Spes # 22: “For by His incarnation the Son [...]"
+tags: []
+external_url: "https://vaticancatholic.com/gaudium-et-spes"
+locale: "en_US"
+type: "article"
+image: "https://vaticancatholic.com/images/gaudium-et-spes.jpg"
+image:width: "500"
+image:height: "281"
+image:type: "image/jpeg"
 ---
 
+Source: [vaticancatholic.com](https://vaticancatholic.com/gaudium-et-spes)
 
+<h2><strong>7.<em>  Gaudium et Spes</em></strong> – Vatican II’s Constitution on the Church in the Modern World</h2>
 <blockquote>
 <p>Vatican II document,<em> Gaudium et Spes</em> # 22: “<span style="text-decoration: underline;">For by His incarnation the Son of God united Himself in some way with every human being</span>.  He labored with human hands, thought with a human mind, acted with a human will, and loved with a human heart.”<a id="_ednref105" title="" href="#_edn105" name="_ednref105">[105]</a></p>
 </blockquote>
@@ -45,8 +56,14 @@ draft: false
 <p>This is blasphemy.  If all things on earth should be related to man as their center and crown, this means that everything should be measured by man’s law, not God’s.  This means that for all intents and purposes man is actually God – everything is to be related to him.  Man has been put in the place of God.</p>
 
 <h6></h6>
+<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
+<p></p>
 <div class="footnotes">
+
+
+<hr align="left" size="1" width="33%" />
+
 <div id="edn105">
 <p><a id="_edn105" title="" href="#_ednref105" name="_edn105">[105]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 1082.</p>
 
@@ -90,5 +107,4 @@ draft: false
 <div id="edn115">
 <p><a id="_edn115" title="" href="#_ednref115" name="_edn115">[115]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 1075.</p>
 
-</div>
 </div>

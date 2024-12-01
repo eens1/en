@@ -13,6 +13,8 @@ image:height: "281"
 image:type: "image/jpeg"
 ---
 
+Source: [vaticancatholic.com](https://vaticancatholic.com/great-western-schism/)
+
 <h2 align="center"><span><a href="https://www.mostholyfamilymonastery.com/5_GWS.pdf" target="_blank" rel="noopener">The Great Western Schism (1378-1417) and what it teaches us about the post-Vatican II apostasy</a></span> [PDF]</h2>
 
 <p align="center"><em>-Massive confusion, multiple antipopes, antipopes in Rome, an antipope recognized by all the cardinals; The Great Western Schism proves that a line of antipopes at the heart of the post-Vatican II crisis is absolutely possible-</em></p>

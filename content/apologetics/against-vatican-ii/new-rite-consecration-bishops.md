@@ -4,15 +4,12 @@ date: 2024-09-06T20:02:15+02:00
 draft: false
 ---
 
-
 By Brother Michael Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/new-rite-consecration-bishops/)
 
-<p style="text-align: center;"><iframe src="//www.youtube.com/embed/WWo-7uVR8yI?rel=0" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p style="text-align: center;"><a href="http://www.youtube.com/watch?v=m7PS5UoT9NU" target="_blank" rel="noopener"><b>VIDEO: More Information on the New Rite of Ordination</b></a> - <b> </b>[17 min.]</p>
-<p style="text-align: center;"><iframe src="//www.youtube.com/embed/m7PS5UoT9NU?rel=0" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Paul VI also changed the rite for consecrating bishops.  This is very significant because groups such as the Fraternity of St. Peter and the Institute of Christ the King (indult groups who offer the traditional Latin Mass) ordain their men in the Traditional Rite of Ordination, <span style="text-decoration: underline;">but have the</span> <span style="text-decoration: underline;">ordinations done by “bishops” who were made “bishops” in the New Rite of Episcopal</span> <span style="text-decoration: underline;">Consecration</span>.</p>
+
 <p>This issue is also significant because Benedict XVI, the man who currently purports to be the Bishop of Rome, was “consecrated” in this New Rite of Episcopal Consecration on May 28, 1977.<a id="_ednref1" title="" href="#_edn1" name="_ednref1">[1]</a> If he is not a validly consecrated bishop, he cannot be the Bishop of Rome.</p>
 <p>In <em>Sacramentum Ordinis</em>, Nov. 30, 1947, Pope Pius XII declared what is the essential form for the Consecration of Bishops:</p>
 

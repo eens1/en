@@ -1,174 +1,21 @@
-<!DOCTYPE html>
-<html>
+---
+title: "Unitatis Redintegratio – Decree on Ecumenism"
+date: "2024-12-01T19:18:58"
+draft: "false"
+description: "Go back to The Vatican II Revolution 1.  Unitatis Redintegratio – Vatican II’s Decree on Ecumenism. Vatican II document, Unitatis Redintegratio # 1: “Yet almost all, though in different ways, long for the one visible Church [...]"
+tags: []
+external_url: "https://vaticancatholic.com/unitatis-redintegratio"
+locale: "en_US"
+type: "article"
+image: "https://vaticancatholic.com/images/unitatis-redintegratio.jpg"
+image:width: "620"
+image:height: "349"
+image:type: "image/jpeg"
+---
 
-<head>
+Source: [vaticancatholic.com](https://vaticancatholic.com/unitatis-redintegratio)
 
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Extra Ecclesiam Nulla Salus</title>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="https://eens-en.netlify.app/apologetics/against-vatican-ii/vatican-ii-council-a-revolution-against-the-catholic-church/unitatis-redintegratio-ecumenism/" />
-
-
-
-<link rel="stylesheet" href="/css/style.css">
-
-
-
-
-  
-    <link rel="stylesheet" href="/css/form.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/header.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/index.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/pagination.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/postnav.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/share.css">
-  
-
-  
-    <link rel="stylesheet" href="/css/style.css">
-  
-
-
-
-
-
-  <script src="/js/header.js" defer></script>
-
-  <script src="/js/search.js" defer></script>
-
-
-
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<meta name="twitter:card" content="https://eens-en.netlify.app/" />
-<meta name="twitter:site" content="@BroMatthewCap" />
-<meta name="twitter:creator" content="@BroMatthewCap" />
-<meta name="twitter:title" content="Unitatis Redintegratio – Vatican II’s Decree on Ecumenism" />
-<meta name="twitter:description" content="Vatican II document, Unitatis Redintegratio # 1: “Yet almost all, though in different ways, long for the one visible Church of God, that truly universal Church whose mission is to convert the whole world to the gospel, so that the world may be saved, to the glory of God.”[6]
-At the very beginning of its Decree on Ecumenism, Vatican II teaches that almost everyone longs for a truly universal Church, whose mission is to convert the world to the Gospel." />
-<meta name="twitter:image" content="https://eens-en.netlify.app/" />
-
-
-</head>
-
-<body>
-
-<header>
-<header>
-<div class="container">
-<div class="header-content">
-<div class="site-title">
-  <a href="/">
-     <img src="/images/tau.png">
-     <span>Extra Ecclesiam Nulla Salus</span>
-  </a>
-</div>
-<nav>
-  <div class="hamburger">
-    <span></span>
-    <span></span>
-    <span></span>
-  </div>
-  <ul class="nav-menu">
-    
-      <li>
-        <a href="/" >Home</a>
-      </li>
-    
-      <li>
-        <a href="/contact" >Contact</a>
-      </li>
-    
-      <li>
-        <a href="/about" >About</a>
-      </li>
-    
-      <li>
-        <a href="https://eens-fr.netlify.app" >Français</a>
-      </li>
-    
-      <li>
-        <a href="https://eens-it.netlify.app" >Italiano</a>
-      </li>
-    
-      <li>
-        <a href="https://www.youtube.com/@bro_matthieu" target="_blank"><i class='fab fa-youtube'></i> </a>
-      </li>
-    
-      <li>
-        <a href="https://x.com/BroMatthewOFMC" target="_blank"><i class="fab fa-x-twitter"></i></a>
-      </li>
-    
-  </ul>
-</nav>
-</div>
-</div>
-</header>
-
-</header>
-
-<main>
-
-
-
-<div class="content">
-<nav class="breadcrumb-nav">
-  
-  
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-    <a href="/" class="breadcrumb-item"></a>
-  
-     / 
-    <a href="/apologetics/" class="breadcrumb-item">Apologetics</a>
-  
-     / 
-    <a href="/apologetics/against-vatican-ii/" class="breadcrumb-item">Against the Vatican II Sect</a>
-  
-     / 
-    <a href="/apologetics/against-vatican-ii/vatican-ii-council-a-revolution-against-the-catholic-church/" class="breadcrumb-item">Vatican II Council - A Revolution Against The Catholic Church</a>
-  
-</nav>
-
-<h1>Unitatis Redintegratio – Vatican II’s Decree on Ecumenism</h1>
-
-<div class="share">
-
-<a href="http://twitter.com/share?url=https%2f%2feens-en.netlify.app%2fapologetics%2fagainst-vatican-ii%2fvatican-ii-council-a-revolution-against-the-catholic-church%2funitatis-redintegratio-ecumenism%2f" class="twitter" aria-label="Share on Twitter">Share on <i class="fab fa-x-twitter"></i></a>
-
-</div>
-
-
-<article>
+<h2><strong>1.&nbsp;<em> Unitatis Redintegratio</em></strong><strong> – Vatican II’s Decree on Ecumenism.</strong></h2>
 <blockquote>
 <p>Vatican II document,<em> Unitatis Redintegratio</em> # 1: “Yet almost all, though in different ways, <span style="text-decoration: underline;">long for</span> the one visible Church of God, <span style="text-decoration: underline;">that truly universal Church</span> whose mission is to convert the whole world to the gospel, so that the world may be saved, to the glory of God.”<a id="_ednref6" title="" href="#_edn6" name="_ednref6">[6]</a></p>
 </blockquote>
@@ -276,7 +123,9 @@ At the very beginning of its Decree on Ecumenism, Vatican II teaches that almost
 <blockquote>
 <p>Pope Pius XI, <em>Mortalium Animos</em> (# 7), Jan. 6, 1928, speaking of heretics: “Meanwhile they affirm that they would willingly <strong><span style="text-decoration: underline;">treat </span></strong>with the Church of Rome, <strong><span style="text-decoration: underline;">but on equal terms, that is as equals with an equal</span></strong><span style="text-decoration: underline;">.</span>..”<a id="_ednref33" title="" href="#_edn33" name="_ednref33">[33]</a></p>
 </blockquote>
-<div class=footnotes>
+<pstyle="text-align: center;">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
+<hr width="33%" size="1" align="left">
+<div class="footnotes">
 <div id="edn6">
 <p><a id="_edn6" title="" href="#_ednref6" name="_edn6">[6]</a> <em>Decrees of the Ecumenical Councils</em>, 1990, Vol. 2, p. 908.</p>
 </div>
@@ -362,37 +211,4 @@ At the very beginning of its Decree on Ecumenism, Vatican II teaches that almost
 <p><a id="_edn33" title="" href="#_ednref33" name="_edn33">[33]</a> <em>The Papal Encyclicals</em>, Vol. 3 (1903-1939), p. 315.</p>
 </div>
 </div>
-</div>
 
-</article>
-
-<footer>
-<p>
-References in footnotes are generally given in condensed form. Complete references can be found <a href='/references'>HERE</a>.
-</p>
-
-</footer>
-
-</div>
-
-
-
-<footer>
-</footer>
-
-</main>
-
-<script>
-if (window.netlifyIdentity) {
-window.netlifyIdentity.on("init", (user) => {
-if (!user) {
-window.netlifyIdentity.on("login", () => {
-document.location.href = "/admin/";
-});
-}
-});
-}
-</script>
-
-</body>
-</html>

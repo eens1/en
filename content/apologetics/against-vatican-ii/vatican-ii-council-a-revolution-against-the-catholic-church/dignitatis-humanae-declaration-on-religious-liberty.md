@@ -1,12 +1,22 @@
 ---
-title: "Dignitatis Humanae – Vatican II’s Declaration on Religious liberty"
-date: 2024-09-06T20:02:15+02:00
-draft: false
+title: "Dignitatis Humanae – Declaration on Religious liberty"
+date: "2024-12-01T19:21:53"
+draft: "false"
+description: "Go back to The Vatican II Revolution 4.  Dignitatis Humanae – Vatican II’s Declaration on Religious liberty Vatican II’s Declaration on Religious Liberty was without question the most notorious of all the documents of Vatican [...]"
+tags: []
+external_url: "https://vaticancatholic.com/dignitatis-humanae"
+locale: "en_US"
+type: "article"
+image: "https://vaticancatholic.com/images/dignitates-humanae.jpg"
+image:width: "758"
+image:height: "439"
+image:type: "image/jpeg"
 ---
 
+Source: [vaticancatholic.com](https://vaticancatholic.com/dignitatis-humanae)
 
+<h2><strong>4.  <em>Dignitatis Humanae</em></strong> – <strong>Vatican</strong><strong> II’s Declaration on Religious liberty</strong></h2>
 <p>Vatican II’s <em>Declaration on Religious Liberty</em> was without question the most notorious of all the documents of Vatican II.  In order to understand why Vatican II’s teaching on religious liberty is heretical one must understand the Catholic Church’s infallible teaching on the issue.</p>
-
 <p>It’s a dogma of the Catholic Church that States have a right, and indeed a duty, to prevent the members of false religions from publicly propagating and practicing their false faiths.  States must do this to protect the common good – the good of souls – which is harmed by the public dissemination of evil.  This is why the Catholic Church has always taught that Catholicism should be the only religion of the State, and that the State should exclude and forbid the <em>public</em> profession and propagation of any other.</p>
 <p>We will now look at three propositions that were condemned by Pope Pius IX in his authoritative Syllabus of Errors.</p>
 
@@ -157,10 +167,14 @@ draft: false
 <p>Pope Leo XIII, <em>Immortale Dei </em>(# 34), Nov. 1, 1885: “<strong>Thus, Gregory XVI in his encyclical letter <em>Mirari Vos</em>, dated August 15, 1832, inveighed with weighty words against the <span style="text-decoration: underline;">sophisms which even at his time were being publicly inculcated</span></strong><span style="text-decoration: underline;"> – <strong>namely</strong>, <strong>that no preference should be shown for any particular form of worship</strong></span>; that it is right for individuals to form their own personal judgments about religion; that each man’s conscience is his sole and all-sufficing guide; and <strong><span style="text-decoration: underline;">that it is lawful for every man to publish his own views, whatever they may be</span></strong>, and even to conspire against the state.”<a id="_ednref89" title="" href="#_edn89" name="_ednref89">[89]</a></p>
 </blockquote>
 <p>All of this Catholic teaching directly contradicts the heretical teaching of Vatican II.</p>
+<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-
-
+<p></p>
 <div class="footnotes">
+
+
+<hr align="left" size="1" width="33%" />
+
 <div>
 <p id="edn62"></p>
 <p><a id="_edn62" title="" href="#_ednref62" name="_edn62">[62]</a> Denzinger 1777.</p>
@@ -300,5 +314,4 @@ draft: false
 <p id="edn89"></p>
 <p><a id="_edn89" title="" href="#_ednref89" name="_edn89">[89]</a> <em>The Papal Encyclicals</em>, Vol. 2 (1878-1903), p. 114.</p>
 
-</div>
 </div>
