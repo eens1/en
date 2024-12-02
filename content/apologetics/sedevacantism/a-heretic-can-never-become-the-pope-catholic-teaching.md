@@ -75,9 +75,8 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/heretic-cannot-be-pope
 <p>Pope Pius IX, <em>Quartus Supra</em> (# 9), January 6, 1873:</p>
 <p>“For this reason John, Bishop of Constantinople, <strong>solemnly declared – and the entire Eighth Ecumenical Council did so later – ‘that the names of those who were separated from communion with the Catholic Church, that is of those who did not agree in all matters with the Apostolic See, are not to be read out during the sacred mysteries.’”</strong><a href="#_edn11" name="_ednref11">[11]</a></p>
 </blockquote>
-<div class="content-notes"><strong>Endnotes:</strong>
+<div class="footnotes">
 
-<hr width="33%" size="1" align="left">
 <div><p><a href="#_ednref1" name="_edn1">[1]</a> <em>The Catholic Encyclopedia</em>, “Heresy,” New York: Robert Appleton Co., 1914, Vol. 7, p. 261.</p></div>
 <div><p><a href="#_ednref2" name="_edn2">[2]</a> <em>Decrees of the Ecumenical Councils</em>, Sheed &amp; Ward and Georgetown University Press, 1990, Vol. 1, p. 578; Denzinger, <em>The Sources of Catholic Dogma</em>, B. Herder Book. Co., Thirtieth Edition, 1957, no. 714.</p></div>
 <div><p><a href="#_ednref3" name="_edn3">[3]</a> <em>The Papal Encyclicals</em>, by Claudia Carlen, Raleigh: The Pierian Press, 1990, Vol. 4 (1939-1958), p. 41.</p></div>

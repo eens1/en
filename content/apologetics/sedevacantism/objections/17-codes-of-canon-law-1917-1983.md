@@ -20,7 +20,6 @@ draft: false
 </blockquote>
 <p>This is probably why Ferrara provides no citation to the 1917 Code in his footnote; he only provides a reference to the 1983 code.  Thus, we are dealing with <u>another blatant falsehood from Ferrara</u>.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Chris Ferrara,”A Challenge to the Sedevacantist Enterprise, Part II,” <em>The Remnan</em>t, Sept. 30, 2005, p. 18.</p>
 </div>

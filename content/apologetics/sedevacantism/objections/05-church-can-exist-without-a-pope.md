@@ -24,7 +24,6 @@ draft: false
 <p>Prophecy of St. Nicholas of Fluh (1417-1487): “The Church will be punished because the majority of her members, high and low, will become so perverted.  <strong>The Church will sink deeper and deeper until she will at last seem to be extinguished, and the succession of Peter and the other Apostles to have expired</strong>.  But, after this, she will be victoriously exalted in the sight of all doubters.” <a href="#_edn4" name="_ednref4">[4]</a></p>
 </blockquote>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Denzinger 51-52e; Warren H. Carroll, <em>A History of Christendom</em>, Vol. 1 (<em>The Founding of Christendom</em>), p. 494; J.N.D. Kelly, <em>Oxford</em><em> Dictionary of Popes</em>, Oxford University Press, 2005, p. 25.</p>
 </div>

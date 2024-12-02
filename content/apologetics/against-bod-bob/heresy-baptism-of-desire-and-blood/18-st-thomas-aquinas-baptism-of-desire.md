@@ -48,7 +48,7 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/st-thomas-aquinas-bapt
 <p>Pope Paul III, <em>The Council of Trent</em>, Can. 2 on <u>the Sacrament</u> of Baptism, Session 7, 1547, <em>ex cathedra</em>:  “<strong>If anyone shall say that real and natural water is not necessary for baptism, </strong>and on that account those words of Our Lord Jesus Christ: ‘Unless a man be born again of water and the Holy Spirit’ [John 3:5], <strong>are distorted into some sort of metaphor: let him be anathema</strong>.”<a href="#_edn14" name="_ednref14">[14]</a></p>
 </blockquote>
 <div class="footnotes">
-<div class="content-notes">
+<div class="footnotes">
 <p><a href="#_ednref1" name="_edn1">[1]</a> St. Thomas Aquinas, <em>Summa Theologica</em>, Pt. III, Q. 14, Art. 3, Reply to Obj. 1.</p>
 <p><a href="#_ednref2" name="_edn2">[2]</a> Michael Malone, <em>The Only-Begotten</em>, p. 395.</p>
 <p><a href="#_ednref3" name="_edn3">[3]</a> Michael Malone, <em>The Only-Begotten</em>, p. 70.</p>

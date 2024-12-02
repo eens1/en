@@ -21,7 +21,6 @@ draft: false
 <p>Pope Pius VI, <em>Charitas </em>(# 14), April 13, 1791:<br /><span style="font-size: inherit;">“Perhaps in appreciation of these actions, the bishop of Lidda, Jean Joseph Gobel, was elected Archbishop of Paris, while the archbishop was still living.  </span><strong style="font-size: inherit;">He is following the example of Ischyras, who was proclaimed bishop of Alexandria at the Council of Tyre as payment for his sinful service in accusing St. Athanasius and ejecting him from his See.”<a href="#_edn4" name="_ednref4">[4]</a></strong></p>
 </blockquote>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>The Papal Encyclicals</em>, Vol. 1 (1740-1878), p. 417.</p>
 </div>

@@ -82,7 +82,6 @@ draft: false
 <p>Or are the real deniers of the Papacy and Vatican I those who profess union with a man who clearly doesn’t even believe in Vatican I; a man who doesn’t even believe that the Papacy and Vatican I are binding on all Christians; a man who doesn’t even believe that the Papacy was held in the first millennium?</p>
 <p>The answer is obvious to any sincere and honest person who considers these facts.  It is Antipope Benedict XVI, and all who obstinately insist on union with him, who deny the Papacy; it is the sedevacantists who are faithful to the Papacy.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Chris Ferrara, “Opposing the Sedevacantist Enterprise,” <em>Catholic Family News</em>, Niagra Falls, NY, August 2005, p. 19</p>
 </div>

@@ -9,8 +9,8 @@ By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/faith-alone-refuted-by-the-bible/)
 
-<p><a href="https://vaticancatholic.com/justification-bible-faith-alone-refuted/" target="_blank" rel="noopener"><b>Must-See Documentary: Protestantism’s Big Justification Lie</b></a> (video)</p>
-<p><iframe src="https://www.youtube.com/embed/L14UNjaZJm8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />The overwhelming majority of Protestants believe that the Bible teaches that people are justified (put into a state in which they will be saved) by <em>faith alone in Jesus </em>– i.e., apart from a consideration of their actions, deeds or sins.  Most of them also believe in “once saved always saved” or eternal security: that a man who believes in Jesus cannot lose his eternal salvation.  These ideas are false and completely contrary to the teaching of the Bible.  Let’s look at the proof.  After that, I will respond to objections.</p>
+The overwhelming majority of Protestants believe that the Bible teaches that people are justified (put into a state in which they will be saved) by <em>faith alone in Jesus </em>– i.e., apart from a consideration of their actions, deeds or sins.  Most of them also believe in “once saved always saved” or eternal security: that a man who believes in Jesus cannot lose his eternal salvation.  These ideas are false and completely contrary to the teaching of the Bible.  Let’s look at the proof.  After that, I will respond to objections.</p>
+
 <p>Almost all of the quotations in this section come from the 1611 King James Version of the Bible, a famous Protestant translation.</p>
 <p align="center">JESUS SAYS THAT MEN MUST RADICALLY CUT OFF OCCASIONS OF SIN TO AVOID HELL, NOT JUST BELIEVE</p>
 <p>In Matthew chapter 5, we find the parable about cutting off one’s hand or eye to avoid Hell.</p>

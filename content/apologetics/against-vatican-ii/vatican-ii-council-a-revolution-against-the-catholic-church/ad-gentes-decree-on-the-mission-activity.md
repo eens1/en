@@ -2,7 +2,7 @@
 title: "Ad Gentes – Decree on the Mission Activity"
 date: "2024-12-01T19:22:20"
 draft: "false"
-description: "Go back to The Vatican II Revolution 5.  Ad Gentes – Vatican II’s Decree on Missionary Activity Not surprisingly, we also find heresy in Vatican II’s Decree on Missionary Activity. Vatican II document, Ad Gentes # [...]"
+description: "5.  Ad Gentes – Vatican II’s Decree on Missionary Activity Not surprisingly, we also find heresy in Vatican II’s Decree on Missionary Activity. Vatican II document, Ad Gentes # [...]"
 tags: []
 external_url: "https://vaticancatholic.com/ad-gentes"
 locale: "en_US"
@@ -33,13 +33,8 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/ad-gentes)
 <blockquote>
 <p>Pope Leo X, <em>Fifth Lateran Council</em>, Session 8, Dec. 19, 1513: “And since truth cannot contradict truth, we define that every statement contrary to the enlightened truth of the faith is totally false and we strictly forbid teaching otherwise to be permitted.  <strong>We decree that all those who cling to erroneous statements of this kind, thus sowing heresies which are wholly condemned, should be avoided in every way and punished as detestable and odious heretics and infidels who are undermining the Catholic faith.”<a id="_ednref94" title="" href="#_edn94" name="_ednref94"><strong>[94]</strong></a></strong></p>
 </blockquote>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-<p></p>
 <div class="footnotes">
-
-
-<hr align="left" size="1" width="33%" />
 
 <div id="edn90">
 <p><a id="_edn90" title="" href="#_ednref90" name="_edn90">[90]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 1015.</p>

@@ -25,7 +25,6 @@ draft: false
 <p><span style="font-size: inherit;">Pope Gregory XVI, </span><em style="font-size: inherit;">Mirari Vos</em><span style="font-size: inherit;"> (# 7), Aug. 15, 1832: “… nothing of the things appointed ought to be diminished; nothing changed; nothing added; </span><strong style="font-size: inherit;">but they must be preserved both as regards expression and meaning</strong><span style="font-size: inherit;">.”</span><a style="font-size: inherit;" href="#_edn5" name="_ednref5">[5]</a></p>
 </blockquote>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>The Papal Encyclicals</em>, by Claudia Carlen, Raleigh: The Pierian Press, 1990, Vol. 2 (1878-1903), p. 393.</p>
 </div>

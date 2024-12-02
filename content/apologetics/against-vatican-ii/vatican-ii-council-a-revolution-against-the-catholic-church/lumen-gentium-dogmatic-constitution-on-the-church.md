@@ -2,7 +2,7 @@
 title: "Lumen Gentium – ‘Dogmatic’ Constitution on the Church"
 date: "2024-12-01T19:21:25"
 draft: "false"
-description: "Go back to The Vatican II Revolution 3.  Lumen Gentium – Vatican II’s Constitution on the Church Lumen Gentium, Vatican II’s constitution on the Church, became famous (or rather, notorious) for its heretical teaching of [...]"
+description: "3.  Lumen Gentium – Vatican II’s Constitution on the Church Lumen Gentium, Vatican II’s constitution on the Church, became famous (or rather, notorious) for its heretical teaching of [...]"
 tags: []
 external_url: "https://vaticancatholic.com/lumen-gentium"
 locale: "en_US"
@@ -72,11 +72,9 @@ Vatican II also teaches that heretics honor Holy Scripture with a true religious
 <blockquote>Vatican II document,<em> Lumen Gentium</em> # 15, speaking of non-Catholics: “<span style="text-decoration: underline;">For there are many who hold the sacred scripture in honor as the norm for believing and living, displaying a sincere religious zeal</span>… They are marked in baptism… and indeed there are other sacraments that they recognize and accept in their own Churches or ecclesiastical communities.”<a id="_ednref60" title="" href="#_edn60" name="_ednref60">[60]</a></blockquote>
 The Catholic Church teaches that heretics repudiate the traditional Word of God.
 <blockquote>Pope Gregory XVI, <em>Inter Praecipuas</em> (# 2), May 8, 1844: “Indeed, you are aware that from the first ages called Christian, it has <strong>been the peculiar artifice of heretics that, repudiating the traditional Word of God</strong>, and rejecting the authority of the Catholic Church, they either falsify the Scriptures at hand, or alter the explanation of the meaning.<strong>”<a id="_ednref61" title="" href="#_edn61" name="_ednref61"><strong>[61]</strong></a></strong></blockquote>
-<pstyle="text-align: center;">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
 
 <div class="footnotes">
-<hr align="left" size="1" width="33%" />
 
 <div>
 

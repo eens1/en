@@ -137,7 +137,6 @@ draft: false
 </blockquote>
 <p>It seems that Ferrara and Matt have some talking to do.  And really, the case of John Kerry proves the point, for if you cannot say that Benedict XVI, who takes active part in Jewish worship, doesn’t believe that Jesus is necessarily the Messiah and Son of God, teaches that we shouldn’t convert Protestants, was initiated into Islam, etc. can’t be considered a heretic – then you have no justification whatsoever to label John Kerry one.  In fact, the dogmas that Benedict XVI denies have been defined far more times than the dogma that Kerry denies.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Chris Ferrara, <em>Catholic Family News</em>, “Opposing the Sedevacantist Enterprise, Part II,” Oct. 2005, p. 8.</p>
 </div>

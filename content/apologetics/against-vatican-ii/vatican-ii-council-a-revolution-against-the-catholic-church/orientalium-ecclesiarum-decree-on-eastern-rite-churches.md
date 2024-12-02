@@ -2,7 +2,7 @@
 title: "Orientalium Ecclesiarum – Decree on Eastern Rite Churches"
 date: "2024-12-01T19:21:02"
 draft: "false"
-description: "Go back to The Vatican II Revolution 2.  Orientalium ecclesiarum – Vatican II’s Decree on Eastern Catholic Churches The Vatican II Decree Orientalium ecclesiarum deals with eastern Catholic churches.  It also deals with the Eastern Schismatic [...]"
+description: "2.  Orientalium ecclesiarum – Vatican II’s Decree on Eastern Catholic Churches The Vatican II Decree Orientalium ecclesiarum deals with eastern Catholic churches.  It also deals with the Eastern Schismatic [...]"
 tags: []
 external_url: "https://vaticancatholic.com/orientalium-ecclesiarum"
 locale: "en_US"
@@ -65,13 +65,9 @@ The Vatican II Decree <em>Orientalium ecclesiarum</em> deals with eastern Cathol
 <blockquote>
 <p>Vatican II document,<em> Orientalium Ecclesiarum</em> # 28: “With the same principles in mind, <span style="text-decoration: underline;">sharing in sacred functions and things and places is allowed among Catholics and their separated eastern brothers and sisters</span>...”<a id="_ednref44" title="" href="#_edn44" name="_ednref44">[44]</a></p>
 </blockquote>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-<p></p>
 <div class="footnotes">
 
-
-<hr align="left" size="1" width="33%" />
 
 <div id="edn34">
 <p><a id="_edn34" title="" href="#_ednref34" name="_edn34">[34]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 907.</p>

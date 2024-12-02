@@ -2,7 +2,7 @@
 title: "Gaudium et Spes – On the Church in the Modern World"
 date: "2024-12-01T19:25:10"
 draft: "false"
-description: "Go back to The Vatican II Revolution 7.  Gaudium et Spes – Vatican II’s Constitution on the Church in the Modern World Vatican II document, Gaudium et Spes # 22: “For by His incarnation the Son [...]"
+description: "7.  Gaudium et Spes – Vatican II’s Constitution on the Church in the Modern World Vatican II document, Gaudium et Spes # 22: “For by His incarnation the Son [...]"
 tags: []
 external_url: "https://vaticancatholic.com/gaudium-et-spes"
 locale: "en_US"
@@ -55,14 +55,7 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/gaudium-et-spes)
 </blockquote>
 <p>This is blasphemy.  If all things on earth should be related to man as their center and crown, this means that everything should be measured by man’s law, not God’s.  This means that for all intents and purposes man is actually God – everything is to be related to him.  Man has been put in the place of God.</p>
 
-<h6></h6>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
-
-<p></p>
 <div class="footnotes">
-
-
-<hr align="left" size="1" width="33%" />
 
 <div id="edn105">
 <p><a id="_edn105" title="" href="#_ednref105" name="_edn105">[105]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 1082.</p>

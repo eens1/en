@@ -14,7 +14,6 @@ draft: false
 <p>But we’ve already had a situation where all of the cardinals recognized an antipope!  As covered earlier in the book, during the Great Western Schism <strong>15 of the 16 cardinals who had elected Pope Urban VI withdrew from his obedience <u>on the grounds that the unruly Roman mob had made the election uncanonical</u></strong>.  The one cardinal who did not repudiate Pope Urban VI was Cardinal Tebaldeschi, but he died shortly thereafter, on Sept. 7 – <strong><u>leaving a situation where not one of the cardinals of the Catholic Church recognized the true pope, Urban VI</u></strong>.  <strong>All of the living cardinals then regarded his election as invalid.<a href="#_edn1" name="_ednref1">[1]</a></strong></p>
 <p><span style="font-size: inherit;">In the 12</span><sup>th</sup><span style="font-size: inherit;"> century, Antipope Anacletus II – who reigned eight years in Rome while rivaling the true Pope, Innocent II – gained the majority of the cardinals, the Bishop of Porto, the Dean of the Sacred College, and the entire populace of Rome as his supporters.</span><a style="font-size: inherit;" href="#_edn2" name="_ednref2">[2]</a></p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Warren H. Carroll, <em>A History of Christendom</em>, Vol. 3 (<em>The Glory of Christendom</em>), pp. 432-434.</p>
 </div>

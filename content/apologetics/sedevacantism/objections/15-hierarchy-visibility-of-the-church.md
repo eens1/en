@@ -64,7 +64,6 @@ draft: false
 </blockquote>
 <p>The point is: while we are currently dealing with an unprecedented apostasy, the Church has seen confusing times before, including those in which the true hierarchy was not easily ascertainable.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 
 <p><a href="#_ednref2" name="_edn2">[1]</a> <em >The Douay-Rheims New Testament with a Catholic Commentary, </em><span ">by Rev. Leo Haydock, Monrovia, CA: Catholic Treasures, 1991, p. 1640.</span></p>

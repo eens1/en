@@ -123,7 +123,6 @@ draft: false
 </blockquote>
 <p>Thus, we have shown in great detail why it’s utterly false to assert that the Vatican II antipopes are merely “material heretics.”&nbsp; They cannot be material heretics because 1) they know very well of the dogmas which they deny; 2) they are bound to know the Catholic Faith as “bishops,” especially the dogmas which they deny; and 3) they lack and contradict the essential mysteries of Faith which one must hold to be a Catholic.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%">
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 1, p. 578.</p>
 </div>

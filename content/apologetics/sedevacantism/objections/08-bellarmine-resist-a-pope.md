@@ -48,7 +48,6 @@ draft: false
 <p>“<strong>This principle is most certain</strong>.  <strong>The non-Christian cannot in any way be Pope</strong>, as Cajetan himself admits (ib. c. 26).  The reason for this is that he cannot be head of what he is not a member; now he who is not a Christian is not a member of the Church, <strong><u>and a manifest heretic is not a Christian</u></strong>, <strong>as is clearly taught by St. Cyprian (lib. 4, epist. 2), St. Athanasius (Scr. 2 cont. Arian.), St. Augustine (lib. De great. Christ. Cap. 20), St. Jerome (contra Lucifer.) and others;</strong> <strong><u>therefore the manifest heretic cannot be Pope</u></strong>.”<a href="#_edn2" name="_ednref2">[2]</a></p>
 </blockquote>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> St. Robert Bellarmine, <em>De Romano Pontifice</em>, II, 30.</p>
 </div>

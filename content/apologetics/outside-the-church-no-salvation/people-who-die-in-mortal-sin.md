@@ -19,8 +19,7 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/people-who-die-in-mort
 <blockquote>
 <p>Pope Pius XI, <em>Mit brennender Sorge </em>(# 25), March 14, 1937: <strong>“‘Original sin’</strong> is the hereditary but impersonal fault of Adam’s descendants, who have sinned in him (Rom. v. 12).&nbsp; <strong>It is the loss of grace, and therefore eternal life</strong>, together with a propensity to evil, which everybody must, with the assistance of grace, penance, resistance and moral effort, repress and conquer.”<a href="#_edn3" name="_ednref3">[3]</a></p>
 </blockquote>
-<div class="content-notes"><strong>Endnotes:</strong>
-<hr width="33%" size="1" align="left">
+<div class="footnotes">
 <div><p><a href="#_ednref1" name="_edn1">[1]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 1, p. 528; Denzinger 693.</p></div>
 <div><p><a href="#_ednref2" name="_edn2">[2]</a> Denzinger 1526.</p></div>
 <div><p><a href="#_ednref3" name="_edn3">[3]</a> <em>The Papal Encyclicals</em>, Vol. 3 (1903-1939), p. 530.</p></div>

@@ -59,7 +59,6 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/new-rite-consecration-
 <p></p>
 
 
-<hr align="left" size="1" width="33%" />
 
 <div id="edn1">
 <p><a id="_edn1" title="" href="#_ednref1" name="_edn1">[1]</a> Biography of Benedict XVI, Vatican website: www.vatican.va</p>

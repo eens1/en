@@ -95,7 +95,6 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/anti-pope-john-paul-i-
 
 
 <div class="footnotes">
-<hr align="left" size="1" width="33%" />
 
 <div>
 <p><a id="_edn1" title="" href="#_ednref1" name="_edn1">[1]</a> David Yallop, <em>In God’s Name (An investigation into the Murder of John Paul I)</em>, Bantam Books, 1984, pp. 60-61.</p>

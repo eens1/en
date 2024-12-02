@@ -14,7 +14,6 @@ draft: false
 </blockquote>
 <p>James Smith could draw up a document denying the Immaculate Conception, and if you were to go around giving speeches about how great Smith’s document is, that would make you a manifest heretic.  The fact that you didn’t write Smith’s document or sign it means nothing; you publicly approved of it.  John Paul II and Benedict XVI publicly approved of the <em>Joint Declaration with the Lutherans on Justification</em>, which teaches that the worst Lutheran heresies are not condemned by the Council of Trent.  They are manifest heretics.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>L’Osservatore Romano</em>, Jan. 28, 2004, p. 4.</p>
 </div>

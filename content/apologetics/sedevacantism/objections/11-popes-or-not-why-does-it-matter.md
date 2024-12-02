@@ -65,7 +65,6 @@ draft: false
 </blockquote>
 <p>The same judgment and authority by which you determined that this non-denominational Protestant was a heretic and outside the Catholic Church – a judgment you made upon meeting him and finding out what he believed and how he repudiated the Council of Trent – is the same exact judgment that you absolutely are forced to make about Benedict XVI.  It should hit you in a striking and illuminating way that you are not guilty of judging the Holy See or a pope when you correctly judge that Benedict XVI is a non-Catholic; rather, you are identifying a non-Catholic for what he is, just as you correctly identified the non-denominational Protestant you met as a non-Catholic, as well as any Calvinist, Methodist or Episcopalian.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 675.</p>
 </div>

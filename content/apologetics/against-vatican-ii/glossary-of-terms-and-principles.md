@@ -132,8 +132,7 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/catholic-glossary-prin
 <p>St. Robert Bellarmine, <em>De Romano Pontifice</em>, Book II, Chap. 30, concerning judging those who are heretics: “… for men are not bound, or able to read hearts; but <strong>when they see that someone is a heretic by his external works, they judge him to be a heretic pure and simple, and condemn him as a heretic.”</strong>[33]</p>
 </blockquote>
 <p><strong>Indefectibility </strong><strong>– </strong>refers to the promise of Christ that He would always be with His Church (Mt. 28) and that the gates of Hell cannot prevail against the Church (Mt. 16). &nbsp;Indefectibility means that the Catholic Church will, until the end of time, remain essentially what she is. &nbsp;The indefectibility of the Church requires that <em>at least a remnant </em>of the Church will exist until the end of the world, that the official teachings of the Church will not err, and that a true pope will never authoritatively teach error to the entire Church. It does <span style="text-decoration: underline;">not</span> exclude antipopes posing as popes <em>or a counterfeit sect that reduces the adherents of the true Catholic Church to a remnant in the last days</em>, which is precisely <em>what is predicted </em>to occur in the last days and what happened during the Arian crisis.</p>
-<div class="content-notes"><strong>Endnotes:</strong><p></p>
-<hr width="33%" size="1" align="left">
+<div class="footnotes">
 <div>
 <p>1 &nbsp;Denzinger, <em>The Sources of Catholic Dogma</em>, B. Herder Book. Co., Thirtieth Edition, 1957, no. 1839.</p>
 </div>

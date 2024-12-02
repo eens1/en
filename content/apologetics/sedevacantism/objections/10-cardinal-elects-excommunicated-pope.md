@@ -31,7 +31,6 @@ draft: false
 </blockquote>
 <p>If a heretic (one who denies the faith) could be the head inside the Church, then the dogma that the Church is <strong>one in faith</strong> (as in<strong> <em>one</em></strong><em>, holy, Catholic and apostolic</em>) would be false.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>The Papal Encyclicals</em>, Vol. 1 (1740-1878), p. 84.</p>
 </div>

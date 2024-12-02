@@ -9,7 +9,7 @@ By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/is-the-king-james-bible-infallible/)
 
-<p><iframe src="//www.youtube.com/embed/TUTlvAsLyPM?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+{{< youtube TUTlvAsLyPM >}}
 
 <h2 align="center">KING JAMES ONLYISM EXPOSED</h2>
 <p align="center"><strong>Bro. Peter Dimond</strong></p>

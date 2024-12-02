@@ -24,7 +24,6 @@ draft: false
 </blockquote>
 <p>There is not one teaching of the Catholic Church that can be quoted which is contrary to the fact that there is presently a counterfeit sect which has reduced the true Catholic Church to a remnant in the days of the Great Apostasy, which is presided over by antipopes who have falsely posed as popes.&nbsp; Those who assert that the Vatican II sect is the Catholic Church assert that the Catholic Church officially endorses false religions and false doctrines.&nbsp; This is impossible and would mean that the gates of Hell have prevailed against the Catholic Church.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr width="33%" size="1" align="left">
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>Coll. Selecta SS. Eccl. Patrum</em>. Caillu and Guillou, Vol. 32, pp 411-412</p>
 </div>

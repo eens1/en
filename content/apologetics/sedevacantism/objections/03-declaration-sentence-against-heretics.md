@@ -33,7 +33,6 @@ draft: false
 <p>St. Robert Bellarmine, <em>De Romano Pontifice,</em> Book 4, Chap. 9:<br />“… for men are not bound, or able to read hearts; BUT WHEN THEY SEE THAT SOMEONE IS A HERETIC BY HIS EXTERNAL WORKS, THEY JUDGE HIM TO BE A HERETIC PURE AND SIMPLE, AND CONDEMN HIM AS A HERETIC.”</p>
 </blockquote>
 
-<div class="content-notes"><strong>Endnotes:</strong><hr align="left" size="1" width="33%" />
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>The 1917 Pio-Benedictine Code of Canon</em> Law, translated by Dr. Edward Von Peters, San Francisco, CA: Ignatius Press, 2001, canon 2314, p. 735.</p>
 </div>

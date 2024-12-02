@@ -161,11 +161,7 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/pastoral-council-vatic
 <p>The truth is that Antipope Paul VI was never the validly elected pope of the Catholic Church; and therefore his solemn promulgation of the heresies of Vatican II did not infringe upon Papal Infallibility.  As we saw already, the Catholic Church teaches that it’s impossible for a heretic to be elected pope, since a heretic is not a member of the Catholic Church.  This was defined in <em><a title="Cum ex Apostolatus Officio – Pope Paul IV" href="https://vaticancatholic.com/cum-ex-apostolatus-officio-pope-paul-iv/" target="_blank" rel="noopener">Pope Paul IV's Apostolic Constitution Cum ex Apostolatus Officio</a></em>.</p>
 <p>*For more information on Vatican II’s primary heresies, consult our article: <a title="The Heresies in Vatican Council II" href="https://vaticancatholic.com/vatican-ii-council/" target="_blank" rel="noopener"><strong>The Heresies in Vatican II</strong></a> located on our website.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong>
-<p></p>
-
-
-<hr align="left" size="1" width="33%" />
+<div class="footnotes">
 
 <div id="edn1">
 <p><a id="_edn1" title="" href="#_ednref1" name="_edn1">[1]</a> Walter M. Abbott, <em>The Documents of Vatican II</em>, The America Press, 1966, p. 366, etc.</p>

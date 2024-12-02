@@ -2,7 +2,7 @@
 title: "Dignitatis Humanae – Declaration on Religious liberty"
 date: "2024-12-01T19:21:53"
 draft: "false"
-description: "Go back to The Vatican II Revolution 4.  Dignitatis Humanae – Vatican II’s Declaration on Religious liberty Vatican II’s Declaration on Religious Liberty was without question the most notorious of all the documents of Vatican [...]"
+description: "4.  Dignitatis Humanae – Vatican II’s Declaration on Religious liberty Vatican II’s Declaration on Religious Liberty was without question the most notorious of all the documents of Vatican [...]"
 tags: []
 external_url: "https://vaticancatholic.com/dignitatis-humanae"
 locale: "en_US"
@@ -167,13 +167,8 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/dignitatis-humanae)
 <p>Pope Leo XIII, <em>Immortale Dei </em>(# 34), Nov. 1, 1885: “<strong>Thus, Gregory XVI in his encyclical letter <em>Mirari Vos</em>, dated August 15, 1832, inveighed with weighty words against the <span style="text-decoration: underline;">sophisms which even at his time were being publicly inculcated</span></strong><span style="text-decoration: underline;"> – <strong>namely</strong>, <strong>that no preference should be shown for any particular form of worship</strong></span>; that it is right for individuals to form their own personal judgments about religion; that each man’s conscience is his sole and all-sufficing guide; and <strong><span style="text-decoration: underline;">that it is lawful for every man to publish his own views, whatever they may be</span></strong>, and even to conspire against the state.”<a id="_ednref89" title="" href="#_edn89" name="_ednref89">[89]</a></p>
 </blockquote>
 <p>All of this Catholic teaching directly contradicts the heretical teaching of Vatican II.</p>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-<p></p>
 <div class="footnotes">
-
-
-<hr align="left" size="1" width="33%" />
 
 <div>
 <p id="edn62"></p>

@@ -2,7 +2,7 @@
 title: "Nostra Aetate – On Relations with Non-Christian Religions"
 date: "2024-12-01T19:24:47"
 draft: "false"
-description: "Go back to The Vatican II Revolution 6.  Nostra Aetate – Vatican II’s Decree on Non-Christian Religions Vatican II document, Nostra aetate # 3: “The Church also looks upon Muslims with respect.  They worship the one [...]"
+description: "6.  Nostra Aetate – Vatican II’s Decree on Non-Christian Religions Vatican II document, Nostra aetate # 3: “The Church also looks upon Muslims with respect.  They worship the one [...]"
 tags: []
 external_url: "https://vaticancatholic.com/nostra-aetate"
 locale: "en_US"
@@ -88,13 +88,9 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/nostra-aetate)
 <p>Pope Pius XI, <em>Mortalium Animos</em> (# 2), Jan. 6, 1928: “… that false opinion which considers all religions to be more or less good and praiseworthy, … Not only are those who hold this opinion in error and deceived, but also in distorting the idea of true religion they reject it…<strong>”</strong><a id="_ednref103" title="" href="#_edn103" name="_ednref103">[103]</a></p>
 <p>Pope Pius IX, <em>Qui Pluribus</em> (# 15), Nov. 9, 1846: <strong>“</strong>Also perverse is that shocking theory that it makes no difference to which religion one belongs, a theory greatly at variance even with reason.  By means of this theory, those crafty men remove all distinction between virtue and vice, truth and error, honorable and vile action.  They pretend that men can gain eternal salvation by the practice of any religion, <strong>as if there could ever be any sharing between justice and iniquity, any collaboration between light and darkness, or any agreement between Christ and Belial</strong>.”<a id="_ednref104" title="" href="#_edn104" name="_ednref104">[104]</a></p>
 </blockquote>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-<p></p>
 <div class="footnotes">
 
-
-<hr align="left" size="1" width="33%" />
 
 <div id="edn95">
 <p><a id="_edn95" title="" href="#_ednref95" name="_edn95">[95]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 969.</p>

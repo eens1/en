@@ -33,9 +33,8 @@ draft: false
 <p>Unlike non-sedevacantists who use the “no one can judge the Holy See” argument, Pope Paul IV correctly distinguishes between a true Catholic pope, whom none can judge, and a manifest heretic (e.g. Benedict XVI). A manifest heretic has revealed himself to be a non-Catholic <u>who is not the pope,</u> since he is outside the true Church.  This is striking proof that sedevacantists, who hold as invalid the “elections” of the manifest heretics Joseph Ratzinger, Jorge Bergoglio, etc., <u>are not judging a pope</u>.</p>
 <p>Fourth, many of the people who defend the Vatican II “popes” by arguing “no one can judge the Holy See” are themselves guilty of judging the most authoritative actions of the men they claim occupy the Holy See.  Many of those "traditionalists" reject Vatican II, the “canonizations” of the Vatican II “popes,” etc.  That is a schismatic position.  They reject the authoritative actions of that which they deem to be the Holy See.  Hence, the errors and false doctrines in the universal and authoritative actions of the Vatican II antipopes prove that they do not, in fact, occupy the Holy See.  They are not true popes but heretical antipopes.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong>
+<div class="footnotes">
 
-<hr align="left" size="1" width="33%" />
 
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Denzinger 330.</p>

@@ -2,7 +2,7 @@
 title: "Sacrosanctum Concilium – Constitution on the Sacred Liturgy"
 date: "2024-12-01T19:25:31"
 draft: "false"
-description: "Go back to The Vatican II Revolution 8. Sacrosanctum Concilium – Vatican II’s Constitution on the Sacred Liturgy Sacrosanctum Concilium was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to [...]"
+description: "8. Sacrosanctum Concilium – Vatican II’s Constitution on the Sacred Liturgy Sacrosanctum Concilium was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to [...]"
 tags: []
 external_url: "https://vaticancatholic.com/sacrosanctum-concilium"
 locale: "en_US"
@@ -107,14 +107,8 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium
 <p>Pope Paul III, <em>Council of Trent</em>, Session 7, Can. 13, <em>ex cathedra</em>: “<strong>If anyone shall say that the received and approved rites of the Catholic Church</strong> accustomed to be used in the solemn administration of the sacraments <strong>may be disdained or omitted by the minister without sin</strong> and at pleasure, <strong><span style="text-decoration: underline;">or may be changed by any pastor of the churches to other new ones:</span></strong><span style="text-decoration: underline;"> <strong>let him be anathema</strong></span><strong>.”<a id="_ednref143" title="" href="#_edn143" name="_ednref143"><strong>[143]</strong></a></strong></p>
 </blockquote>
 <p>There are other heresies in the documents of Vatican II.  However, what has been covered should be enough to convince anyone of good will that no Catholic can accept this heretical council without denying the Faith.  And it is not sufficient merely to resist the heresies of Vatican II; <strong>one must entirely condemn this non-Catholic council and all who would obstinately adhere to its teachings.</strong>  For if a person rejects the heresies of Vatican II, yet still considers himself in communion with those who accept the heresies of Vatican II, then such a person is still actually in communion with heretics and is therefore a heretic.</p>
-<pstyle="text-align: center;" data-tadv-p="keep">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
 
-<p></p>
 <div class="footnotes">
-<p></p>
-
-
-<hr align="left" size="1" width="33%" />
 
 <div id="edn116">
 <p><a id="_edn116" title="" href="#_ednref116" name="_edn116">[116]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 2, p. 833.</p>

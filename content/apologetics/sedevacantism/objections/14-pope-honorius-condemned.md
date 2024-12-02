@@ -41,9 +41,8 @@ draft: false
 </blockquote>
 <p>With these facts in mind, we can see that the argument from Honorius doesn’t prove anything for the non-sedevacantist; but rather it reminds us of the Doctors of the Church who, while recalling his case, simultaneously declared that heretics cannot be popes.</p>
 
-<div class="content-notes"><strong>Endnotes:</strong>
+<div class="footnotes">
 
-<hr align="left" size="1" width="33%" />
 
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> <em>Decrees of the Ecumenical Councils</em>, Vol. 1, p. 578; Denzinger 714.</p>

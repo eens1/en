@@ -9,4 +9,4 @@ By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/once-saved-always-saved-faith-alone-refuted/)
 
-<iframe src="https://www.youtube.com/embed/vJo1OZcLtlA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube vJo1OZcLtlA >}}

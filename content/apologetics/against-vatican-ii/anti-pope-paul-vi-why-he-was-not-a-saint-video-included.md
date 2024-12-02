@@ -340,7 +340,6 @@ Catholics must have no part with Antipope Paul VI’s New Mass (the Novus Ordo) 
 Here is a picture of Antipope Paul VI's signature.  If you turn it upside-down, you see that there are three clear 6's.  The shot below is a close-up of his name turned upside-down.  The three 6's are clear.  As far as we know, this is the way that Paul VI's signature always appeared.
 
 <div class="footnotes">
-<hr align="left" size="1" width="33%" />
 
 <div>
 

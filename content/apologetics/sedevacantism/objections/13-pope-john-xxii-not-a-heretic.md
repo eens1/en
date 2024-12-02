@@ -42,9 +42,8 @@ draft: false
 <p>Therefore, when non-sedevacantists bring up the issue of John XXII and the Last Judgment, they do nothing except remind us of another dogma that Benedict XVI denies and another example of why he is not the pope.</p>
 
 
-<div class="content-notes"><strong>Endnotes:</strong>
+<div class="footnotes">
 
-<hr align="left" size="1" width="33%" />
 
 <div>
 <p><a href="#_ednref1" name="_edn1">[1]</a> Chris Ferrara, “Opposing the Sedevacantist Enterprise,” Catholic Family News, August 2005, p. 21.</p>

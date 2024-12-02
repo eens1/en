@@ -2,7 +2,7 @@
 title: "Unitatis Redintegratio – Decree on Ecumenism"
 date: "2024-12-01T19:18:58"
 draft: "false"
-description: "Go back to The Vatican II Revolution 1.  Unitatis Redintegratio – Vatican II’s Decree on Ecumenism. Vatican II document, Unitatis Redintegratio # 1: “Yet almost all, though in different ways, long for the one visible Church [...]"
+description: "1.  Unitatis Redintegratio – Vatican II’s Decree on Ecumenism. Vatican II document, Unitatis Redintegratio # 1: “Yet almost all, though in different ways, long for the one visible Church [...]"
 tags: []
 external_url: "https://vaticancatholic.com/unitatis-redintegratio"
 locale: "en_US"
@@ -123,8 +123,8 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/unitatis-redintegratio
 <blockquote>
 <p>Pope Pius XI, <em>Mortalium Animos</em> (# 7), Jan. 6, 1928, speaking of heretics: “Meanwhile they affirm that they would willingly <strong><span style="text-decoration: underline;">treat </span></strong>with the Church of Rome, <strong><span style="text-decoration: underline;">but on equal terms, that is as equals with an equal</span></strong><span style="text-decoration: underline;">.</span>..”<a id="_ednref33" title="" href="#_edn33" name="_ednref33">[33]</a></p>
 </blockquote>
-<pstyle="text-align: center;">Go back to <span style=""><strong><a title="The Vatican II Revolution" href="https://vaticancatholic.com/vatican-ii/">The Vatican II Revolution</a></strong></span></p>
-<hr width="33%" size="1" align="left">
+
+
 <div class="footnotes">
 <div id="edn6">
 <p><a id="_edn6" title="" href="#_ednref6" name="_edn6">[6]</a> <em>Decrees of the Ecumenical Councils</em>, 1990, Vol. 2, p. 908.</p>
