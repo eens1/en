@@ -24,7 +24,9 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/heresies-of-john-paul-
 <p>”LEVINE: <strong>He gave it to us, </strong>actually, didn't send it.  <strong>Actually gave us a menorah</strong>.  I think it's from the 16th century in Prague.  It's the most beautiful menorah.  <strong><u>He sent a letter on the occasion of each of my son's bar mitzvahs</u>.  He also had the cardinal in charge of Catholic/Jewish relations send a letter that was read out in my Orthodox shul on the occasion of my son's recent bar mitzvah,</strong> <strong>and the rabbi read it as if it were from a rabbi</strong>.” <a href="#_edn1" name="_ednref1">[1]</a></p>
 </div>
 <h2 style="text-align: center;"><strong>Karol Wojtyla (John Paul II) claimed to be the pope from 1978-2005</strong></h2>
-<p><img decoding="async" class="size-full wp-image-185542 aligncenter" src="https://vaticancatholic.com/images/heresies-of-john-paul-ii.jpg" alt="" width="90%" /></p>
+
+<p><img decoding="async" class="size-full wp-image-185542 aligncenter" src="https://i.ibb.co/gzdLcsD/heresies-of-john-paul-ii.jpg" alt="" width="90%" /></p>
+
 <h2 style="text-align: center;">THE HERESIES OF JOHN PAUL II</h2>
 <h3><strong>John Paul II taught universal salvation, that all men will be saved</strong></h3>
 <p>The only difficulty in discussing the heresies of John Paul II is deciding where to begin.  His heresies are so numerous that one is almost overwhelmed with the decision of where to start.  A good place to begin is his consistent teaching of universal salvation.  The idea that all men are saved is contrary to the clear words of the Gospel and numerous Catholic dogmas, especially the dogmas that Outside the Catholic Church there is no salvation and that all who die in original sin or mortal sin cannot be saved.</p>

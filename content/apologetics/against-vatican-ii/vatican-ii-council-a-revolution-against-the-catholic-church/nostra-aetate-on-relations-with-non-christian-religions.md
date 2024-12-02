@@ -48,7 +48,10 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/nostra-aetate)
 </blockquote>
 <p>In the section on the most specific heresy in Vatican II (earlier), we covered that <em>Nostra Aetate</em> #4 teaches the heresy that the Jews should not be considered as rejected by God.  We will not repeat that here.</p>
 <p><em>Nostra aetate</em> also made sure to remind the world how great Buddhism is, and how this false religion leads to the highest illumination.</p>
-<p align="center"><img decoding="async" src="https://vaticancatholic.com/wp-content/uploads/2014/12/nostra-aetate-buddhism.jpg" alt="Nostra Aetate praises Buddhism" border="0" /></p>
+<p align="center">
+
+<img decoding="async" src="https://vaticancatholic.com/wp-content/uploads/2014/12/nostra-aetate-buddhism.jpg" alt="Nostra Aetate praises Buddhism" border="0" /></p>
+
 <p align="center">Buddhists acknowledge many false gods</p>
 
 <blockquote>
@@ -65,7 +68,10 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/nostra-aetate)
 <blockquote>
 <p>Vatican II document,<em> Nostra aetate</em> # 2: “<span style="text-decoration: underline;">Thus in Hinduism the divine mystery is explored </span>and propounded with an inexhaustible wealth of myths and <span style="text-decoration: underline;">penetrating philosophical investigations</span>, and liberation is sought from the distresses of our state either <span style="text-decoration: underline;">through various forms of ascetical life or deep meditation or taking refuge in God</span> with loving confidence.”<a id="_ednref101" title="" href="#_edn101" name="_ednref101">[101]</a></p>
 </blockquote>
-<p align="center"><img decoding="async" src="https://vaticancatholic.com/wp-content/uploads/2014/12/nostra-aetate-hinduism-goddess-kali.jpg" alt="Nostra Aetate praises Hinduism, demon ‘goddess’ Kali" /></p>
+<p align="center">
+
+<img decoding="async" src="https://vaticancatholic.com/wp-content/uploads/2014/12/nostra-aetate-hinduism-goddess-kali.jpg" alt="Nostra Aetate praises Hinduism, demon ‘goddess’ Kali" /></p>
+
 <p align="center">Kali, one of the approximately 330,000 false gods worshipped by the Hindus – a religion not condemned, but praised by Vatican II</p>
 <p>Notice how specifically Vatican II’s praise for the false religion of Hinduism is contradicted by Pope Leo XIII:</p>
 

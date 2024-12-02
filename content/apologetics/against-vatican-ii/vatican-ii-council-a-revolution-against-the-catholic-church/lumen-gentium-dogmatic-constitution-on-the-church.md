@@ -29,9 +29,11 @@ Besides the heresy of collegiality, there are others in <em>Lumen Gentium</em> t
 <blockquote><span style="font-size: 14pt;">Vatican II document,<em> Lumen Gentium</em> # 16: “But the plan of salvation also embraces those who acknowledge the Creator, and among these the <span style="text-decoration: underline;">MOSLEMS</span> are first; they profess to hold the faith of <strong>Abraham <span style="text-decoration: underline;">AND ALONG WITH US THEY WORSHIP THE ONE MERCIFUL GOD</span></strong><span style="text-decoration: underline;"> WHO WILL JUDGE HUMANITY ON THE LAST DAY</span>.”<a id="_ednref49" title="" href="#_edn49" name="_ednref49">[49]</a></span></blockquote>
 This is an amazing blasphemy!  Catholics are worshippers of Jesus Christ and the Most Holy Trinity; the Muslims are not!
 
-<img decoding="async" class="alignnone size-full wp-image-123937 aligncenter" src="https://vaticancatholic.com/images/muslim-cairo-2.jpg" alt="" width="70%" />
+<img decoding="async" class="alignnone size-full wp-image-123937 aligncenter" src="https://i.ibb.co/b5Q0LNj/muslim-cairo-2.jpg" alt="" width="70%" />
+
 <p style="text-align: center;">(Muslims reject the Divinity of Jesus Christ)</p>
-<img decoding="async" class="size-full wp-image-123938 aligncenter" src="https://vaticancatholic.com/images/sacred-heart-litany-2.jpg" alt="" width="70%" />
+<img decoding="async" class="size-full wp-image-123938 aligncenter" src="https://i.ibb.co/2s9nSbV/sacred-heart-litany-2.jpg" alt="" width="70%" />
+
 <p style="text-align: center;">(Christians worship <a title="Jesus is God according to the Bible" href="https://vaticancatholic.com/jesus-is-god-bible/" target="_blank" rel="noopener">Jesus as God</a>)</p>
 A child can understand that <strong>we don’t have the same God.</strong>
 <blockquote>Pope Gregory XVI, <em>Summo Iugiter Studio</em> (# 6), May 27, 1832: “Therefore, they must instruct them in <strong>the true worship of God, which is unique to the Catholic religion.”<a id="_ednref50" title="" href="#_edn50" name="_ednref50"><strong>[50]</strong></a></strong>

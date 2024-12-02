@@ -17,10 +17,16 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium
 
 <h2>8. <em>Sacrosanctum Concilium</em> – Vatican II’s Constitution on the Sacred Liturgy</h2>
 <p><em>Sacrosanctum Concilium</em> was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to the Mass and the other sacraments following Vatican II.</p>
-<p align="center"><img decoding="async" class="" src="https://vaticancatholic.com/images/new-mass-clown-liturgical-abuse-sacrosanctum-concilium-.jpg" alt="New Mass Clown Liturgical Abuses Sacrosanctum Concilium" width="50%" /></p>
+<p align="center">
+
+<img decoding="async" class="" src="https://i.ibb.co/NKWswnn/new-mass-clown-liturgical-abuse-sacrosanctum-concilium.jpg" alt="New Mass Clown Liturgical Abuses Sacrosanctum Concilium" width="50%" /></p>
+
 <p align="center">A post-Vatican II “Mass”</p>
 <p>These incredible changes will be covered in more detail in the next section of this book dealing with “The Liturgical Revolution.”  What <em>Sacrosanctum Concilium</em> started, Paul VI finished by suppressing the traditional Latin Mass and replacing it with an invalid Protestant service that is referred to as the New Mass or <em>the Novus Ordo Missae</em> (the New Order of the Mass).  The “New Mass” alone has been responsible for the departure of millions from the Catholic Church.</p>
-<p align="center"><img decoding="async" src="https://www.mostholyfamilymonastery.com/images/new-mass-chicken-roast-beef.jpg" alt="New Mass Chicken Roast Beef Liturgical Abuse Sacrosanctum Concilium" /></p>
+
+<p align="center">
+<img decoding="async" src="https://i.ibb.co/PQGCTQX/new-mass-chicken-roast-beef.jpg" alt="New Mass Chicken Roast Beef Liturgical Abuse Sacrosanctum Concilium" /></p>
+
 <p align="center">Another post-Vatican II “Mass”</p>
 <p>Paul VI also changed the rites of all seven sacraments of the Church, making grave and possibly invalidating changes to the sacraments of Extreme Unction, Confirmation and Holy Orders.  But it all began with Vatican II’s Constitution, <em>Sacrosanctum Concilium</em>.</p>
 <p>The revolutionary intentions of Vatican II are clear in <em>Sacrosanctum Concilium</em>.</p>
@@ -42,7 +48,10 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium
 <p><em>Sacrosanctum Concilium #128: </em>“<span style="text-decoration: underline;">The ecclesiastical canons and statutes which deal with the provision of visible things for worship are to be revised <strong>AS SOON AS POSSIBLE</strong></span>…”<a id="_ednref129" title="" href="#_edn129" name="_ednref129">[129]</a></p>
 </blockquote>
 <p>Yes, the Devil could not wait to destroy the precious liturgical heritage of the Catholic Church by means of the heretics at Vatican II.  His goal was to leave as little of Tradition remaining as he could.  And, as we will continue to document, that’s exactly what he did.</p>
-<p align="center"><img decoding="async" src="https://vaticancatholic.com/images/new-mass-luchador-mask-fray-tormenta.jpg" alt="Sacrosanctum Concilium New Mass Luchador Mask Tormenta" width="70%" /></p>
+<p align="center">
+
+<img decoding="async" src="https://i.ibb.co/xXBhGq6/new-mass-luchador-mask-fray-tormenta.jpg" alt="Sacrosanctum Concilium New Mass Luchador Mask Tormenta" width="70%" /></p>
+
 <p align="center">Another post-Vatican II “Mass”</p>
 <p>In <em>Sacrosanctum Concilium</em> #37 and #40.1, the Council falls into heresy against the teaching of Pope Pius X in <em>Pascendi</em> on Modernist Worship.</p>
 
@@ -67,7 +76,10 @@ Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium
 <p><em>Sacrosanctum Concilium</em> # 34: “<span style="text-decoration: underline;">The rites should radiate a rich simplicity</span>; they should be brief and lucid, avoiding pointless repetitions; they should be intelligible for the people, and should not in general require much explanation.”<a id="_ednref133" title="" href="#_edn133" name="_ednref133">[133]</a></p>
 <p><em>Sacrosanctum Concilium</em> # 50: “<span style="text-decoration: underline;">Therefore the rites</span>, in a way that carefully preserves what really matters, <span style="text-decoration: underline;">should become simpler</span>.  Duplications which have come in over the course of time should be discontinued, as should the less useful accretions.”<a id="_ednref134" title="" href="#_edn134" name="_ednref134">[134]</a></p>
 </blockquote>
-<p align="center"><img decoding="async" src="https://vaticancatholic.com/images/new-mass-camping-tent.jpg" alt="New Mass Camping Tent" width="70%" /></p>
+<p align="center">
+
+<img decoding="async" src="https://i.ibb.co/MgVkDsy/new-mass-camping-tent.jpg" alt="New Mass Camping Tent" width="70%" /></p>
+
 <p align="center">We can see just how “simple” they have become</p>
 <p>Pope Pius VI explicitly condemned the idea that the traditional liturgical rites of the Church should be simplified in his dogmatic Constitution <em>Auctorem fidei</em>!</p>
 
