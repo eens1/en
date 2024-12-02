@@ -1,5 +1,5 @@
 ---
-title: "why the New Mass and New Rite of Ordination are invalide"
+title: "Why the New Mass and New Rite of Ordination are invalide"
 date: 2024-12-01T18:30:29+0000
 draft: false
 tags: []
