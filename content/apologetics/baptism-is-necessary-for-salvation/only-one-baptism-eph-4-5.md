@@ -1,7 +1,8 @@
 ---
-title: "There is only One Baptism, Not Three"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/only-one-baptism-eph-4-5
+title: There is only One Baptism, Not Three
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: "St. Alphonsus’ Blatant Error on ‘Baptism of Desire’"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/st-alphonsus-blatant-error-on-baptism-of-desire/
+title: "St. Alphonsus\u2019 Blatant Error on \u2018Baptism of Desire\u2019"
 ---
 
 

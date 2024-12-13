@@ -1,7 +1,8 @@
 ---
-title: "'Born Again' Refutes 'Faith Alone' & The Demonic Possession of James White"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/james-white-reformed-baptist/
+title: '''Born Again'' Refutes ''Faith Alone'' & The Demonic Possession of James White'
 ---
 
 

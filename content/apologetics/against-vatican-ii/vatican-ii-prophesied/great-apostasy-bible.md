@@ -1,7 +1,9 @@
 ---
-title: "The Great Apostasy and a counterfeit Church predicted in the New Testament and in Catholic Prophecy"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/great-apostasy-bible/
+title: The Great Apostasy and a counterfeit Church predicted in the New Testament
+  and in Catholic Prophecy
 ---
 
 

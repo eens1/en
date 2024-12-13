@@ -1,7 +1,8 @@
 ---
-title: "St. Gregory Nazianz and \"Baptism of Desire\""
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/st-gregory-nazianz-and-baptism-of-desire/
+title: St. Gregory Nazianz and "Baptism of Desire"
 ---
 
 

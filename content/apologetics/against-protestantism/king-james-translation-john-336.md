@@ -1,7 +1,8 @@
 ---
-title: "The King James Translation And John 3:36"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/king-james-translation-john-336/
+title: The King James Translation And John 3:36
 ---
 
 

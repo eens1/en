@@ -1,7 +1,8 @@
 ---
-title: "Are Catholic Statues Idolatrous?"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/catholics-worship-statues/
+title: Are Catholic Statues Idolatrous?
 ---
 
 

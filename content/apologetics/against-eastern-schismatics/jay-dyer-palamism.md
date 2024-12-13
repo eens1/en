@@ -1,7 +1,8 @@
 ---
-title: "Jay Dyer Exposed & Palamism Refuted"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/jay-dyer-palamism/
+title: Jay Dyer Exposed & Palamism Refuted
 ---
 
 

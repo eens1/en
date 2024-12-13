@@ -1,7 +1,9 @@
 ---
-title: "The Latin Text of the Oldest Surviving Papal Decree Rejects “Baptism of"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/latin-text-oldest-surviving-papal-decree-rejects-baptism-desire/
+title: "The Latin Text of the Oldest Surviving Papal Decree Rejects \u201CBaptism\
+  \ of"
 ---
 
 

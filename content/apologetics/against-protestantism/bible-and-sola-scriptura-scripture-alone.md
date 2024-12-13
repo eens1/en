@@ -1,7 +1,8 @@
 ---
-title: "The Bible Does Not Teach Sola Scriptura (Scripture Alone)"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/bible-and-sola-scriptura-scripture-alone/
+title: The Bible Does Not Teach Sola Scriptura (Scripture Alone)
 ---
 
 

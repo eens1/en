@@ -1,7 +1,8 @@
 ---
-title: "The Council Of Trent Did Not Teach \"Baptism Of Desire\""
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/council-of-trent-did-not-teach-baptism-of-desire/
+title: The Council Of Trent Did Not Teach "Baptism Of Desire"
 ---
 
 

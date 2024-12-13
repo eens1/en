@@ -1,7 +1,9 @@
 ---
-title: "St. Isaac Jogues and St. Francis Xavier Against Invincible Ignorance and on the Necessity of Baptism"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/st-isaac-jogues-st-francis-xavier-vs-invincible-ignorance/
+title: St. Isaac Jogues and St. Francis Xavier Against Invincible Ignorance and on
+  the Necessity of Baptism
 ---
 
 

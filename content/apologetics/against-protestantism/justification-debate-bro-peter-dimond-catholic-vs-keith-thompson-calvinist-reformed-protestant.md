@@ -1,7 +1,9 @@
 ---
-title: "Justification Debate - Bro. Peter Dimond (Catholic) vs. Keith Thompson (Reformed Protestant)"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/justification-debate-bro-peter-dimond-catholic-vs-keith-thompson-calvinist-reformed-protestant/
+title: Justification Debate - Bro. Peter Dimond (Catholic) vs. Keith Thompson (Reformed
+  Protestant)
 ---
 
 

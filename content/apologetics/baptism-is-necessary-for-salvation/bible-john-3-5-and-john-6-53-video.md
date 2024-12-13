@@ -1,7 +1,8 @@
 ---
-title: "Baptism (John 3:5) Vs. The Eucharist (John 6:53) In Regard To Necessity"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/bible-john-3-5-and-john-6-53-video/
+title: Baptism (John 3:5) Vs. The Eucharist (John 6:53) In Regard To Necessity
 ---
 
 

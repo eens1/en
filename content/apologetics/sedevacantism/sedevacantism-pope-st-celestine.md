@@ -1,7 +1,8 @@
 ---
-title: "Great Proof Texts For Sedevacantism Show That Francis Is Not The Pope"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/sedevacantism-pope-st-celestine/
+title: Great Proof Texts For Sedevacantism Show That Francis Is Not The Pope
 ---
 
 By Bro. Peter Dimond, O.S.B.

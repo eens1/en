@@ -1,7 +1,8 @@
 ---
-title: "Salvation For The “Invincibly Ignorant” Reduced To Its Absurd Principle"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/invincible-ignorance-absurd-principle/
+title: "Salvation For The \u201CInvincibly Ignorant\u201D Reduced To Its Absurd Principle"
 ---
 
 

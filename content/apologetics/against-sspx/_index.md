@@ -1,7 +1,8 @@
 ---
-title: "Against the Society of St. Pius X"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/sspx-baptism-of-desire-heresy/
+title: Against the Society of St. Pius X
 ---
 
 

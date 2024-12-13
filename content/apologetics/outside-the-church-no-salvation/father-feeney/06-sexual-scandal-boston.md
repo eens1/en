@@ -1,7 +1,9 @@
 ---
-title: "The Verdict is in: Boston Leads the Way in a Massive Priestly Scandal that Rocks the Nation"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/sexual-scandal-boston/
+title: 'The Verdict is in: Boston Leads the Way in a Massive Priestly Scandal that
+  Rocks the Nation'
 ---
 
 

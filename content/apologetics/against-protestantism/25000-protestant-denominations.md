@@ -1,7 +1,9 @@
 ---
-title: "25,000 Different Non-Catholic Denominations – Doctrinal Chaos Is The Bad"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/25000-protestant-denominations/
+title: "25,000 Different Non-Catholic Denominations \u2013 Doctrinal Chaos Is The\
+  \ Bad"
 ---
 
 

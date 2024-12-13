@@ -1,7 +1,8 @@
 ---
-title: "The Dogmatic Council Of Vienne Contradicts “Three Baptisms”"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/the-dogmatic-council-of-vienne-contradicts-three-baptisms/
+title: "The Dogmatic Council Of Vienne Contradicts \u201CThree Baptisms\u201D"
 ---
 
 

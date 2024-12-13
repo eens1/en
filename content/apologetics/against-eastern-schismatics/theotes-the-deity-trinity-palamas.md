@@ -1,7 +1,8 @@
 ---
-title: "θεότης, The Deity, The Trinity, Palamas"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/theotes-the-deity-trinity-palamas/
+title: "\u03B8\u03B5\u03CC\u03C4\u03B7\u03C2, The Deity, The Trinity, Palamas"
 ---
 
 

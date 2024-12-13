@@ -1,7 +1,8 @@
 ---
-title: "God's Eternity & Immutability - Denied By Eastern “Orthodox” Speakers"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/gods-eternity-immutability-denied-by-eastern-orthodox-speakers/
+title: "God's Eternity & Immutability - Denied By Eastern \u201COrthodox\u201D Speakers"
 ---
 
 

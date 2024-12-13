@@ -1,7 +1,8 @@
 ---
-title: "The Theory of Baptism of Desire – a tradition of man"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/baptism-of-desire-tradition-of-man
+title: "The Theory of Baptism of Desire \u2013 a tradition of man"
 ---
 
 

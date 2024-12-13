@@ -1,7 +1,8 @@
 ---
-title: "The “You Can’t Judge” Heresy"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/you-cant-judge-heresy/
+title: "The \u201CYou Can\u2019t Judge\u201D Heresy"
 ---
 
 

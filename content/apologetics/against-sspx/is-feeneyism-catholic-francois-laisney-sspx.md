@@ -1,7 +1,8 @@
 ---
-title: "Is Feeneyism Catholic?, by Fr. Francois Laisney (SSPX)"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/is-feeneyism-catholic-francois-laisney-sspx/
+title: Is Feeneyism Catholic?, by Fr. Francois Laisney (SSPX)
 ---
 
 

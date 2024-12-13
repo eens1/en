@@ -1,7 +1,8 @@
 ---
-title: "The Objective-Subjective Heresy"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/the-objective-subjective-heresy/
+title: The Objective-Subjective Heresy
 ---
 
 By Brother Peter Dimond, O.S.B.

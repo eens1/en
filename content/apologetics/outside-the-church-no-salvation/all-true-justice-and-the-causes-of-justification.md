@@ -1,7 +1,8 @@
 ---
-title: "All True Justice and the Causes of Justification"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/all-true-justice-and-the-causes-of-justification/
+title: All True Justice and the Causes of Justification
 ---
 
 

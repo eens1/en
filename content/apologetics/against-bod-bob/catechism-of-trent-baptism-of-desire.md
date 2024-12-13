@@ -1,7 +1,8 @@
 ---
-title: "The Catechism of Trent and “Baptism of Desire”"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/catechism-of-trent-baptism-of-desire/
+title: "The Catechism of Trent and \u201CBaptism of Desire\u201D"
 ---
 
 

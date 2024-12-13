@@ -1,7 +1,8 @@
 ---
-title: "Concerning Those Baptized Validly As Infants By Members Of Non-Catholic Sects"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/those-baptized-validly-as-infants-by-non-catholics/
+title: Concerning Those Baptized Validly As Infants By Members Of Non-Catholic Sects
 ---
 
 

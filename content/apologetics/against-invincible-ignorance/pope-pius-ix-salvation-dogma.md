@@ -1,10 +1,11 @@
 ---
-title: "Pope Pius IX Did Not Teach Salvation Outside The Church"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
-summary: |
-  
-  Singulari Quadame and Quanto Conficiamur Moerore are discussed.
+external_url: https://endtimes.video/pope-pius-ix-salvation-dogma
+summary: '
+
+  Singulari Quadame and Quanto Conficiamur Moerore are discussed.'
+title: Pope Pius IX Did Not Teach Salvation Outside The Church
 ---
 
 

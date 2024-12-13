@@ -1,7 +1,8 @@
 ---
-title: "St. Alban and His Converted Guard"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/st-alban-and-his-converted-guard/
+title: St. Alban and His Converted Guard
 ---
 
 

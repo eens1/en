@@ -1,7 +1,8 @@
 ---
-title: "Baptism of Desire, by Fr. Jean-Marc Rulleau (SSPX)"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/baptism-of-desire-jean-marc-rulleau-sspx/
+title: Baptism of Desire, by Fr. Jean-Marc Rulleau (SSPX)
 ---
 
 

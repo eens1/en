@@ -1,8 +1,10 @@
 ---
-title: "Clement and Ignatius - The Early Church recognized the Bishop of Rome as the successor to St. Peter's authority"
 date: 2024-11-24T06:29:45+0000
 draft: false
+external_url: https://vaticancatholic.com
 tags: []
+title: Clement and Ignatius - The Early Church recognized the Bishop of Rome as the
+  successor to St. Peter's authority
 ---
 
 Source: [vaticancatholic.com](https://vaticancatholic.com)

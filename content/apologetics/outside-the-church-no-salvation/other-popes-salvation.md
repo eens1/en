@@ -1,7 +1,8 @@
 ---
-title: "Other Popes on Outside the Church There is No Salvation"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/other-popes-salvation
+title: Other Popes on Outside the Church There is No Salvation
 ---
 
 

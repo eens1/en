@@ -1,7 +1,8 @@
 ---
-title: "The “Within but Not A Member” Objection of Msgr. Fenton"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/within-but-not-a-member-fenton/
+title: "The \u201CWithin but Not A Member\u201D Objection of Msgr. Fenton"
 ---
 
 

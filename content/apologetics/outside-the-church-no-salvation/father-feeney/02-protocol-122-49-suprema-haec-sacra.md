@@ -1,7 +1,8 @@
 ---
-title: "Protocol 122/49 (Suprema haec sacra)"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/protocol-122-49-suprema-haec-sacra/
+title: Protocol 122/49 (Suprema haec sacra)
 ---
 
 

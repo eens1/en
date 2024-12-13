@@ -1,7 +1,8 @@
 ---
-title: "St. Ambrose and \"Baptism of Desire\""
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/st-ambrose-and-baptism-of-desire/
+title: St. Ambrose and "Baptism of Desire"
 ---
 
 

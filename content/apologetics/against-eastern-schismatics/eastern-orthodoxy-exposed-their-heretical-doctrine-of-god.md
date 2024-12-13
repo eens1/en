@@ -1,7 +1,8 @@
 ---
-title: "Eastern “Orthodoxy” Exposed: Their Heretical Doctrine Of God"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/eastern-orthodoxy-exposed-their-heretical-doctrine-of-god/
+title: "Eastern \u201COrthodoxy\u201D Exposed: Their Heretical Doctrine Of God"
 ---
 
 

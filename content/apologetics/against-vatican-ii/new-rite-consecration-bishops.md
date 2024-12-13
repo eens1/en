@@ -1,7 +1,8 @@
 ---
-title: "The New Rite of Consecration of Bishops"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/new-rite-consecration-bishops/
+title: The New Rite of Consecration of Bishops
 ---
 
 By Brother Michael Dimond, O.S.B.

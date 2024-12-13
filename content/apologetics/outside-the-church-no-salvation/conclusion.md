@@ -1,7 +1,8 @@
 ---
-title: "Conclusion"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/outside-the-church-there-is-no-salvation
+title: Conclusion
 ---
 
 

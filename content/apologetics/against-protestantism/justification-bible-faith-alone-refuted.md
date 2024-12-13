@@ -1,7 +1,8 @@
 ---
-title: "Documentary: Protestantism's Big Justification Lie"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/justification-bible-faith-alone-refuted/
+title: 'Documentary: Protestantism''s Big Justification Lie'
 ---
 
 

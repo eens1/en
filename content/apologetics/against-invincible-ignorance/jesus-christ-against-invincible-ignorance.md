@@ -1,7 +1,8 @@
 ---
-title: "Jesus Christ Against Invincible Ignorance"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/jesus-christ-against-invincible-ignorance/
+title: Jesus Christ Against Invincible Ignorance
 ---
 
 

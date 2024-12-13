@@ -1,7 +1,8 @@
 ---
-title: "Those who Die in Original Sin or Mortal Sin descend into Hell"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/people-who-die-in-mortal-sin
+title: Those who Die in Original Sin or Mortal Sin descend into Hell
 ---
 
 

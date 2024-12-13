@@ -1,7 +1,9 @@
 ---
-title: "Catholics Must Believe and Profess that the Sacramental System as a whole is Necessary for Salvation (de fide)"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+external_url: https://vaticancatholic.com/catholics-sacramental-system/
+title: Catholics Must Believe and Profess that the Sacramental System as a whole is
+  Necessary for Salvation (de fide)
 ---
 
 

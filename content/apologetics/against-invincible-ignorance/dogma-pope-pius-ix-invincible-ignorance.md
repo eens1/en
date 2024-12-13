@@ -1,7 +1,8 @@
 ---
-title: "The Dogma, Pope Pius IX And Invincible Ignorance"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
+external_url: https://vaticancatholic.com/dogma-pope-pius-ix-invincible-ignorance/
+title: The Dogma, Pope Pius IX And Invincible Ignorance
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "Sacred Scripture Against Invincible Ignorance"
-date: 2024-09-06T20:02:27+02:00
+date: 2024-09-06 20:02:27+02:00
 draft: false
-summary: |
-  
-  And The Evidence of The Immediate Dissemination of The Gospel throughout The World.
+external_url: https://vaticancatholic.com/sacred-scripture-against-invincible-ignorance/
+summary: '
+
+  And The Evidence of The Immediate Dissemination of The Gospel throughout The World.'
+title: Sacred Scripture Against Invincible Ignorance
 ---
 
 

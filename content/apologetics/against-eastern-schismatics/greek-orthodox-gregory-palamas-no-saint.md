@@ -1,7 +1,9 @@
 ---
-title: "Greek “Orthodoxy” Gregory Palamas Is Not A Saint & He Was Condemned Before"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+external_url: https://vaticancatholic.com/greek-orthodox-gregory-palamas-no-saint/
+title: "Greek \u201COrthodoxy\u201D Gregory Palamas Is Not A Saint & He Was Condemned\
+  \ Before"
 ---
 
 
