@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: https://vaticancatholic.com/cornelius-the-centurion/
-title: Cornelius The Centurion
+external_url: "https://vaticancatholic.com/cornelius-the-centurion/"
+title: "Cornelius The Centurion"
 ---
 
 

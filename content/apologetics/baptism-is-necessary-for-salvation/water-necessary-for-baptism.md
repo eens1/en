@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: https://vaticancatholic.com/water-necessary-for-baptism
-title: Water is Necessary for Baptism and John 3:5 is literal
+external_url: "https://vaticancatholic.com/water-necessary-for-baptism"
+title: "Water is Necessary for Baptism and John 3:5 is literal"
 ---
 
 

@@ -2,8 +2,12 @@
 title: "Objection 7): No one can judge the Holy See… thus the Vatican II popes are true popes."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/no-one-can-judge-the-holy-see/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/no-one-can-judge-the-holy-see/)
 
 *2007/01/19*
 

@@ -2,8 +2,12 @@
 title: "Objection 6): Vatican I’s definitions on the perpetuity of the Papal Office contradict the claims of the sedevacantists."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/perpetual-successors/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/perpetual-successors/)
 
 *2021/01/19*
 

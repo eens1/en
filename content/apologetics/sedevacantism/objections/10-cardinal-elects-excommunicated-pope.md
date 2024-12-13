@@ -2,8 +2,12 @@
 title: "Objection 10): Pope Pius XII declared in Vacantis Apostolicae Sedis that a cardinal, no matter what excommunication he’s under, can be elected pope."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/cardinal-elects-excommunicated-pope/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/cardinal-elects-excommunicated-pope/)
 
 *2007/01/19*
 

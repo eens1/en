@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: https://vaticancatholic.com/1917-code-of-canon-law/
-title: The 1917 Code of Canon Law
+external_url: "https://vaticancatholic.com/1917-code-of-canon-law/"
+title: "The 1917 Code of Canon Law"
 ---
 
 

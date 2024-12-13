@@ -2,8 +2,12 @@
 title: "Objection 11): What does it matter whether or not Benedict XVI/Francis is a pope? The issue does not concern me."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/popes-or-not-why-does-it-matter/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/popes-or-not-why-does-it-matter/)
 
 *2007/01/19*
 

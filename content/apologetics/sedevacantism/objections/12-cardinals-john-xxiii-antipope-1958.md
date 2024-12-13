@@ -2,8 +2,12 @@
 title: "Objection 12): How could the entire Church and all the cardinals recognize an antipope, such as in the case of John XXIII (1958-1963)?"
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/cardinals-john-xxiii-antipope-1958/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/cardinals-john-xxiii-antipope-1958/)
 
 *2007/01/19*
 

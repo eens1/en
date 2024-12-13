@@ -1,9 +1,8 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: https://vaticancatholic.com/new-testament-baptism-necessary-salvation/
-title: The New Testament is clear that the Sacrament of Baptism is Indispensable for
-  Salvation
+external_url: "https://vaticancatholic.com/new-testament-baptism-necessary-salvation/"
+title: "The New Testament is clear that the Sacrament of Baptism is Indispensable for Salvation"
 ---
 
 

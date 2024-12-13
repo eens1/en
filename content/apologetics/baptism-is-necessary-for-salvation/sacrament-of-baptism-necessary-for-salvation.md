@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: https://vaticancatholic.com/sacrament-of-baptism-necessary-for-salvation
-title: The Sacrament of Baptism is Necessary for Salvation
+external_url: "https://vaticancatholic.com/sacrament-of-baptism-necessary-for-salvation"
+title: "The Sacrament of Baptism is Necessary for Salvation"
 ---
 
 

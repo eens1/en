@@ -2,8 +2,12 @@
 title: "Objection 2): What’s your authority for making these judgments? Your use of dogmatic statements is private interpretation."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/dogmatic-statements"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/dogmatic-statements)
 
 *2007/01/19*
 

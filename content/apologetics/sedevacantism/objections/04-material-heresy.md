@@ -2,8 +2,12 @@
 title: "Objection 4): What about material heresy? Can’t the Vatican II Popes only be material heretics?"
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/material-heresy"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/material-heresy)
 
 *2007/01/19*
 

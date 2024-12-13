@@ -2,8 +2,12 @@
 title: "Objection 15): The Church and the hierarchy will always be visible. If the Vatican II Church is not the true Catholic Church, then the Church and hierarchy are no longer visible."
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/hierarchy-visibility-of-the-church/"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/hierarchy-visibility-of-the-church/)
 
 *2007/01/19*
 

@@ -1,10 +1,9 @@
 ---
 date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: https://vaticancatholic.com/sedevacantism-sedevacantists
-title: Answers to the Most Common Objections Against Sedevacantism
+external_url: "https://vaticancatholic.com/sedevacantism-sedevacantists"
+title: "Answers to the Most Common Objections Against Sedevacantism"
 ---
-
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

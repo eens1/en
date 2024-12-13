@@ -2,8 +2,12 @@
 title: "Objection 5): The Church cannot exist without a pope, or at least it cannot exist for 40 years without a pope, as Sedevacantists say…"
 date: 2024-09-06T20:02:28+02:00
 draft: false
+external_url: "https://vaticancatholic.com/church-can-exist-without-a-pope"
 ---
 
+By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
+
+Source: [vaticancatholic.com](https://vaticancatholic.com/church-can-exist-without-a-pope)
 
 *2007/01/19*
 
