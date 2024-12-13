@@ -12,6 +12,9 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/st-gregory-nazianz-and-baptism-of-desire/" />
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
 
 
 <link rel="stylesheet" href="/css/style.css">
@@ -29,6 +32,10 @@
 
   
     <link rel="stylesheet" href="/css/index.css">
+  
+
+  
+    <link rel="stylesheet" href="/css/pagefind.css">
   
 
   
@@ -124,6 +131,13 @@ St. Gregory Nazianz, 381 AD: “Of those who fail to be baptized some are utterl
 </header>
 
 <main>
+
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
 
 

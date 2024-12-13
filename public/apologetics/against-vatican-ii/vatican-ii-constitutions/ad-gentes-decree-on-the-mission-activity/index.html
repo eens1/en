@@ -12,6 +12,9 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/ad-gentes" />
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
 
 
 <link rel="stylesheet" href="/css/style.css">
@@ -29,6 +32,10 @@
 
   
     <link rel="stylesheet" href="/css/index.css">
+  
+
+  
+    <link rel="stylesheet" href="/css/pagefind.css">
   
 
   
@@ -124,6 +131,13 @@ Vatican II document, Ad Gentes # 6: “For although the Church possesses totally
 </header>
 
 <main>
+
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
 
 

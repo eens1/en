@@ -12,6 +12,9 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/trent-necessity-of-penance-vs-baptism/" />
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
 
 
 <link rel="stylesheet" href="/css/style.css">
@@ -29,6 +32,10 @@
 
   
     <link rel="stylesheet" href="/css/index.css">
+  
+
+  
+    <link rel="stylesheet" href="/css/pagefind.css">
   
 
   
@@ -124,6 +131,13 @@ Pope Paul III, The Council of Trent, canons on the Sacrament of Baptism, canon 5
 </header>
 
 <main>
+
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
 
 
