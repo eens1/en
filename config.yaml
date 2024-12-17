@@ -43,6 +43,13 @@ menu:
         pre: '<i class="fab fa-x-twitter"></i>'
         params:
           target: "_blank"
+
+      - identifier: theme-switcher
+        name: ""
+        url: "#"
+        weight: 8
+        pre: '<i id="theme-icon" class="fas fa-moon"></i>'
+
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
