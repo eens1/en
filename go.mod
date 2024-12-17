@@ -2,4 +2,4 @@ module github.com/eens1/en
 
 go 1.19
 
-require github.com/eens1/config v0.0.0-20241215144330-bbf075afb0fa // indirect
+require github.com/eens1/config v0.0.0-20241217112041-ecad803d7c95 // indirect
