@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/sacrosanctum-concilium" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -85,6 +77,17 @@ document.documentElement.setAttribute("data-theme", theme);
 A post-Vatican II “Mass”
 These incredible changes will be covered in more detail in the next section of this book dealing with “The Liturgical Revolution.” What Sacrosanctum Concilium started, Paul VI finished by suppressing the traditional Latin Mass and replacing it with an invalid Protestant service that is referred to as the New Mass or the Novus Ordo Missae (the New Order of the Mass)." />
 <meta name="twitter:image" content="https://vaticancatholic.com/images/sacrosanctum-concilium.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -83,6 +75,17 @@ document.documentElement.setAttribute("data-theme", theme);
 <meta name="twitter:description" content="Source: vaticancatholic.com
 This section moves into the evidence that the Bishop of Rome/the Church of Rome was recognized as supreme in the primitive Christian Church (precisely because it inherited the authority of St. Peter). This section covers the famous epistle of Clement of Rome to the Corinthians (A.D. 90-100) and the famous epistle of Ignatius of Antioch to the Romans (circa A.D. 110). Learn what you probably didn’t know about these most famous documents of early Christianity." />
 <meta name="twitter:image" content="https://eens-en.netlify.app/" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

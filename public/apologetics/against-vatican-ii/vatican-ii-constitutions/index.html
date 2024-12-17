@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/vatican-ii" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -82,6 +74,17 @@ document.documentElement.setAttribute("data-theme", theme);
 <meta name="twitter:title" content="Vatican II&#39;s heretical Constitutions" />
 <meta name="twitter:description" content="A Revolution Against The Catholic Church" />
 <meta name="twitter:image" content="https://i.ibb.co/2Mm5b7k/vatican-ii.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

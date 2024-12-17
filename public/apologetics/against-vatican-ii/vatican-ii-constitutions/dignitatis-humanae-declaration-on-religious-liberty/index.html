@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/dignitatis-humanae" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -84,6 +76,17 @@ document.documentElement.setAttribute("data-theme", theme);
 4. Dignitatis Humanae – Vatican II’s Declaration on Religious liberty Vatican II’s Declaration on Religious Liberty was without question the most notorious of all the documents of Vatican II. In order to understand why Vatican II’s teaching on religious liberty is heretical one must understand the Catholic Church’s infallible teaching on the issue.
 It’s a dogma of the Catholic Church that States have a right, and indeed a duty, to prevent the members of false religions from publicly propagating and practicing their false faiths." />
 <meta name="twitter:image" content="https://vaticancatholic.com/images/dignitates-humanae.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

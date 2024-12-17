@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/heretic-cannot-be-pope/" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -82,6 +74,17 @@ document.documentElement.setAttribute("data-theme", theme);
 <meta name="twitter:title" content="A Heretic Can Never Become The Pope - Catholic Teaching" />
 <meta name="twitter:description" content="Source: vaticancatholic.com" />
 <meta name="twitter:image" content="https://i.ibb.co/f9Y7YZt/st-robert-bellarmine.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

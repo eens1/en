@@ -57,6 +57,16 @@ markup:
       unsafe: true
 params:
    dateFormat: "Jan 02, 2006"
+
+   featured_boxes:
+      - icon: "fas fa-church"
+        title: "Outside the Church no Salvation"
+        description: "Defending this crucial Christian dogma."
+        link: "/apologetics/outside-the-church-no-salvation/"
+      - icon: "fas fa-bible"
+        title: "The Bible proves Catholicism"
+        description: "Irrefutable proofs for Catholicism."
+        link: "/apologetics/bible-proves-catholicism/"
    quickLinks:
       group1:
          title: "Bible"

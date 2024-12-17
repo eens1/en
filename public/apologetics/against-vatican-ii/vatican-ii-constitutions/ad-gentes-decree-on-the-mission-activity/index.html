@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://vaticancatholic.com/ad-gentes" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -85,6 +77,17 @@ document.documentElement.setAttribute("data-theme", theme);
 Not surprisingly, we also find heresy in Vatican II’s Decree on Missionary Activity.
 Vatican II document, Ad Gentes # 6: “For although the Church possesses totally and fully the means of salvation, it neither always nor at once puts or can put them all into operation, but is subject to beginnings and stages in the activity by which it strives to bring God’s plan into effect." />
 <meta name="twitter:image" content="https://vaticancatholic.com/images/ad-gentes.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>

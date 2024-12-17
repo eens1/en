@@ -12,14 +12,6 @@
 
 <link rel="canonical" href="https://eens-en.netlify.app/spirituality/rosary/" />
 
-<script>
-(function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
-})();
-</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -82,6 +74,17 @@ document.documentElement.setAttribute("data-theme", theme);
 <meta name="twitter:title" content="Rosary" />
 <meta name="twitter:description" content="See Most Holy Family Monastery&rsquo;s page, Devotion to the Blessed Virgin Mary and Praying the Holy Rosary" />
 <meta name="twitter:image" content="https://i.ibb.co/ngZj5z2/rosary.jpg" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
+
 
 
 </head>
