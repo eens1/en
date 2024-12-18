@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Against Judaism on Extra Ecclesiam Nulla Salus</title>
-    <link>https://eens-en.netlify.app/apologetics/against-judaism/</link>
+    <link>http://localhost:1313/apologetics/against-judaism/</link>
     <description>Recent content in Against Judaism on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:27 +0200</lastBuildDate>
-    <atom:link href="https://eens-en.netlify.app/apologetics/against-judaism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/apologetics/against-judaism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Specific Catholic Teaching Against Judaism</title>
-      <link>https://eens-en.netlify.app/apologetics/against-judaism/against-judaism/</link>
+      <link>http://localhost:1313/apologetics/against-judaism/against-judaism/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:27 +0200</pubDate>
-      <guid>https://eens-en.netlify.app/apologetics/against-judaism/against-judaism/</guid>
+      <guid>http://localhost:1313/apologetics/against-judaism/against-judaism/</guid>
       <description>By Brother Peter Dimond, O.S.B.&#xA;Source: vaticancatholic.com&#xA;Jews practice the Old Law and reject the Divinity of Christ and the Trinity. The Church teaches the following about the cessation of the Old Law and about all who continue to observe it:&#xA;Pope Eugene IV, Council of Florence, 1441, ex cathedra:&#xA;“The Holy Roman Church firmly believes, professes and teaches that the matter pertaining to the law of the Old Testament, the Mosaic law, which are divided into ceremonies, sacred rites, sacrifices, and sacraments, because they were established to signify something in the future, although they were suited to the divine worship at that time, after our Lord’s coming had been signified by them, ceased, and the sacraments of the New Testament began; and that whoever, even after the passion, placed hope in these matters of the law and submitted himself to them as necessary for salvation, as if faith in Christ could not save without them, sinned mortally.</description>
     </item>
   </channel>
