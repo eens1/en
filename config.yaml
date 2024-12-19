@@ -28,13 +28,13 @@ menu:
         url: "https://eens-it.netlify.app"
         weight: 5 
 
-#      - identifier: youtube
-#        name: ""
-#        url: "https://www.youtube.com/@bro_matthieu"
-#        weight: 6
-#        pre: "<i class='fab fa-youtube'></i> "
-#        params:
-#          target: "_blank"
+      - identifier: youtube
+        name: ""
+        url: "https://www.youtube.com/@FrereMatthieuCap"
+        weight: 6
+        pre: "<i class='fab fa-youtube'></i> "
+        params:
+          target: "_blank"
 
       - identifier: twitter
         name: ""
@@ -59,35 +59,31 @@ params:
    dateFormat: "Jan 02, 2006"
 
    featured_boxes:
-      - icon: "fas fa-bible"
+      - icon: "icons/bible"
         title: "The Bible proves Catholicism"
         description: "Irrefutable proofs for Catholicism."
         link: "/apologetics/bible-proves-catholicism/"
-      - icon: "fas fa-church"
+      - icon: "icons/church"
         title: "Outside the Church no Salvation"
         description: "Defending this crucial Christian dogma."
         link: "/apologetics/outside-the-church-no-salvation/"
-      - icon: "fa fa-chalkboard-teacher"
+      - icon: "icons/open-book"
         title: "Catechism"
         description: "The Penny Catechism. Catechism of Christian doctrine."
         link: "/catechism"
-      - icon: "fa fa-users"
+      - icon: "icons/colosseum"
         title: "Vatican II Exposed"
         description: "Vatican II does not represent the Catholic Church but a Counter-Church teaching a false Gospel."
         link: "apologetics/against-vatican-ii"
-      - icon: "fa fa-cross"
+      - icon: "icons/pray"
         title: "The Holy Rosary"
         description: "A very important devotion to the Blessed Virgin Mary."
         link: "/spirituality/rosary"
-      - icon: "fa fa-pray"
+      - icon: "icons/cross"
         title: "Conversion to traditional Catholicism"
         description: "Steps to convert to the true traditional Catholic Faith needed for salvation."
         link: "/spiritualite/steps-to-convert"
-      - icon: "fa fa-video"
-        title: "Videos"
-        description: "Catholic video platforms."
-        link: "/videos"
-      - icon: "fa fa-link"
+      - icon: "icons/internet-access"
         title: "Links"
         description: "Links to Catholic websites."
         link: "/links"
@@ -111,6 +107,10 @@ params:
               url: "/apologetics/outside-the-church-no-salvation"
             - title: "Vatican II Sect exposed"
               url: "/apologetics/against-vatican-ii"
+            - title: "Protestantism exposed"
+              url: "/apologetics/against-protestantism"
+            - title: "Sedevacantism proven"
+              url: "/apologetics/sedevacantism"
       group4:
          title: "Spirituality"
          order: 4
@@ -118,6 +118,8 @@ params:
          links:
             - title: "Rosary"
               url: "/spirituality/rosary"
+            - title: "Steps to convert"
+              url: "/spirituality/steps-to-convert"
       group5:
          title: "Religious Life"
          order: 5
@@ -125,17 +127,4 @@ params:
          links:
             - title: "Friars Minors"
               url: "/religious-life/friars-minors"
-
-
-   homepage_blocks:
-
-      - text: "*Pope Innocent III, Fourth Lateran Council, Constitution 1, 1215, ex cathedra*:\n
-
-      “There is indeed one universal Church of the faithful, **outside of which nobody at all is saved**, in which Jesus Christ is both priest and sacrifice.”"
-
-      - text: "*St. John Eudes, Man’s Contract With God In Baptism*: \n
-
-      “… that you may have a true faith in those things which God has revealed, it is necessary that you should believe in the Catholic Church, in which alone you can learn with certainty what God has revealed… Certainly those who do not believe in the Catholic Church cannot have divine faith in the mysteries which they believe, but only natural and human faith… Thank God for having given you the precious gift of faith, and having made you a child of the holy Catholic Church, which is the faithful repository of the truths of salvation, and which all Christians are obliged to acknowledge as the true Church.\n
-
-… The holy Catholic Church… her faith is the same in all times… You should be most desirous to preserve the faith in all its purity, since without it, it is impossible to do anything which merits Heaven.  ‘Without faith it is impossible to please God.’  Those who do not possess it may practice all the moral virtues, justice, sobriety, chastity, alms-deeds, prayers, mortification… When, therefore, you observe that those who believe not in the Church, practice some good works, offer many prayers, and lead an austere life, do not believe that they are on this account on the way of salvation, unless they have true faith; you commit an enormous sin if you believe that they can be saved outside of the Church; that they can have faith without believing in her, or that they can be saved without the faith.”"
 

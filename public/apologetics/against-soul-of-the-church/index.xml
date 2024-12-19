@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Against the &#34;Soul of the Church&#34; heresy on Extra Ecclesiam Nulla Salus</title>
-    <link>https://eens-en.netlify.app/apologetics/against-soul-of-the-church/</link>
+    <link>http://localhost:1313/apologetics/against-soul-of-the-church/</link>
     <description>Recent content in Against the &#34;Soul of the Church&#34; heresy on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:27 +0200</lastBuildDate>
-    <atom:link href="https://eens-en.netlify.app/apologetics/against-soul-of-the-church/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/apologetics/against-soul-of-the-church/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Soul of the Church Heresy</title>
-      <link>https://eens-en.netlify.app/apologetics/against-soul-of-the-church/soul-of-the-church-heresy/</link>
+      <link>http://localhost:1313/apologetics/against-soul-of-the-church/soul-of-the-church-heresy/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:27 +0200</pubDate>
-      <guid>https://eens-en.netlify.app/apologetics/against-soul-of-the-church/soul-of-the-church-heresy/</guid>
+      <guid>http://localhost:1313/apologetics/against-soul-of-the-church/soul-of-the-church-heresy/</guid>
       <description>By Brother Peter Dimond, O.S.B.&#xA;Source: vaticancatholic.com&#xA;OBJECTION- It’s possible to belong to the “Soul” of the Church without belonging to her Body. In this way those who die as members of non-Catholic religions can be joined to the Church and saved, as the Baltimore Catechism (1921) explains:&#xA;Q. 512 How are such persons said to belong to the Church?&#xA;A. Such persons are said to belong to the “Soul of the Church”; that is, they are really members of the Church without knowing it.</description>
     </item>
   </channel>

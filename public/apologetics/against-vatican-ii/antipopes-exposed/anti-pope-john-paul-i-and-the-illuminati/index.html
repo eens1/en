@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -76,7 +76,14 @@
 Source: vaticancatholic.com" />
 <meta name="twitter:image" content="https://vaticancatholic.com/images/jpi-2.jpg" />
 
-
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
 
 
 
@@ -121,6 +128,10 @@ Source: vaticancatholic.com" />
     
       <li>
         <a href="https://eens-it.netlify.app" >Italiano</a>
+      </li>
+    
+      <li>
+        <a href="https://www.youtube.com/@FrereMatthieuCap" target="_blank"><i class='fab fa-youtube'></i> </a>
       </li>
     
       <li>
@@ -183,7 +194,7 @@ Source: vaticancatholic.com" />
 
 
 <div class="share">
-<a href="http://twitter.com/share?url=https%2f%2feens-en.netlify.app%2fapologetics%2fagainst-vatican-ii%2fantipopes-exposed%2fanti-pope-john-paul-i-and-the-illuminati%2f" class="twitter" aria-label="Share on Twitter">Share on <i class="fab fa-x-twitter"></i></a>
+<a href="http://twitter.com/share?url=http%2f%2flocalhost1313%2fapologetics%2fagainst-vatican-ii%2fantipopes-exposed%2fanti-pope-john-paul-i-and-the-illuminati%2f" class="twitter" aria-label="Share on Twitter">Share on <i class="fab fa-x-twitter"></i></a>
 </div>
 
 
