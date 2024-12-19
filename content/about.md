@@ -11,3 +11,4 @@ This site promotes the traditional Catholic faith necessary for salvation. It is
 Please visit Most Holy Family Monastery's websites, [vaticancatholic.com](https://vaticancatholic.com) and [endtimes.video](https://endtimes.video), for crucial information about the traditional Catholic faith necessary for Salvation.
 
 See the [Carmel of the Immaculate Heart of Mary](https://www.truecatholiccarmel.com).
+

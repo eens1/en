@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spirituality on Extra Ecclesiam Nulla Salus</title>
-    <link>https://eens-en.netlify.app/spirituality/</link>
+    <link>http://localhost:1313/spirituality/</link>
     <description>Recent content in Spirituality on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 18 Dec 2024 05:52:43 +0000</lastBuildDate>
-    <atom:link href="https://eens-en.netlify.app/spirituality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/spirituality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steps to convert</title>
-      <link>https://eens-en.netlify.app/spirituality/steps-to-convert/</link>
+      <link>http://localhost:1313/spirituality/steps-to-convert/</link>
       <pubDate>Wed, 18 Dec 2024 05:52:43 +0000</pubDate>
-      <guid>https://eens-en.netlify.app/spirituality/steps-to-convert/</guid>
+      <guid>http://localhost:1313/spirituality/steps-to-convert/</guid>
       <description>See Most Holy Family Monastery&amp;rsquo;s website.</description>
     </item>
   </channel>
