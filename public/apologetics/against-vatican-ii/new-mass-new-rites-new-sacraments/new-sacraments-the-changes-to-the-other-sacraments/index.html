@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
 
 <meta charset="UTF-8">
@@ -77,15 +77,18 @@ Source: vaticancatholic.com
 “These most crafty enemies have filled and inebriated with gall and bitterness the Church, the spouse of the immaculate Lamb, and have laid impious hands on her most sacred possessions. In the Holy Place itself, where has been set up the See of the most holy Peter and the Chair of Truth for the light of the world, they have raised the throne of their abominable impiety, with the iniquitous design that when the Pastor has been struck, the sheep may be scattered." />
 <meta name="twitter:image" content="https://vaticancatholic.com/images/last-rites-2.jpg" />
 
+
 <script>
 (function() {
-const savedTheme = localStorage.getItem("theme");
-const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const theme = savedTheme || (prefersDark ? "dark" : "light");
-document.documentElement.setAttribute("data-theme", theme);
+    const savedTheme = localStorage.getItem("theme");
+
+    
+    const theme = savedTheme || "dark";
+
+    
+    document.documentElement.setAttribute("data-theme", theme);
 })();
 </script>
-
 
 
 
@@ -195,7 +198,7 @@ document.documentElement.setAttribute("data-theme", theme);
 
 
 <div class="share">
-<a href="http://twitter.com/share?url=http%2f%2flocalhost1313%2fapologetics%2fagainst-vatican-ii%2fnew-mass-new-rites-new-sacraments%2fnew-sacraments-the-changes-to-the-other-sacraments%2f" class="twitter" aria-label="Share on Twitter">Share on <i class="fab fa-x-twitter"></i></a>
+<a href="http://twitter.com/share?url=https%2f%2feens-en.netlify.app%2fapologetics%2fagainst-vatican-ii%2fnew-mass-new-rites-new-sacraments%2fnew-sacraments-the-changes-to-the-other-sacraments%2f" class="twitter" aria-label="Share on Twitter">Share on <i class="fab fa-x-twitter"></i></a>
 </div>
 
 
