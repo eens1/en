@@ -8,5 +8,6 @@ tags: []
 categories: []
 ---
 
-See Most Holy Family Monastery's video platform : [endtimes.video](https://endtimes.video).
+* Most Holy Family Monastery's video platform, [endtimes.video](https://endtimes.video).
+* Carmel of the Immaculate Heart of Mary's [Youtube channel](https://www.youtube.com/@TrueCatholicCarmel)
 
