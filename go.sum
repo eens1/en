@@ -202,3 +202,5 @@ github.com/eens1/config v0.0.0-20241220071730-22e69b145a3d h1:i7pjsxGQG9HAuUTlyd
 github.com/eens1/config v0.0.0-20241220071730-22e69b145a3d/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
 github.com/eens1/config v0.0.0-20241220073305-cdcd2352c9fe h1:ilEz8wJ4QezQkYGc5LURwlAZNq8Cj+eQKrqfQsw9h/s=
 github.com/eens1/config v0.0.0-20241220073305-cdcd2352c9fe/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241220073734-9102056d9bb7 h1:3KS26LJHV4AGoByDzFv0I2FufMU2OcXvLDCUj+ja08k=
+github.com/eens1/config v0.0.0-20241220073734-9102056d9bb7/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
