@@ -1,0 +1,70 @@
+---
+title: "Chapter 4"
+date: 2024-12-20T04:44:56+0000
+draft: false
+tags: []
+summary: "That the Brothers May Not Accept Money"
+---
+
+The subject of poverty is raised again here, as it is also in the Short Discourse. However, some passages are so important that they deserve repetition.
+
+[Concerning “Syndics Apostolic” and “Spiritual Friends”]
+
+Scrupulous Brother: – Since this subject is so very important, I beg you not to tire in explaining it in detail and at length.
+
+Mature Brother: – This cannot be done without becoming tiresome since, through the grace of God in this holy reform, such things did not happen. These poor little ones suffered many discomforts in food, clothing, housing, and everything in order not to offend God and break the Rule […]
+
+Scrupulous Brother: – Concerning syndics, do you think that Saint Francis intended them?
+
+Mature Brother: – From what has been said, especially in the chapter on the subject of poverty and chapter six, you will know that Saint Francis did not want recourse to spiritual friends except for the needs of the sick or for the clothing of the brothers. Although these things were necessary, there was no [87v] dispensation regarding the acceptance of money. Thus, he says: “always providing that they in no way accept coin or money.”
+
+However, the deceit lies in this: the brothers, not being satisfied with a few things according to the poverty of Jesus Christ and Saint Francis, but wishing to have excess, approached the Apostolic See, alleging that there was great need because of the number of brothers and the like. They demanded privileges to accept money offered to them in various ways, bequeathed in wills or given for services rendered, Masses, and the like. They argued that they had to employ syndics who would have the authority to spend it, administer it, and perform other acts of business. […]
+
+Although the Rule forbids all acceptance of money, the brothers claimed that it was dangerous to their souls not to have someone to hold and spend these donations. The Pope, trusting in their consciences and moved by their insistence, allowed them to have syndics, since it was a lesser evil for them to accept, hold, and spend the money than for the brothers to do so. Thus, the Pope acquiesced to their imperfection, just as he had also granted the privileges of having large houses, vestments, cemeteries, and the like, believing that those who had made these requests did so in good conscience.
+
+As he had foreseen this, Saint Francis commanded in his Testament that the brothers should not request privileges for any reason. He never wanted anything to do with this. Even though those who explain the Rule say that we are not obliged to observe this text, nevertheless his intention is expressed in these words. Therefore, as the holy brothers did at the beginning of the Order and as the Capuchins [88r] do at present, it is better not to have syndics or to have them only as laid down in Exiit, since this was written after Saint Francis and states that there was consultation with some of the companions of the Saint regarding the Rule and its explanation. Saint Francis intended for the brothers to live in a poor manner, being satisfied with a few things that were cheap and plain, which they could obtain each day by begging, avoiding all excess in imitation of the poor Jesus Christ, his most holy Mother, and the disciples.
+
+[…] Thus, not even a farthing should ever be deposited in the hands of syndicates or other people. As was said above, let them have recourse to spiritual friends only when other inevitable expenses have to be provided for by means of money, which cannot be obtained through begging. If this is not followed, many uncomfortable situations will develop, involving unjustifiable recourse to depositing money, spending it, having inexcusable comforts, excess, and hoarding for unforeseen future needs. This leads to a sumptuous lifestyle of excess and many other unwarranted things which are completely repugnant to our state.
+
+The brothers should not enlist syndics except as spiritual friends nominated by the brothers and introduced to the main benefactors of the money. The Supreme Pontiffs, although they have granted syndics by way of dispensation in connection with unspecified alms, do not intend to go against the purity of the Rule entirely. Since they nominated the syndics, they also control them when [88v] in the name of the Roman Church—not of the brothers—they hold monetary alms, accept, and spend them. All the conditions that apply to spiritual friends apply to syndics, and they are to act in the same way. See these conditions which have been explained above in part and will be dealt with more fully below. Study them well, and you will observe great transgressions in this matter.
+
+Let the guardians and the other brothers be aware that, if the syndic is not aware of it, they may not deposit alms with different people, be they men or women. This is much more malicious if the brother covers himself by saying that he does not want all his brothers to know his business. This is even worse if the person is not a representative (of the brothers), since then the brothers are accepting money through an intermediary. It is evil to deposit money with a family.
+
+It is worse if they are not representatives (of the brothers) and the syndic knows nothing about it or how it is spent. The brothers cannot say on their own authority: “Go and spend, etc., go and pay so much money to such a person.” Nor may they buy something and then say: “Go and pay.” They may not arrange accounts with people. Nor may they demand an account of what money was spent. Nor may they have them count it in their presence. It is worse if they help them to deposit money.
+
+These things are prohibited not only by Clement’s Exiit but also because the spiritual friends, or their representatives, may not do them—much less the syndics or their representatives, or families. The brothers may not buy things themselves and then say: “Go to so-and-so and he will pay you,” or get an invoice and take it to someone who holds the money.
+
+They may not say: “Give this money to someone because they are owed so much. Hold this for me or at my discretion, or [89r] do not spend this without asking me, since I have appointed you or wish to nominate someone else.”
+
+They may not keep money in the sacristy or in any other place in the house, nor have the keys to strongboxes, as they would then become owners. Nor may they buy things and then say to the creditor: “Come to this place for your money,” and then put out a box of money, or a purse saying: “Take what is owing to you,” and then place the money in the box either by himself or through another. They may not act this way with domestics, builders, carpenters, or anyone who has done work for the brothers.
+
+Scrupulous Brother: – What do you think about having recourse to money for fairs, markets, Venice, etc., for sensual, superfluous fancy things, such as garlands, knives, coral, or the like, to keep them, give them away, etc., and also for excess foodstuff such as spices, confectionary, and things to make savory dishes?
+
+Mature Brother: – In the things you have mentioned, or will mention, you can recognize and observe the open transgression and ruin of highest poverty and of the soul, bad example, infinite evil, the indignation of God and of Saint Francis, and their curse. This is one of the causes which motivated this reform and separation […]
+
+Scrupulous Brother: – Is it lawful for the brothers to ask the syndics or their representatives to accept money for Masses or other services?
+
+Mature Brother: – I say that it is never lawful to celebrate simply for money, since this means giving spiritual things in exchange for temporal goods, which is simony. This should not be done out of greed, as it implies turpe lucrum and the vice of avarice, or some other notorious evil. It is not lawful to promise or make an arrangement to say a number of Masses for a given payment since this is an act of ownership, as Saint Bernardine says, even if they intend to avoid the vice of simony. However, without making any agreement or contract and having removed any sinister suggestion of alms or avarice, the brothers may, when requested, say Masses or perform other sacred services out of charity and to satisfy devotion—not for a price or payment—but out of charity, accepting by way of alms only what is necessary to support life, such as bread, wine, oil, and the like, or something for the sick or for clothing. If they do not need these things, they may not accept them for future needs […]
+
+It is better when the brothers are told: “Here is your money, to whom should we give it?” to say: “We do not want your money. However, if you give us something to live on, we will accept it for the love of God” and leave it up to the donor.
+
+Therefore, in no way may they accept money for Masses or services, except as mentioned above. Nor may they say: “Give it to so-and-so who is the syndic or his representative”; or “I will send it to your family who will give it to you,” indicating a slot or box or altar, lifting up the cloth themselves and covering the money with it—not in the sacristy or outside, nor say: “Put it where you like” […]
+
+When wax, linen cloth, and the like are offered for Masses and the brothers need these things for the house, they may accept them as alms as long as no other arrangement has been entered into, accepting as much as needed and no more; but not with intent to sell them or have them sold or bartered or to pay debts with them, since this would be to accept money contrary to the Rule. The brothers may use wax, cloth, or funeral drapes when needed but not sell them or have them sold, as stated above. Great danger is evident in such cases and in many more like them, and there are many transgressions of the Rule.
+
+Note that when the brothers say Masses outside the house, in the churches of others, villages, or castles, and say to those who want to give them money: “We do not accept money, but give it to that person,” indicating someone who will accept it, they commit a great evil. I believe that they sin mortally in doing this, as does the guardian who orders such a thing, since they accept money against the Rule, placing it in the hands of someone else on their authority. Often, they accept this money for future needs. Taking no notice of Exiit, they display inordinate avarice and attachment to money because, if there were no hope of being paid, the guardians would not have sent them, and they would not have gone […]
+
+Scrupulous Brother: – Therefore, should they forfeit this money and bring harm upon the place?
+
+Mature Brother: – Damage to the soul is the greater thing. Augustine says lucrum in aecha, damnum in conscientia—it is not good.
+
+Moreover, it is better to lose a hundred ducats and the whole world than to offend God, one’s conscience, and the Rule, and to lose one’s soul […]
+
+Let the brothers be aware that when they can have things by begging—as they have done on other occasions without much trouble—it is not lawful for them to procure them by means of payment, nor through spiritual friends, etc. The same applies if the item is not really necessary. Many times, when an item is paid for, it is to avoid the embarrassment of begging or to obtain a larger amount or excess.
+
+If this is not followed, there will be great scope and excuse for relaxation, and begging, to which we are strongly bound by the Rule, will disappear completely. Thus, it says: Let them go seeking alms, etc. According to those who comment on the Rule, this precept extends to those things that can be begged for without money. This appears to be what Saint Francis meant when he commissioned the superiors in a special way to provide for the sick and for clothing. He also laid down the method of procuring this—that is, through recourse to spiritual friends [79r]. In doing so, he wanted to distinguish between necessities that can be met through begging without money and others that must be purchased with payment, as Hugo says.
+
+It follows from this that when the needs of the sick and clothing can be met by alms and begging, we should not have recourse to money—much more so for necessities that are not that urgent. When this cannot be done, it is lawful to have recourse to spiritual friends in the manner described.
+
+Other needs should always be met by begging, and when this cannot happen, whatever it is should be left aside as soon as possible, rather than having recourse to money against the Rule. It is better to suffer some discomfort than to sin […]
+

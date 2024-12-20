@@ -55,6 +55,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 5
+    ordered: false
+
 params:
    dateFormat: "Jan 02, 2006"
 
