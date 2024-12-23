@@ -1,0 +1,6 @@
+---
+title: "NEW MASS SIMILAR TO PROTESTANT SERVICES"
+date: 2024-12-19
+---
+
+{{< youtube N7ZEZF7IKI8 >}}
