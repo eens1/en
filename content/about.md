@@ -12,3 +12,9 @@ Please visit Most Holy Family Monastery's websites, [vaticancatholic.com](https:
 
 See the [Carmel of the Immaculate Heart of Mary](https://www.truecatholiccarmel.com).
 
+
+<br>
+<br>
+<br>
+<h3 style="text-align: center;">"In Your will are all things, O Lord, and there is none that can resist Your will; for You have made all things, heaven and earth, and all things that are under the cope of heaven. You are Lord of all." (<em>Introit XXI Sun. after Pent.</em>)</h3>
+
