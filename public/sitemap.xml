@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-24T13:11:17+00:00</lastmod>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/videos/no-one-can-be-forgiven-without-this-catholic-teaching/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/religious-life/friars-minors/capuchins/john-of-fano-commentary-rule/13/</loc>
     <lastmod>2024-12-24T13:11:17+00:00</lastmod>
@@ -4106,10 +4109,10 @@
     <loc>http://localhost:1313/videos/the-invalid-new-rite-of-ordination-in-action-the-optional-homily/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/apologetics/bible-proves-catholicism/the-key-to-changing-your-life-catholic-prayer-bible-bibleverse-biblestudy-heaven-christian/</loc>
+    <loc>http://localhost:1313/spirituality/the-key-to-changing-your-life/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/videos/the-key-to-changing-your-life-catholic-prayer-bible-bibleverse-biblestudy-heaven-christian/</loc>
+    <loc>http://localhost:1313/apologetics/bible-proves-catholicism/the-key-to-changing-your-life-catholic-prayer-bible-bibleverse-biblestudy-heaven-christian/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/videos/the-key-to-john-3-16/</loc>
