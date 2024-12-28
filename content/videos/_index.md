@@ -7,7 +7,7 @@ summary: ""
 tags: []
 categories: []
 image: "https://i.ibb.co/FDgfpkc/cinema-strip.jpg"
-featurd: true
+featured: true
 ---
 
 See Most Holy Family Monastery's video platform, [endtimes.video](https://endtimes.video) and Carmel of the Immaculate Heart of Mary's [Youtube channel](https://www.youtube.com/@TrueCatholicCarmel).
