@@ -3,6 +3,8 @@ date: 2024-09-06 20:02:28+02:00
 draft: false
 external_url: https://vaticancatholic.com/sspx-baptism-of-desire-heresy/
 title: Against the Society of St. Pius X
+featured: true
+image: "https://i.ibb.co/DCBm7Xz/lefebvre-quatre-eveques-fsspx.jpg"
 ---
 
 

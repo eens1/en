@@ -3,7 +3,17 @@ title: "Extra Ecclesiam Nulla Salus"
 module:
    imports:
       - path: github.com/eens1/config
-
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 5
+    ordered: false
+params:
+   dateFormat: "Jan 02, 2006"
 languageName: "English"
 defaultContentLanguage: en
 menu:
@@ -50,66 +60,4 @@ menu:
         weight: 8
         pre: '<i id="theme-icon" class="fas fa-moon"></i>'
 
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 5
-    ordered: false
-
-params:
-   dateFormat: "Jan 02, 2006"
-
-   featured_boxes:
-      - "/apologetics/bible-proves-catholicism/"
-      - "/apologetics/outside-the-church-no-salvation/"
-      - "/catechism"
-      - "apologetics/against-vatican-ii"
-      - "/spirituality/rosary"
-      - "/spirituality/steps-to-convert"
-      - "/videos"
-      - "/links"
-
-   quickLinks:
-      group1:
-         title: "Bible"
-         order: 1
-         url: "/bible"
-         links:
-            - title: "Douay-Rheims Bible"
-              url: "/bible/douay-rheims"
-      group3:
-         title: "Apologetics"
-         order: 3
-         url: "/apologetics"
-         links:
-            - title: "The Bible proves Catholicism"
-              url: "/apologetics/bible-proves-catholicism"
-            - title: "Outside the Church no Salvation"
-              url: "/apologetics/outside-the-church-no-salvation"
-            - title: "Vatican II Sect exposed"
-              url: "/apologetics/against-vatican-ii"
-            - title: "Protestantism exposed"
-              url: "/apologetics/against-protestantism"
-            - title: "Sedevacantism proven"
-              url: "/apologetics/sedevacantism"
-      group4:
-         title: "Spirituality"
-         order: 4
-         url: "/spirituality"
-         links:
-            - title: "Rosary"
-              url: "/spirituality/rosary"
-            - title: "Steps to convert"
-              url: "/spirituality/steps-to-convert"
-      group5:
-         title: "Religious Life"
-         order: 5
-         url: "/religious-life"
-         links:
-            - title: "Friars Minors"
-              url: "/religious-life/friars-minors"
 

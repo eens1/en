@@ -5,6 +5,7 @@ draft: false
 tags: []
 image: "https://i.ibb.co/c6HbLqh/globe.jpg"
 description: "Links to Catholic websites."
+featured: true
 ---
 
 * [Most Holy Family Monastery](https://vaticancatholic.com)
