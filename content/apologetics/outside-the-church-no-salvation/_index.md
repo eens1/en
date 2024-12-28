@@ -4,6 +4,7 @@ date: 2024-09-06T20:00:23+02:00
 draft: false
 image: "https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png"
 description: "Defending this crucial Christian dogma."
+featured: true
 ---
 
 {{< figure src="https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png" >}}
