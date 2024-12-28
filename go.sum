@@ -216,3 +216,17 @@ github.com/eens1/config v0.0.0-20241227143749-155fd4f7ebd8 h1:ErgUlxHiZ/D8QvGHCT
 github.com/eens1/config v0.0.0-20241227143749-155fd4f7ebd8/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
 github.com/eens1/config v0.0.0-20241228102232-6534647fd2fb h1:+rTL7JS79zNo+tqrxC8vaNylvluHl0QbfjewJ9sZ8tc=
 github.com/eens1/config v0.0.0-20241228102232-6534647fd2fb/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103213-6472b09df26e h1:lg1SK5h+E1JHubOnTUTK35EL3VwEqmVsZohEUGJ8jVs=
+github.com/eens1/config v0.0.0-20241228103213-6472b09df26e/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103244-96734bbcb0e3 h1:VyheJYKx3jlraoNE+XFxDwEKJCW0cK5u/AZ+pT7TdrQ=
+github.com/eens1/config v0.0.0-20241228103244-96734bbcb0e3/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103319-cee0c50806d6 h1:AlTdpbhE5NZi3RKaeuRsYhbbJc7JXDr48T/GzYkofhc=
+github.com/eens1/config v0.0.0-20241228103319-cee0c50806d6/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103517-3809b45a6350 h1:5qrIVwW8KqfUT+jQ2enwp5NSCVYKmIubqFAgoHIOQwA=
+github.com/eens1/config v0.0.0-20241228103517-3809b45a6350/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103542-0fd16cf1d1a5 h1:LiuLEPKRzK5NotzhFegnem8WSIOw/4Rl6tbeq+XX2ks=
+github.com/eens1/config v0.0.0-20241228103542-0fd16cf1d1a5/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228103913-7a8b54cbdceb h1:+f7GZwIpvO/4sChdGTh2J6lXpcxwgXDPUAUmRtRA8J8=
+github.com/eens1/config v0.0.0-20241228103913-7a8b54cbdceb/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241228104354-df0f539dd67c h1:1Fd1Ju8gUdepHX/wCZv/6lcrqacq7Zqbh2OII5qsy8c=
+github.com/eens1/config v0.0.0-20241228104354-df0f539dd67c/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
