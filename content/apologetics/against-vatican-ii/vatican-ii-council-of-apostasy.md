@@ -1,8 +1,6 @@
 ---
 title: "Vatican II: Council of Apostasy"
-date: 2024-11-27T05:17:17+0000
-draft: false
-tags: []
+date: 2024-12-19
 ---
 
-{{< youtube BWsgxCVYtAI >}}
+{{< youtube u1wCWH4kbgs >}}
