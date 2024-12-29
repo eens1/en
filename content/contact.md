@@ -5,7 +5,7 @@ draft: false
 hide_footer: true
 ---
 
-{{< form name="Name" button="Submit" >}}
+{{< form name="Name" button="Submit" key="8f3ff63f-b4ef-4933-a61e-03c140303b40" >}}
 
 
 
