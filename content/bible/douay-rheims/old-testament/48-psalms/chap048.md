@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 48"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 48
 ---
-
 
 
 1 Unto the end, a psalm for the sons of Core.

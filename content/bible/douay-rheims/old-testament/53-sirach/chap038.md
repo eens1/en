@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 38"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 38
 ---
-
 
 
 1 Honour the physician for the need thou hast of him: for the most High hath created him.

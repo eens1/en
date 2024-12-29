@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 16"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 16
 ---
-
 
 
 1 And when David was a little past the top of the hill, behold Siba the servant of Miphiboseth came to meet him with two asses, laden with two hundred loaves of bread, and a hundred bunches of raisins, a hundred cakes of figs, and a vessel of wine.

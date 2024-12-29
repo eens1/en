@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 33"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 33
 ---
-
 
 
 1 No evils shall happen to him that feareth the Lord, but in temptation God will keep him and deliver him from evils.

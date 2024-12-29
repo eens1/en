@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 Now when David was dwelling in his house, he said to Nathan the prophet: Behold I dwell in a house of cedar: and the ark of the covenant of the Lord is under skins.

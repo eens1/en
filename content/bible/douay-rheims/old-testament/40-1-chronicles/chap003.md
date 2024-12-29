@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 Now these were the sons of David that were born to him in Hebron: the firstborn Amnon of Achinoam the Jezrahelitess, the second Daniel of Abigail the Carmelitess.

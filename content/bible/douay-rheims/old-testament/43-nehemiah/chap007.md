@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 7"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 7
 ---
-
 
 
 1 Now after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 The burden of Egypt. Behold the Lord will ascend upon a swift cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst thereof.

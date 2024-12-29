@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 But Machabeus, and they that were with him, by the protection of the Lord, recovered the temple and the city again.

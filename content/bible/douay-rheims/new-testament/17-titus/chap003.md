@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work.

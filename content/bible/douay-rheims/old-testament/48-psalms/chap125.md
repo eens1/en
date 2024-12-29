@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 125"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 125
 ---
-
 
 
 1 A gradual canticle. When the Lord brought back the captivity of Sion, we became like men comforted.

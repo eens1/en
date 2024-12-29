@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Now a certain woman of the wives of the prophets, cried to Eliseus, saying: Thy servant, my husband, is dead, and thou knowest that thy servant was one that feared God, and behold the creditor is come to take away my two sons to serve him.

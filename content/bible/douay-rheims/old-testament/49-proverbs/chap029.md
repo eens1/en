@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 29"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 29
 ---
-
 
 
 1 The man that with a stiff neck despiseth him that reproveth him, shall suddenly be destroyed: and health shall not follow him.

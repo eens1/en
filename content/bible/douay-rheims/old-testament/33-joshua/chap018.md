@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 18"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 18
 ---
-
 
 
 1 And all the children of Israel assembled together in Silo, and there they set up the tabernacle of the testimony, and the land was subdued before them.

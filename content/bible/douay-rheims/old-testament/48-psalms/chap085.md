@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 85"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 85
 ---
-
 
 
 1 A prayer for David himself. Incline thy ear, O Lord, and hear me: for I am needy and poor.

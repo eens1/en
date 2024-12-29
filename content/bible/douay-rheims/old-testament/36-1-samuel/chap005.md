@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 5"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 5
 ---
-
 
 
 1 And the Philistines took the ark of God, and carried it from the Stone of help into Azotus.

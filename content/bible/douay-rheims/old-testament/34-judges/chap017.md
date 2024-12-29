@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 There was at that time a man of mount Ephraim, whose name was Michas.

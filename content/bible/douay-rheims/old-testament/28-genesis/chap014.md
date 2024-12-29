@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 14"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 14
 ---
-
 
 
 1 And it came to pass at that time, that Amraphel, king of Sennaar, and Arioch, king of Pontus, and Chodorlahomor, king of the Elamites, and Thadal, king of nations,

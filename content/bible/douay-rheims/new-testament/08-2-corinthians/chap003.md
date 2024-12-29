@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 Do we begin again to commend ourselves? Or do we need (as some do) epistles of commendation to you, or from you?

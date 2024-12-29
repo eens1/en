@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 And the children of Israel did evil again in the sight of the Lord: and he delivered them into the hands of the Philistines forty years.

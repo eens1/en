@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 24"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 24
 ---
-
 
 
 1 And the word of the Lord came to me in the ninth year, in the tenth month, the tenth day of the month, saying:

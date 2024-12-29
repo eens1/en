@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 And it came to pass, when on a certain day the sons of God came, and stood before the Lord, and Satan came amongst them, and stood in his sight,

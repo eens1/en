@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 21"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 21
 ---
-
 
 
 1 The word that came to Jeremiah from the Lord, when king Sedecias sent unto him Phassur, the son of Melchias, and Sophonias, the son of Maasias the priest, saying:

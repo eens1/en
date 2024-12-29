@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 And after these things, the Lord appointed also other seventy-two. And he sent them two and two before his face into every city and place whither he himself was to come.

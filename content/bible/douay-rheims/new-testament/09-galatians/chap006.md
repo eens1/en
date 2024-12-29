@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 Brethren, and if a man be overtaken in any fault, you, who are spiritual, instruct such a one in the spirit of meekness, considering thyself, lest thou also be tempted.

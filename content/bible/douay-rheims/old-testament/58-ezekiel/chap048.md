@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 48"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 48
 ---
-
 
 
 1 And these are the names of the tribes from the borders of the north, by the way of Hethalon, as they go to Emath, the court of Enan the border of Damascus northward, by the way off Emath. And from the east side thereof to the sea shall be one portion for Dan.

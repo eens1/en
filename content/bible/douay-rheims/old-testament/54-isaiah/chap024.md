@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 24"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 24
 ---
-
 
 
 1 Behold the Lord shall lay waste the earth, and shall strip it, and shall afflict the face thereof, and scatter abroad the inhabitants thereof.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 The burden of Damascus. Behold Damascus shall cease to be a city, and shall be as a ruinous heap of stones.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Hear, ye children, the instruction of a father, and attend, that you may know prudence.

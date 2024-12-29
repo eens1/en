@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 Now her husband Elimelech had a kinsman, a powerful man, and very rich, whose name was Booz.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 And again he began to teach by the sea side; and a great multitude was gathered together unto him, so that he went up into a ship and sat in the sea: and all the multitude was upon the land by the sea side.

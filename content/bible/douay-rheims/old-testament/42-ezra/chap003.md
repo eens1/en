@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 And now the seventh month was come, and the children of Israel were in their cities: and the people gathered themselves together as one man to Jerusalem.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 32"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 32
 ---
-
 
 
 1 After these things, and this truth, Sennacherib king of the Assyrians came and entered into Juda, and besieged the fenced cities, desiring to take them.

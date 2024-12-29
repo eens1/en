@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 And it came to pass in the four hundred and eightieth year after the children of Israel came out of the land of Egypt, in the fourth year of the reign of Solomon over Israel, in the month Zio, (the same is the second month) he began to build a house to the Lord.

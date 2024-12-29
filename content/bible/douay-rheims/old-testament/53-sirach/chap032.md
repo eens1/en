@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 32"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 32
 ---
-
 
 
 1 Have they made thee ruler? be not lifted up: be among them as one of them.

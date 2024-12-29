@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Now the Spirit manifestly saith that in the last times some shall depart from the faith, giving heed to spirits of error and doctrines of devils,

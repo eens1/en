@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 29"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 29
 ---
-
 
 
 1 He that sheweth mercy, lendeth to his neighbour: and he that is stronger in hand, keepeth the commandments.

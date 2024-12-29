@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 James, the servant of God and of our Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.

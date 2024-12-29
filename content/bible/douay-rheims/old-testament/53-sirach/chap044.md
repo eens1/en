@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 44"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 44
 ---
-
 
 
 1 Let us now praise men of renown and our fathers in their generation.

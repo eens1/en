@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 5"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 5
 ---
-
 
 
 1 Being justified therefore by faith, let us have peace with God, through our Lord Jesus Christ:

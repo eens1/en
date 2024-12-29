@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 For behold the sovereign Lord of hosts shall take away from Jerusalem, and from Juda the valiant and the strong, the whole strength of bread, and the whole strength of water.

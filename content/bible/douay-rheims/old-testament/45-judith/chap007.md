@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 7"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 7
 ---
-
 
 
 1 But Holofernes on the next day gave orders to his army, to go up against Bethulia.

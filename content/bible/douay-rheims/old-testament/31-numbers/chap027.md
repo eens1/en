@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 27"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 27
 ---
-
 
 
 1 Then came the daughters of Salphaad, the son of Hepher, the son of Galaad, the son of Machir, the son of Manasses, who was the son of Joseph: and their names are Maala, and Noa, and Hegla, and Melcha, and Thersa.

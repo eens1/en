@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 27"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 27
 ---
-
 
 
 1 In the beginning of the reign of Joakim the son of Josias king of Juda, this word came to Jeremiah from the Lord, saying:

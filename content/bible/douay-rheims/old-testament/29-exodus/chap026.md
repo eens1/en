@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 26"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 26
 ---
-
 
 
 1 And thou shalt make the tabernacle in this manner: Thou shalt make ten curtains of fine twisted linen, and violet and purple, and scarlet twice dyed, diversified with embroidery.

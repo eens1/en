@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 35"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 35
 ---
-
 
 
 1 And all the multitude of the children of Israel being gathered together, he said to them: These are the things which the Lord hath commanded to be done:

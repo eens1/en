@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 Now there was a man that dwelt in Babylon, and his name was Joakim:

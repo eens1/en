@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 16"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 16
 ---
-
 
 
 1 It is the part of man to prepare the soul: and of the Lord to govern the tongue.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 15"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 15
 ---
-
 
 
 1 Now I make known unto you, brethren, the gospel which I preached to you, which also you have received and wherein you stand.

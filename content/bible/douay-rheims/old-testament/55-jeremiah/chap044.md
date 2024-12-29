@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 44"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 44
 ---
-
 
 
 1 The word that came to Jeremiah, concerning all the Jews that dwelt in the land of Egypt, dwelling in Magdal, and in Taphnis, and in Memphis, and in the land of Phatures, saying:

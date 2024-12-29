@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 Whosoever are servants under the yoke, let them count their masters worthy of all honour; lest the name of the Lord and his doctrine be blasphemed.

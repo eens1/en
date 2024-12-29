@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 5"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 5
 ---
-
 
 
 1 Now Aggeus the prophet, and Zacharias the son of Addo, prophesied to the Jews that were in Judea and Jerusalem, in the name of the God of Israel.

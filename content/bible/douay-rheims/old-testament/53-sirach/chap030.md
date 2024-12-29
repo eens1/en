@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 30"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 30
 ---
-
 
 
 1 He that loveth his son, frequently chastiseth him, that he may rejoice in his latter end, and not grope after the doors of his neighbours.

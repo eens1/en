@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 Joshua was old, and far advanced in years, and the Lord said to him: Thou art grown old, and advanced in age, and there is a very large country left, which is not yet divided by lot:

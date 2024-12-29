@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 And Solomon the son of David was strengthened in his kingdom, and the Lord his God was with him, and magnified him to a high degree.

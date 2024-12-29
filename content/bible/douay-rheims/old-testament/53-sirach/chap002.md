@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.

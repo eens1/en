@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 29"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 29
 ---
-
 
 
 1 Then Jacob went on in his journey, and came into the east country.

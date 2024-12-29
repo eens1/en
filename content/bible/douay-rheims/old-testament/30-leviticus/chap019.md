@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 The Lord spoke to Moses, saying:

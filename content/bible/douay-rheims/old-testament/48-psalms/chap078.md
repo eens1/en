@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 78"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 78
 ---
-
 
 
 1 A psalm for Asaph. O God, the heathens are come into thy inheritance, they have defiled thy holy temple: they have made Jerusalem as a place to keep fruit.

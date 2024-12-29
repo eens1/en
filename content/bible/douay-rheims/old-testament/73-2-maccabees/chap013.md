@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 In the year one hundred and forty-nine, Judas understood that Antiochus Eupator was coming with a multitude against Judea,

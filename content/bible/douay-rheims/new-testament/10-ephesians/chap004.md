@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called:

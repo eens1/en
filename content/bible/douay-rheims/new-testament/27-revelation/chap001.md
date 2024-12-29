@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John,

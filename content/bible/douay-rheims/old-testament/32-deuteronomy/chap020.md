@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 20"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 20
 ---
-
 
 
 1 If thou go out to war against thy enemies, and see horsemen and chariots, and the numbers of the enemy's army greater than thine, thou shalt not fear them: because the Lord thy God is with thee, who brought thee out of the land of Egypt.

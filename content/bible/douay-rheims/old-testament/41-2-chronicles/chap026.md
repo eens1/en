@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 26"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 26
 ---
-
 
 
 1 And all the people of Juda took his son Ozias, who was sixteen years old, and made him king in the room of Amasias his father.

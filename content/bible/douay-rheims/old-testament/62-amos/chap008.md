@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 8"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 8
 ---
-
 
 
 1 These things the Lord shewed to me: and behold a hook to draw down the fruit.

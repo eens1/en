@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 27"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 27
 ---
-
 
 
 1 Now Isaac was old, and his eyes were dim, and he could not see: and he called Esau, his elder son, and said to him: My son? And he answered: Here I am.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 26"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 26
 ---
-
 
 
 1 In the beginning of the reign of Joakim the son of Josias king of Juda, came this word from the Lord, saying:

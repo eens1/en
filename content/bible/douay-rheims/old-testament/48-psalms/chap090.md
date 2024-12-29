@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 90"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 90
 ---
-
 
 
 1 The praise of a canticle for David. He that dwelleth in the aid of the most High, shall abide under the protection of the God of Jacob.

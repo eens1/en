@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 36"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 36
 ---
-
 
 
 1 And the princes of the families of Galaad, the son of Machir, the son of Manasses, of the stock of the children of Joseph, came and spoke to Moses before the princes of Israel, and said:

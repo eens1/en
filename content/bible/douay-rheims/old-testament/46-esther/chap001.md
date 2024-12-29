@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 In the days of Assuerus, who reigned from India to Ethiopia over a hundred and twenty seven provinces:

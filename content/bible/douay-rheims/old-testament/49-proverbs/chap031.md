@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 31"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 31
 ---
-
 
 
 1 The words of king Lamuel. The vision wherewith his mother instructed him.

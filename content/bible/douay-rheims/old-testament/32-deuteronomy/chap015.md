@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 15"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 15
 ---
-
 
 
 1 In the seventh year thou shalt make a remission,

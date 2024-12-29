@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 136"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 136
 ---
-
 
 
 1 Upon the rivers of Babylon, there we sat and wept: when we remembered Sion:

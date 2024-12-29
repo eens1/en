@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 And it came to pass in those days, that the Philistines gathered themselves together to fight: and Israel went out to war against the Philistines, and camped by the Stone of help. And the Philistines came to Aphec,

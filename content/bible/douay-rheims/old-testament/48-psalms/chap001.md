@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 Blessed is the man who hath not walked in the counsel of the ungodly, nor stood in the way of sinners, nor sat in the chair of pestilence:

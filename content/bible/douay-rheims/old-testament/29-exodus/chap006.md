@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 And the Lord said to Moses: Now thou shalt see what I will do to Pharao: for by a mighty hand shall he let them go, and with a strong hand shall he cast them out of his land.

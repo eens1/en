@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 And Abram went up out of Egypt, he and his wife, and all that he had, and Lot with him into the south.

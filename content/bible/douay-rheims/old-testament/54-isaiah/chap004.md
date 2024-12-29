@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 And in that day seven women shall take hold of one man, saying: We will eat our own bread, and wear our own apparel: only let us be called by thy name, take away our reproach.

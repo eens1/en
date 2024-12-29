@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 And it came to pass, when she had ceased to cry to the Lord, that she rose from the place wherein she lay prostrate before the Lord.

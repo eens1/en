@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 92"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 92
 ---
-
 
 
 1 The Lord hath reigned, he is clothed with beauty: the Lord is clothed with strength, and hath girded himself. For he hath established the world which shall not be moved.

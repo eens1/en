@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 110"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 110
 ---
-
 
 
 1 I will praise thee, O Lord, with my whole heart; in the council of the just, and in the congregation.

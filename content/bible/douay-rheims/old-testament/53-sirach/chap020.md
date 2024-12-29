@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 20"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 20
 ---
-
 
 
 1 How much better is it to reprove, than to be angry, and not to hinder him that confesseth in prayer.

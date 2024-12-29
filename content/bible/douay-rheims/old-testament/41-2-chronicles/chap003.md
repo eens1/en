@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 And Solomon began to build the house of the Lord in Jerusalem, in mount Moria, which had been shewn to David his father, in the place which David had prepared in the thrashingfloor of Ornan the Jebusite.

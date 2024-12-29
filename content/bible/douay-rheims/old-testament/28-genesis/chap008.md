@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 8"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 8
 ---
-
 
 
 1 And God remembered Noe, and all the living creatures, and all the cattle which were with him in the ark, and brought a wind upon the earth, and the waters were abated:

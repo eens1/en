@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 40"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 40
 ---
-
 
 
 1 Be comforted, be comforted, my people, saith your God.

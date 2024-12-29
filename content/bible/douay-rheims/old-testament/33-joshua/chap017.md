@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 And this lot fell to the tribe of Manasses for he is the firstborn of Joseph to Machir the firstborn of Manasses the father of Galaad, who was a warlike man, and had for possession Galaad and Basan.

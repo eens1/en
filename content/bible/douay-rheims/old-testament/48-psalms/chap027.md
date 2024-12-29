@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 27"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 27
 ---
-
 
 
 1 A psalm for David himself. Unto thee will I cry, O Lord: O my God, be not thou silent to me: lest if thou be silent to me, I become like them that go down into the pit.

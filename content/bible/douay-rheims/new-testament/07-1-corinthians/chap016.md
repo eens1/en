@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 16"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 16
 ---
-
 
 
 1 Now concerning the collections that are made for the saints: as I have given order to the churches of Galatia, so do ye also.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 20"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 20
 ---
-
 
 
 1 In those days Ezechias was sick unto death: and Isaias, the son of Amos, the prophet, came and said to him: Thus saith the Lord God: Give charge concerning thy house, for thou shalt die, and not llve.

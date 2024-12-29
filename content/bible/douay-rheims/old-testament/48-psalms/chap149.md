@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 149"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 149
 ---
-
 
 
 1 Sing ye to the Lord a new canticle: let his praise be in the church of the saints.

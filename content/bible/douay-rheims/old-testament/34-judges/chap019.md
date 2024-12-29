@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 There was a certain Levite, who dwelt on the side of mount Ephraim, who took a wife of Bethlehem Juda:

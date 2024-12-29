@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 When Adonisedec, king of Jerusalem, had heard these things, to wit, that Joshua had taken Hai, and had destroyed it, (for as he had done to Jericho and the king thereof, so did he to Hai and its king) and that the Gabaonites were gone over to Israel, and were their confederates,

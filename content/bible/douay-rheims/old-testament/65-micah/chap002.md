@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 Woe to you that devise that which is unprofitable, and work evil in your beds: in the morning light they execute it, because their hand is against God.

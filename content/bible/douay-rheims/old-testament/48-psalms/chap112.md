@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 112"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 112
 ---
-
 
 
 1 Praise the Lord, ye children: praise ye the name of the Lord.

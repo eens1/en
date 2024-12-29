@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 53"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 53
 ---
-
 
 
 1 Who a hath believed our report? and to whom is the arm of the Lord revealed?

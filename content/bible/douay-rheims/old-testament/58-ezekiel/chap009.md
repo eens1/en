@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 9"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 9
 ---
-
 
 
 1 And he cried in my ears with a loud voice, saying: The visitations of the city are at hand, and every one hath a destroying weapon in his hand.

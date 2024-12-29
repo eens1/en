@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 32"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 32
 ---
-
 
 
 1 So these three men ceased to answer Job, because he seemed just to himself.

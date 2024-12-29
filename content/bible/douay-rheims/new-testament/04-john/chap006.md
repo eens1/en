@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 After these things Jesus went over the sea of Galilee, which is that of Tiberias.

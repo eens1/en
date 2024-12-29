@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 42"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 42
 ---
-
 
 
 1 A psalm for David. Judge me, O God, and distinguish my cause from the nation that is not holy: deliver me from the unjust and deceitful man.

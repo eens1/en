@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 36"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 36
 ---
-
 
 
 1 Then the people of the land took Joachaz the son of Josias, and made him king instead of his father in Jerusalem.

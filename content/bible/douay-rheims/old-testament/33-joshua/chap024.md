@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 24"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 24
 ---
-
 
 
 1 And Joshua gathered together all the tribes of Israel in Sichem, and called for the ancients, and the princes and the judges, and the masters: and they stood in the sight of the Lord:

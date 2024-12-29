@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 And after he began to be ninety and nine years old, the Lord appeared to him: and said unto him: I am the Almighty God: walk before me, and be perfect.

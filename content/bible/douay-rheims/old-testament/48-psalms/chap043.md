@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 43"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 43
 ---
-
 
 
 1 Unto the end, for the sons of Core, to give understanding.

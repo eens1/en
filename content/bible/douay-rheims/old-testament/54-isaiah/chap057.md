@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 57"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 57
 ---
-
 
 
 1 The just perisheth, and no man layeth it to heart, and men of mercy are taken away, because there is none that understandeth; for the just man is taken away from before the face of evil.

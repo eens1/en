@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 11"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 11
 ---
-
 
 
 1 And it came to pass that as he was in a certain place praying, when he ceased, one of his disciples said to him: Lord, teach us to pray, as John also taught his disciples.

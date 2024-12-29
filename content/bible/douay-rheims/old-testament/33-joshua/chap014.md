@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 14"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 14
 ---
-
 
 
 1 This is what the children of Israel possessed in the land of Chanaan, which Eleazar the priest, and Joshua the son of Nun, and the princes of the families by the tribes of Israel gave to them.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Dearly beloved, believe not every spirit, but try the spirits if they be of God: because many false prophets are gone out into the world.

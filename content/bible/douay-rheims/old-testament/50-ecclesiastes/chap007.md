@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 7"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 7
 ---
-
 
 
 1 What needeth a man to seek things that are above him, whereas he knoweth not what is profitable for him in his life, in all the days of his pilgrimage, and the time that passeth like a shadow? Or who can tell him what shall be after him under the sun?

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 8"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 8
 ---
-
 
 
 1 Then all the ancients of Israel, with the princes of the tribes, and the heads of the families of the children of Israel, were assembled to king Solomon, in Jerusalem: that they might carry the ark of the covenant of the Lord, out of the city of David, that is, out of Sion.

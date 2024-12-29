@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 In my bed by night I sought him whom my soul loveth: I sought him, and found him not.

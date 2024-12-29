@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 16"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 16
 ---
-
 
 
 1 And the Lord said to Samuel: How long wilt thou mourn for Saul, whom I have rejected from reigning over Israel? fill thy horn with oil, and come, that I may send thee to Isai, the Bethlehemite: for I have provided me a king among his sons.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 37"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 37
 ---
-
 
 
 1 Now king Sedecias the son of Josias reigned instead of Jechonias the son of Joakim: whom Nabuchodonosor king of Babylon made king in the land of Juda.

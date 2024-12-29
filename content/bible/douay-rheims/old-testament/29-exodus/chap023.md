@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 23"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 23
 ---
-
 
 
 1 Thou shalt not receive the voice of a lie: neither shalt thou join thy hand to bear false witness for a wicked person.

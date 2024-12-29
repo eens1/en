@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 38 Their gods, of wood, and of stone, and of gold, and of silver, are like the stones that are hewn out of the mountains: and they that worship them shall be confounded.

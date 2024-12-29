@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 11"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 11
 ---
-
 
 
 1 There was at that time Jephte, the Galaadite, a most valiant man, and a warrior, the son of a woman that was a harlot, and his father was Galaad.

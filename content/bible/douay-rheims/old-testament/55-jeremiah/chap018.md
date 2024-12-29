@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 18"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 18
 ---
-
 
 
 1 The word that came to Jeremiah from the Lord, saying:

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 33"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 33
 ---
-
 
 
 1 And Jacob lifting up his eyes, saw Esau coming, and with him four hundred men: and he divided the children of Lia and of Rachel, and of the two handmaids.

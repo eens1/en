@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 36"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 36
 ---
-
 
 
 1 And these are the generations of Esau, the same is Edom.

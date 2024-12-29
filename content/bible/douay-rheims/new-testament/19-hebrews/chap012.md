@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 12"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 12
 ---
-
 
 
 1 And therefore we also having so great a cloud of witnesses over our head, laying aside every weight and sin which surrounds us, let us run by patience to the fight proposed to us:

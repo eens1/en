@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 22"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 22
 ---
-
 
 
 1 Thus saith the Lord: Go down to the house of the king of Juda, and there thou shalt speak this word,

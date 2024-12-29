@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 30"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 30
 ---
-
 
 
 1 Unto the end, a psalm for David, in an ecstasy.

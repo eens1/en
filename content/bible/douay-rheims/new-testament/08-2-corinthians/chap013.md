@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 Behold, this is the third time I am coming to you: In the mouth of two or three witnesses shall every word stand.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 11"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 11
 ---
-
 
 
 51 And they threw down their arms, and made peace, and the Jews were glorified in the sight of the king, and in the sight of all that were in his realm, and were renowned throughout the kingdom, and returned to Jerusalem with many spoils.

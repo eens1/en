@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 And an angel of the Lord went up from Galgal to the place of weepers, and said: I made you go out of Egypt, and have brought you into the land for which I swore to your fathers: and I promised that I would not make void my covenant with you for ever:

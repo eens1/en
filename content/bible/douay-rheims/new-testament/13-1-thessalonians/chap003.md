@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 For which cause, forbearing no longer, we thought it good to remain at Athens alone.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 23"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 23
 ---
-
 
 
 1 And they brought the king word again what she had said. And he sent: and all the ancients of Juda and Jerusalem were assembled to him.

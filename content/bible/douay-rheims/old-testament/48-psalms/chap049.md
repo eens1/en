@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 49"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 49
 ---
-
 
 
 1 A psalm for Asaph. The God of gods, the Lord hath spoken: and he hath called the earth. From the rising of the sun, to the going down thereof:

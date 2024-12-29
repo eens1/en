@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 Now the child Samuel ministered to the Lord before Heli, and the word of the Lord was precious in those days, there was no manifest vision.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 11"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 11
 ---
-
 
 
 1 The wisdom of the humble shall exalt his head, and shall make him sit in the midst of great men.

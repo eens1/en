@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 60"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 60
 ---
-
 
 
 1 Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of the Lord is risen upon thee.

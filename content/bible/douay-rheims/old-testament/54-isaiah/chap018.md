@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 18"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 18
 ---
-
 
 
 1 Woe to the land, the winged cymbal, which is beyond the rivers of Ethiopia,

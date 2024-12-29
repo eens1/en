@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 142"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 142
 ---
-
 
 
 1 A psalm of David, when his son Absalom pursued him. Hear, O Lord, my prayer: give ear to my supplication in thy truth: hear me in thy justice.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 28"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 28
 ---
-
 
 
 1 The wicked man fleeth, when no man pursueth: but the just, bold as a lion, shall be without dread.

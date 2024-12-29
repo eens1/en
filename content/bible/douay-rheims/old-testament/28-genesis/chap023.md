@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 23"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 23
 ---
-
 
 
 1 And Sara lived a hundred and twenty-seven years.

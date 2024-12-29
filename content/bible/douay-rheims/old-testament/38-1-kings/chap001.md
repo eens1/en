@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 Now king David was old, and advanced in years: and when he was covered with clothes he was not warm.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 35"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 35
 ---
-
 
 
 1 In the mean time God said to Jacob: Arise and go up to Bethel, and dwell there, and make there an altar to God, who appeared to thee when thou didst flee from Esau, thy brother.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 8"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 8
 ---
-
 
 
 1 And at that time, there was raised a great persecution against the church which was at Jerusalem. And they were all dispersed through the countries of Judea, and Samaria, except the apostles.

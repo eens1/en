@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 5"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 5
 ---
-
 
 
 1 Now there was a great cry of the people, and of their wives against their brethren the Jews.

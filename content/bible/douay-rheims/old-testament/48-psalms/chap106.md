@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 106"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 106
 ---
-
 
 
 1 Give glory to the Lord, for he is good: for his mercy endureth for ever.

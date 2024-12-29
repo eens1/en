@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 Israel a vine full of branches, the fruit is agreeable to it: according to the multitude of his fruit, he hath multiplied altars, according to the plenty of his land he hath abounded with idols.

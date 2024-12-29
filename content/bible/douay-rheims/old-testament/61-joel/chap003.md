@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 For behold in those days, and in that time when I shall bring back the captivity of Juda, and Jerusalem:

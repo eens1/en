@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 2 I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and I have loved Jacob,

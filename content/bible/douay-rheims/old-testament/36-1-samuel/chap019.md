@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 And Saul spoke to Jonathan, his son, and to all his servants, that they should kill David. But Jonathan, the son of Saul, loved David exceedingly.

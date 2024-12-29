@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 These are the generations of the sons of Noe: Sem, Cham, and Japheth: and unto them sons were born after the flood.

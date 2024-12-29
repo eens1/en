@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 14"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 14
 ---
-
 
 
 1 A psalm for David. Lord, who shall dwell in thy tabernacle? or who shall rest in thy holy hill?

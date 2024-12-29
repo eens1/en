@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 And it came to pass when Jesus had ended these words, he departed from Galilee and came into the coasts of Judea, beyond Jordan.

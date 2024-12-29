@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 7"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 7
 ---
-
 
 
 1 What shalt thou see in the Sulamitess but the companies of camps? How beautiful are thy steps in shoes, O prince's daughter! The joints of thy thighs are like jewels, that are made by the hand of a skilful workman.

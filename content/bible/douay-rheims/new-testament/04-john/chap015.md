@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 15"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 15
 ---
-
 
 
 1 I am the true vine: and my Father is the husbandman.

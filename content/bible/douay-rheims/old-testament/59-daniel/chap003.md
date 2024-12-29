@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 King Nabuchodonosor made a statue of gold, of sixty cubits high, and six cubits broad, and he set it up in the plain of Dura, of the province of Babylon.

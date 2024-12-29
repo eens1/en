@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 80"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 80
 ---
-
 
 
 1 Unto the end, for the winepresses, a psalm for Asaph himself.

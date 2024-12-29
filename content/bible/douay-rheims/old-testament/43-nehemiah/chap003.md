@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 Then Eliasib the high priest arose, and his brethren the priests, and they built the flock gate: they sanctified it, and set up the doors thereof, even unto the tower of a hundred cubits they sanctified it unto the tower of Hananeel.

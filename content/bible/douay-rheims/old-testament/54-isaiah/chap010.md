@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 Woe to them that make wicked laws: and when they write, write injustice:

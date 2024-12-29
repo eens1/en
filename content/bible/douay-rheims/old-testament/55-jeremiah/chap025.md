@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 25"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 25
 ---
-
 
 
 1 The word that came to Jeremiah concerning all the people of Juda, in the fourth year of Joakim the son of Josias king of Juda, (the same is the first year of Nabuchodonosor king of Babylon,)

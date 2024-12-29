@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 The word that Isaiah the son of Amos saw, concerning Juda and Jerusalem.

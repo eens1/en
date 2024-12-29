@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 65"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 65
 ---
-
 
 
 1 Unto the end, a canticle of a psalm of the resurrection. Shout with joy to God, all the earth,

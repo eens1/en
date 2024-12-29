@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 12"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 12
 ---
-
 
 
 1 Ephraim feedeth on the wind, and followeth the burning heat: all the day long he multiplied lies and desolation: and he hath made a covenant with the Assyrians, and carried oil into Egypt.

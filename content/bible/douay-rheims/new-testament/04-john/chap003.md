@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 3"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 3
 ---
-
 
 
 1 And there was a man of the Pharisees, named Nicodemus, a ruler of the Jews.

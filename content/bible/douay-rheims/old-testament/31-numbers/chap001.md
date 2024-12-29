@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 And the Lord spoke to Moses in the desert of Sinai in the tabernacle of the covenant, the first day of the second month, the second year of their going out of Egypt, saying:

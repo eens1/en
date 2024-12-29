@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Moses answered, and said: They will not believe me, nor hear my voice, but they will say: The Lord hath not appeared to thee.

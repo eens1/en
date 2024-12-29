@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 How beautiful is the chaste generation with glory: for the memory thereof is immortal: because it is known both with God and with men.

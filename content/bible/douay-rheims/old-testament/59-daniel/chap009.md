@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 9"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 9
 ---
-
 
 
 1 In the first year of Darius, the son of Assuerus, of the seed of the Medes, who reigned over the kingdom of the Chaldeans:

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 But as Tobias made longer stay upon occasion of the marriage, Tobias his father was solicitous, saying: Why thinkest thou doth my son tarry, or why is he detained there?

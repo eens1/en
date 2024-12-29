@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 And the queen of Saba having heard of the fame of Solomon in the name of the Lord, came to try him with hard questions.

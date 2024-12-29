@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 The word of the Lord, that came to Micah, the Morasthite, in the days of Joathan, Achaz, and Ezechias, kings of Juda: which he saw concerning Samaria and Jerusalem.

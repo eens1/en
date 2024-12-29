@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Then Gorgias took five thousand men, and a thousand of the best horsemen; and they removed out of the camp by night.

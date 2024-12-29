@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 115"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 115
 ---
-
 
 
 1 I have believed, therefore have I spoken; but I have been humbled exceedingly.

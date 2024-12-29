@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 14"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 14
 ---
-
 
 
 1 Again, another designing to sail, and beginning to make his voyage through the raging waves, calleth upon a piece of wood more frail than the wood that carrieth him.

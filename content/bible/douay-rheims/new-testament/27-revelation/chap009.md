@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 9"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 9
 ---
-
 
 
 1 And the fifth angel sounded the trumpet: and I saw a star fall from heaven upon the earth. And there was given to him the key of the bottomless pit.

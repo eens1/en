@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 17"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 17
 ---
-
 
 
 1 And he said to his disciples: It is impossible that scandals should not come. But woe to him through whom they come!

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 Jude, the servant of Jesus Christ and brother of James: to them that are beloved in God the Father and preserved in Jesus Christ and called.

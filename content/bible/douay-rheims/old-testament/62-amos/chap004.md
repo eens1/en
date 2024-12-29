@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 Hear this word, ye fat kine that are in the mountains of Samaria: you that oppress the needy, and crush the poor: that say to your masters: Bring, and we will drink.

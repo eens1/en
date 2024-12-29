@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 He is come up that shall destroy before thy face, that shall keep the siege: watch the way, fortify thy loins, strengthen thy power exceedingly.

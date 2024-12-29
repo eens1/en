@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 And thou, O son of man, take thee a tile, and lay it before thee: and draw upon it the plan of the city of Jerusalem.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 22"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 22
 ---
-
 
 
 1 After these things, God tempted Abraham, and said to him: Abraham, Abraham. And he answered: Here I am.

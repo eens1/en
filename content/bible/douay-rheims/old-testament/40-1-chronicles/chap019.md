@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:28+02:00
+title: "Chapter 19"
+date: 2024-09-06T20:00:28+02:00
 draft: false
-title: Chapter 19
 ---
-
 
 
 1 Now it came to pass that Naas the king of the children of Ammon died, and his son reigned in his stead.

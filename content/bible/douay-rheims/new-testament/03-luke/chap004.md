@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 4"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 4
 ---
-
 
 
 1 And Jesus being full of the Holy Ghost, returned from the Jordan and was led the by the spirit into the desert,

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:29+02:00
+title: "Chapter 13"
+date: 2024-09-06T20:00:29+02:00
 draft: false
-title: Chapter 13
 ---
-
 
 
 1 And this was the copy of the letter: Artaxerxes the great king who reigneth from India to Ethiopia, to the princes and governors of the hundred and twenty-seven provinces, that are subject to his empire, greeting.

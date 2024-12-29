@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:31+02:00
+title: "Chapter 10"
+date: 2024-09-06T20:00:31+02:00
 draft: false
-title: Chapter 10
 ---
-
 
 
 1 A wise son maketh the father glad: but a foolish son is the sorrow of his mother.

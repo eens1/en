@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:26+02:00
+title: "Chapter 5"
+date: 2024-09-06T20:00:26+02:00
 draft: false
-title: Chapter 5
 ---
-
 
 
 1 If any one sin, and hear the voice of one swearing, and is a witness either because he himself hath seen, or is privy to it: if he do not utter it, he shall bear his iniquity.

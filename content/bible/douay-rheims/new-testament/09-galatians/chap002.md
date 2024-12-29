@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 Then, after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus also with me.

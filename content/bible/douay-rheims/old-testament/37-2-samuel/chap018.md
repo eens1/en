@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 18"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 18
 ---
-
 
 
 1 And David, having reviewed his people, appointed over them captains of thousands and of hundreds,

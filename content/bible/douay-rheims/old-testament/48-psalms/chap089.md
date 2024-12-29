@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 89"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 89
 ---
-
 
 
 1 A prayer of Moses the man of God. Lord, thou hast been our refuge from generation to generation.

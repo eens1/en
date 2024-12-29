@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:34+02:00
+title: "Chapter 16"
+date: 2024-09-06T20:00:34+02:00
 draft: false
-title: Chapter 16
 ---
-
 
 
 1 Then John came up from Gazara, and told Simon, his father, what Cendebeus had done against their people.

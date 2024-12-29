@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:27+02:00
+title: "Chapter 23"
+date: 2024-09-06T20:00:27+02:00
 draft: false
-title: Chapter 23
 ---
-
 
 
 1 And when a long time was passed, after that the Lord had given peace to Israel, all the nations round about being subdued. and Joshua being now old, and far advanced in years: 

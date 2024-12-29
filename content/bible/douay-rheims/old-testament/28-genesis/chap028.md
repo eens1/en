@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 28"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 28
 ---
-
 
 
 1 And Isaac called Jacob, and blessed him, and charged him, saying: Take not a wife of the stock of Chanaan:

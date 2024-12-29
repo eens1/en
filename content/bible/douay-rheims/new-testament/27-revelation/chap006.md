@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 And I saw that the Lamb had opened one of the seven seals: and I heard one of the four living creatures, as it were the voice of thunder, saying: Come and see.

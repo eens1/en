@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:30+02:00
+title: "Chapter 120"
+date: 2024-09-06T20:00:30+02:00
 draft: false
-title: Chapter 120
 ---
-
 
 
 1 I have lifted up my eyes to the mountains, from whence help shall come to me.

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:33+02:00
+title: "Chapter 2"
+date: 2024-09-06T20:00:33+02:00
 draft: false
-title: Chapter 2
 ---
-
 
 
 1 I will stand upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me.

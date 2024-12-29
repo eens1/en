@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:24+02:00
+title: "Chapter 6"
+date: 2024-09-06T20:00:24+02:00
 draft: false
-title: Chapter 6
 ---
-
 
 
 1 What shall we say, then? Shall we continue in sin, that grace may abound?

@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 1"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 1
 ---
-
 
 
 1 The Ancient to the lady Elect and her children, whom I love in the truth: and not I only, but also all they that have known the truth,

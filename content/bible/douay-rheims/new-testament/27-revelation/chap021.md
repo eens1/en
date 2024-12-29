@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:25+02:00
+title: "Chapter 21"
+date: 2024-09-06T20:00:25+02:00
 draft: false
-title: Chapter 21
 ---
-
 
 
 1 I saw a new heaven and a new earth. For the first heaven and the first earth was gone: and the sea is now no more.

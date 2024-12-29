@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:23+02:00
+title: "Chapter 26"
+date: 2024-09-06T20:00:23+02:00
 draft: false
-title: Chapter 26
 ---
-
 
 
 1 And it came to pass, when Jesus had ended all these words, he said to his disciples:

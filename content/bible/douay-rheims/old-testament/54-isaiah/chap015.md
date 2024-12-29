@@ -1,9 +1,8 @@
 ---
-date: 2024-09-06 20:00:32+02:00
+title: "Chapter 15"
+date: 2024-09-06T20:00:32+02:00
 draft: false
-title: Chapter 15
 ---
-
 
 
 1 The burden of Moab. Because in the night Ar of Moab is laid waste, it is silent: because the wall of Moab is destroyed in the night, it is silent.
