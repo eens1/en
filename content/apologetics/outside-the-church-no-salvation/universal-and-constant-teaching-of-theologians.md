@@ -6,6 +6,8 @@ title: Baptism of Desire vs. The Universal and Constant teaching of Theologians
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/universal-and-constant-teaching-of-theologians/)

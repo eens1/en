@@ -6,6 +6,8 @@ title: The Bible Does Not Teach Sola Scriptura (Scripture Alone)
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-and-sola-scriptura-scripture-alone/)

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 46"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 46
 ---
+
 
 
 1 Bel is broken, Nebo is destroyed: their idols are put upon beasts and cattle, your burdens of heavy weight even unto weariness.

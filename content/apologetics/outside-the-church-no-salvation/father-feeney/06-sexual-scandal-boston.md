@@ -7,6 +7,8 @@ title: 'The Verdict is in: Boston Leads the Way in a Massive Priestly Scandal th
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/sexual-scandal-boston/)

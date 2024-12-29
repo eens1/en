@@ -1,17 +1,21 @@
 ---
-title: "New Sacraments: The Changes To The Other Sacraments"
-date: "2024-12-01T19:37:38"
-draft: "False"
-description: "VIDEO: Why the New Mass and New Rite of Ordination are Invalid - [38 min.] VIDEO: More Information on the New Rite of Ordination - [17 min.] “These most crafty enemies have filled and inebriated [...]"
+date: '2024-12-01T19:37:38'
+description: "VIDEO: Why the New Mass and New Rite of Ordination are Invalid - [38\
+  \ min.] VIDEO: More Information on the New Rite of Ordination - [17 min.] \u201C\
+  These most crafty enemies have filled and inebriated [...]"
+draft: 'False'
+external_url: https://vaticancatholic.com/new-sacraments/
+image: https://vaticancatholic.com/images/last-rites-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/new-sacraments/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/last-rites-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: 'New Sacraments: The Changes To The Other Sacraments'
+type: article
 ---
+
+
 
 By Brother Michael Dimond, O.S.B.
 

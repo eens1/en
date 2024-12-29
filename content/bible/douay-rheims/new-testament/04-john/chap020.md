@@ -1,8 +1,9 @@
 ---
-title: "Chapter 20"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 20
 ---
+
 
 
 1 And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre: and she saw the stone taken away from the sepulchre.

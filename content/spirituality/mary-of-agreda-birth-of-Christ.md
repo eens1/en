@@ -1,10 +1,11 @@
 ---
-title: "Christ Our Savior is born of the Virgin Mary in Bethlehem, Juda"
 date: 2024-12-24T03:42:49+0000
 draft: false
+summary: Mary of Agreda, The City of God.
 tags: []
-summary: "Mary of Agreda, The City of God."
+title: Christ Our Savior is born of the Virgin Mary in Bethlehem, Juda
 ---
+
 
 Source: [theworkofgod.org](https://www.theworkofgod.org/Virgin_Mary/mary.asp?page=89)
 

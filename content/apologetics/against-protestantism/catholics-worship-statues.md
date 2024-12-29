@@ -6,6 +6,8 @@ title: Are Catholic Statues Idolatrous?
 ---
 
 
+
+
 Source: [vaticancatholic.com](https://vaticancatholic.com/catholics-worship-statues/)
 
 <blockquote>

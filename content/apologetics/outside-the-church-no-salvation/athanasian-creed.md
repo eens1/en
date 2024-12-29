@@ -6,6 +6,8 @@ title: The Athanasian Creed
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/athanasian-creed)

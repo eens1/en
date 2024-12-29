@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 And we beseech you, brethren, by the coming of our Lord Jesus Christ and of our gathering together unto him:

@@ -1,17 +1,21 @@
 ---
-title: "The deplorable state of “Catholic” universities and colleges"
-date: "2024-12-23T07:03:22"
-draft: "false"
-description: "Every “Catholic” college or university in communion with Benedict XVI is rife with heresy and indifferentism and/or the promotion of the gay agenda and/or attacks on Sacred Scripture and/or attacks on the historicity of Our [...]"
+date: '2024-12-23T07:03:22'
+description: "Every \u201CCatholic\u201D college or university in communion with Benedict\
+  \ XVI is rife with heresy and indifferentism and/or the promotion of the gay agenda\
+  \ and/or attacks on Sacred Scripture and/or attacks on the historicity of Our [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/catholic-universities/
+image: https://vaticancatholic.com/images/notre-dame-university-villanova-depaul-georgetown-lgbt.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/catholic-universities/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/notre-dame-university-villanova-depaul-georgetown-lgbt.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "The deplorable state of \u201CCatholic\u201D universities and colleges"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/catholic-universities/)
 

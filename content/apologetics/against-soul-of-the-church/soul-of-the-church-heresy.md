@@ -1,9 +1,11 @@
 ---
-title: "The Soul of the Church Heresy"
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/soul-of-the-church-heresy/"
+external_url: https://vaticancatholic.com/soul-of-the-church-heresy/
+title: The Soul of the Church Heresy
 ---
+
+
 
 By Brother Peter Dimond, O.S.B.
 

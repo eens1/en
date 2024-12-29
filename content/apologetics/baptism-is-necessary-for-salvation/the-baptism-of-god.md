@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/the-baptism-of-god/"
-title: "The Baptism of God"
+external_url: https://vaticancatholic.com/the-baptism-of-god/
+title: The Baptism of God
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

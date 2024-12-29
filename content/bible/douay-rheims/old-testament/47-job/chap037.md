@@ -1,8 +1,9 @@
 ---
-title: "Chapter 37"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 37
 ---
+
 
 
 1 At this my heart trembleth, and is moved out of its place.

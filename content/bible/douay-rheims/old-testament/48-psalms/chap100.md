@@ -1,8 +1,9 @@
 ---
-title: "Chapter 100"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 100
 ---
+
 
 
 1 A psalm for David himself. Mercy and judgment I will sing to thee, O Lord: I will sing,

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 25"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 25
 ---
+
 
 
 1 And Abraham married another wife named Cetura:

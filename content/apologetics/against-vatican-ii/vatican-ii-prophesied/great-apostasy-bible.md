@@ -7,6 +7,8 @@ title: The Great Apostasy and a counterfeit Church predicted in the New Testamen
 ---
 
 
+
+
 Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/great-apostasy-bible/)

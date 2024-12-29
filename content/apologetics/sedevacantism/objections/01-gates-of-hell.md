@@ -1,9 +1,13 @@
 ---
-title: "Objection 1): The Gates of Hell cannot prevail against the Church, as Christ said (Matthew 16). He said He would be with His Church all days until the end of the world (Matthew 28). What you are saying is contrary to the promises of Christ."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/gates-of-hell"
+external_url: https://vaticancatholic.com/gates-of-hell
+title: 'Objection 1): The Gates of Hell cannot prevail against the Church, as Christ
+  said (Matthew 16). He said He would be with His Church all days until the end of
+  the world (Matthew 28). What you are saying is contrary to the promises of Christ.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

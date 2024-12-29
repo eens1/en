@@ -1,8 +1,9 @@
 ---
-title: "Chapter 52"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 52
 ---
+
 
 
 1 Sedecias was one and twenty years old when he began to reign: and he reigned eleven years in Jerusalem: and the name of his mother was Amital, the daughter of Jeremiah of Lobna.

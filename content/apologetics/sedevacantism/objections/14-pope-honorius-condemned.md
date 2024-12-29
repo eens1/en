@@ -1,9 +1,13 @@
 ---
-title: "Objection 14): Pope Honorius was condemned for heresy by a general council after his death, yet the Church does not consider him to have ceased to be pope, even though he was accused of heresy during his reign."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/pope-honorius-condemned/"
+external_url: https://vaticancatholic.com/pope-honorius-condemned/
+title: 'Objection 14): Pope Honorius was condemned for heresy by a general council
+  after his death, yet the Church does not consider him to have ceased to be pope,
+  even though he was accused of heresy during his reign.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

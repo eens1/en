@@ -1,8 +1,9 @@
 ---
-title: "Chapter 132"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 132
 ---
+
 
 
 1 A gradual canticle of David. Behold how good and how pleasant it is for brethren to dwell together in unity:

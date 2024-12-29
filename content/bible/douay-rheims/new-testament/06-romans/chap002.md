@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 Wherefore thou art inexcusable, O man, whosoever thou art that judgest. For wherein thou judgest another, thou condemnest thyself. For thou dost the same things which thou judgest.

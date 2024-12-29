@@ -1,13 +1,18 @@
 ---
-title: "Documentary: Protestantism's Big Justification Lie"
-date: "2024-11-24T07:13:51"
-draft: "false"
-description: "This is a must-see new documentary. Among many other things, it explains, examines, and refutes the historic Protestant teaching on Justification (and Forensic Justification) by exposing a fatal flaw at its core.  It reveals a devastating new [...]"
+date: '2024-11-24T07:13:51'
+description: "This is a must-see new documentary.\_Among many other things, it explains,\
+  \ examines, and refutes the historic Protestant teaching on Justification (and Forensic\
+  \ Justification) by exposing a fatal flaw at its core. \_It\_reveals a devastating\
+  \ new [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/justification-bible-faith-alone-refuted/
+locale: en_US
 tags: []
-locale: "en_US"
-type: "article"
-external_url: "https://vaticancatholic.com/justification-bible-faith-alone-refuted/"
+title: 'Documentary: Protestantism''s Big Justification Lie'
+type: article
+video: true
 ---
+
 
 Source: [vaticancatholic.com"](https://vaticancatholic.com/justification-bible-faith-alone-refuted/")
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 42"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 42
 ---
+
 
 
 1 And he brought me forth into the outward court by the way that leadeth to the north, and he brought me into the chamber that was over against the separate building, and over against the house toward the north.

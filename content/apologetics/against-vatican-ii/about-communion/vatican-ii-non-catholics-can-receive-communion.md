@@ -1,17 +1,21 @@
 ---
-title: "Vatican II: Non-Catholics Can Receive Communion"
-date: "2024-12-23T06:45:43"
-draft: "false"
-description: "Pope Pius VIII, Traditi Humilitati (# 4), May 24, 1829:“Jerome used to say it this way: he who eats the Lamb outside this house will perish as did those during the flood who were not [...]"
+date: '2024-12-23T06:45:43'
+description: "Pope Pius VIII, Traditi Humilitati (# 4), May 24, 1829:\u201CJerome\
+  \ used to say it this way: he who eats the Lamb outside this house will perish as\
+  \ did those during the flood who were not [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/vatican-ii-non-catholics-receive-communion
+image: https://vaticancatholic.com/images/b-16-schutz.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/vatican-ii-non-catholics-receive-communion"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/b-16-schutz.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: 'Vatican II: Non-Catholics Can Receive Communion'
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/vatican-ii-non-catholics-receive-communion)
 

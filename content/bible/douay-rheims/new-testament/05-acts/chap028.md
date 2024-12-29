@@ -1,8 +1,9 @@
 ---
-title: "Chapter 28"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 28
 ---
+
 
 
 1 And when we had escaped, then we knew that the island was called Melita. But the barbarians shewed us no small courtesy.

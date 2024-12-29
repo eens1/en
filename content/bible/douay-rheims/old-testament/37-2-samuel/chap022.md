@@ -1,8 +1,9 @@
 ---
-title: "Chapter 22"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 22
 ---
+
 
 
 1 And David spoke to the Lord the words of this canticle, in the day that the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul,

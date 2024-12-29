@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Against &#34;Jehovah’s Witnesses&#34; on Extra Ecclesiam Nulla Salus</title>
-    <link>https://eens-en.netlify.app/apologetics/against-jehovah-witnesses/</link>
+    <link>http://localhost:1313/apologetics/against-jehovah-witnesses/</link>
     <description>Recent content in Against &#34;Jehovah’s Witnesses&#34; on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:15 +0200</lastBuildDate>
-    <atom:link href="https://eens-en.netlify.app/apologetics/against-jehovah-witnesses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/apologetics/against-jehovah-witnesses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Refutation of Jehovah&#39;s Witnesses</title>
-      <link>https://eens-en.netlify.app/apologetics/against-jehovah-witnesses/jehovahs-witnesses-watchtower-society/</link>
+      <link>http://localhost:1313/apologetics/against-jehovah-witnesses/jehovahs-witnesses-watchtower-society/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:15 +0200</pubDate>
-      <guid>https://eens-en.netlify.app/apologetics/against-jehovah-witnesses/jehovahs-witnesses-watchtower-society/</guid>
+      <guid>http://localhost:1313/apologetics/against-jehovah-witnesses/jehovahs-witnesses-watchtower-society/</guid>
       <description>By Brother Peter Dimond, O.S.B.&#xA;Source: vaticancatholic.com</description>
     </item>
   </channel>

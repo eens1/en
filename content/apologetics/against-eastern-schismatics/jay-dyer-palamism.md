@@ -6,6 +6,8 @@ title: Jay Dyer Exposed & Palamism Refuted
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/jay-dyer-palamism/)

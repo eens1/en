@@ -1,17 +1,21 @@
 ---
-title: "The Organized Effort To Infiltrate The Catholic Church"
-date: "2024-11-27T05:47:12"
-draft: "false"
-description: "Pope Leo XIII, Dall’Alto (# 2), Oct. 15, 1890: “It is needless now to put the Masonic sects upon their trial.  They are already judged; their ends, their means, their doctrines, and their action, are [...]"
+date: '2024-11-27T05:47:12'
+description: "Pope Leo XIII, Dall\u2019Alto (# 2), Oct. 15, 1890: \u201CIt is needless\
+  \ now to put the Masonic sects upon their trial.\_ They are already judged; their\
+  \ ends, their means, their doctrines, and their action, are [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/masonic-infiltration
+image: https://i.ibb.co/DbhYLx4/masonic-infiltration-catholic-church.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/masonic-infiltration"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/DbhYLx4/masonic-infiltration-catholic-church.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: The Organized Effort To Infiltrate The Catholic Church
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/masonic-infiltration)
 

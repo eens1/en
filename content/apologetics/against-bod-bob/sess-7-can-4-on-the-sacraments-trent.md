@@ -1,13 +1,15 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/sess-7-can-4-on-the-sacraments-trent/"
+external_url: https://vaticancatholic.com/sess-7-can-4-on-the-sacraments-trent/
 summary: '
 
   Actually Refutes Baptism of Desire, as Can Be Seen When Compared with Similar Dogmatic
   Canons on The Sacraments in General.'
-title: "Sess. 7, Can. 4 On The Sacraments"
+title: Sess. 7, Can. 4 On The Sacraments
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

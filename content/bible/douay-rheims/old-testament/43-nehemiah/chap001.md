@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 The words of Nehemiah the son of Helchias. And it came to pass in the month of Casleu, in the twentieth year, as I was in the castle of Susa,

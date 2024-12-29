@@ -1,8 +1,9 @@
 ---
-title: "Chapter 38"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 38
 ---
+
 
 
 1 Unto the end, for Idithun himself, a canticle of David.

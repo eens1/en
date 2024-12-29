@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 Be not jealous over the wife of thy bosom, lest she shew in thy regard the malice of a wicked lesson.

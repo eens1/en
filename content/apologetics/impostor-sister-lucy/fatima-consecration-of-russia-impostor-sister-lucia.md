@@ -1,17 +1,21 @@
 ---
-title: "Fatima: Consecration Of Russia; Impostor “Sister” Lucia"
-date: "2024-12-23T07:45:15"
-draft: "false"
-description: "-The question is: Can you handle the truth on this issue? -The truth that you won’t hear from “Fr.” Gruner; the stunning facts on an issue that we’ve all been brainwashed only to consider from [...]"
+date: '2024-12-23T07:45:15'
+description: "-The question is: Can you handle the truth on this issue? -The truth\
+  \ that you won\u2019t hear from \u201CFr.\u201D Gruner; the stunning facts on an\
+  \ issue that we\u2019ve all been brainwashed only to consider from [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/consecration-russia-fatima-lucy/
+image: https://vaticancatholic.com/images/consecration-of-russia-fatima-sister-lucia.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/consecration-russia-fatima-lucy/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/consecration-of-russia-fatima-sister-lucia.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Fatima: Consecration Of Russia; Impostor \u201CSister\u201D Lucia"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/consecration-russia-fatima-lucy/)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 7"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 7
 ---
+
 
 
 1 My son, keep my words, and lay up my precepts with thee. Son,

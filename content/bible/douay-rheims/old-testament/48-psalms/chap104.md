@@ -1,8 +1,9 @@
 ---
-title: "Chapter 104"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 104
 ---
+
 
 
 1 Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles.

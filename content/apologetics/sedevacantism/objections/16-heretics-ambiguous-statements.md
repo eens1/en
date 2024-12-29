@@ -1,9 +1,12 @@
 ---
-title: "Objection 16): The Vatican II popes haven’t taught manifest heresy, because their statements are ambiguous and require commentary."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/heretics-ambiguous-statements/"
+external_url: https://vaticancatholic.com/heretics-ambiguous-statements/
+title: "Objection 16): The Vatican II popes haven\u2019t taught manifest heresy, because\
+  \ their statements are ambiguous and require commentary."
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

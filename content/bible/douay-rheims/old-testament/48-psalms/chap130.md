@@ -1,8 +1,9 @@
 ---
-title: "Chapter 130"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 130
 ---
+
 
 
 1 A gradual canticle of David. Lord, my heart is not exalted: nor are my eyes lofty. Neither have I walked in great matters, nor in wonderful things above me.

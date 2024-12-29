@@ -1,8 +1,9 @@
 ---
-title: "Chapter 11"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 11
 ---
+
 
 
 1 Then all Israel gathered themselves to David in Hebron, saying: We are thy bone, and thy flesh.

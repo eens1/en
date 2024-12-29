@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 Now these are the children of the province, that went out of the captivity, which Nabuchodonosor king of Babylon had carried away to Babylon, and who returned to Jerusalem and Juda, every man to his city.

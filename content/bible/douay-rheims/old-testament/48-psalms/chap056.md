@@ -1,8 +1,9 @@
 ---
-title: "Chapter 56"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 56
 ---
+
 
 
 1 Unto the end, destroy not, for David, for an inscription of a title, when he fled from Saul into the cave.

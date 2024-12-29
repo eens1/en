@@ -1,8 +1,9 @@
 ---
-title: "Chapter 32"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 32
 ---
+
 
 
 1 A psalm for David. Rejoice in the Lord, O ye just: praise becometh the upright.

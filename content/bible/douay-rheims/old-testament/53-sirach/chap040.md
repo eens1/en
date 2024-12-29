@@ -1,8 +1,9 @@
 ---
-title: "Chapter 40"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 40
 ---
+
 
 
 1 Great labour is created for all men, and a heavy yoke is upon the children of Adam from the day of their coming out of their mother's womb, until the day of their burial into the mother of all.

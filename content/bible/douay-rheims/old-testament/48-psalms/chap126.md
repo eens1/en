@@ -1,8 +1,9 @@
 ---
-title: "Chapter 126"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 126
 ---
+
 
 
 1 A gradual canticle of Solomon. Unless the Lord build the house, they labour in vain that build it. Unless the Lord keep the city, he watcheth in vain that keepeth it.

@@ -1,17 +1,21 @@
 ---
-title: "Chair of St. Peter on Outside the Catholic Church There is No Salvation"
-date: "2024-12-04T11:51:06"
-draft: "false"
-description: "The following statements on Outside the Catholic Church There is No Salvation are from the highest teaching authority of the Catholic Church.  They are ex cathedra Papal decrees (decrees from the Chair of St. Peter).  [...]"
+date: '2024-12-04T11:51:06'
+description: "The following statements on Outside the Catholic Church There is No\
+  \ Salvation are from the highest teaching authority of the Catholic Church.\_ They\
+  \ are ex cathedra Papal decrees (decrees from the Chair of St. Peter).\_ [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/chair-of-peter-outside-the-church-no-salvation/
+image: https://i.ibb.co/2dRkb57/chair-of-saint-peter-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/chair-of-peter-outside-the-church-no-salvation/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/2dRkb57/chair-of-saint-peter-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Chair of St. Peter on Outside the Catholic Church There is No Salvation
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/chair-of-peter-outside-the-church-no-salvation/)
 

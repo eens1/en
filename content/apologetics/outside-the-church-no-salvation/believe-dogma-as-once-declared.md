@@ -6,6 +6,8 @@ title: Believe Dogma as it was once declared
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/believe-dogma-as-once-declared)

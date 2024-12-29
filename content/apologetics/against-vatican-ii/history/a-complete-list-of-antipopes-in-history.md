@@ -1,17 +1,21 @@
 ---
-title: "A Complete List Of Antipopes In History"
-date: "2024-11-27T05:39:13"
-draft: "false"
-description: "To understand what God might allow to transpire in the final days, we must understand Catholic teaching on the Papacy and look at some examples in Church history of things that God has allowed to [...]"
+date: '2024-11-27T05:39:13'
+description: To understand what God might allow to transpire in the final days, we
+  must understand Catholic teaching on the Papacy and look at some examples in Church
+  history of things that God has allowed to [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/list-of-antipopes-in-history/
+image: https://i.ibb.co/r78d5G8/antipopes.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/list-of-antipopes-in-history/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/r78d5G8/antipopes.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: A Complete List Of Antipopes In History
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/list-of-antipopes-in-history/)
 

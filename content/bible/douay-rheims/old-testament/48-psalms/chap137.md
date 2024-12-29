@@ -1,8 +1,9 @@
 ---
-title: "Chapter 137"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 137
 ---
+
 
 
 1 For David himself. I will praise thee, O Lord, with my whole heart: for thou hast heard the words of my mouth. I will sing praise to thee in the sight of the angels:

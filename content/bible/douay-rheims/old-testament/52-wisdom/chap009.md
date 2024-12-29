@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 God of my fathers, and Lord of mercy, who hast made all things with thy word,

@@ -1,13 +1,17 @@
 ---
-title: "Mary is not Biblical Wisdom - Mary is not God"
-date: "2024-11-24T09:36:44"
-draft: "false"
-description: "Bro. Peter Dimond **This file contains portions of letters we recently sent to a man who believes that the Blessed Virgin Mary is the Spirit of Wisdom (Sophia) mentioned in the Old Testament.  As a [...]"
+date: '2024-11-24T09:36:44'
+description: "Bro. Peter Dimond **This file contains portions of letters we recently\
+  \ sent to a man who believes that the Blessed Virgin Mary is the Spirit of Wisdom\
+  \ (Sophia) mentioned in the Old Testament.\_ As a [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/mary-is-not-biblical-wisdom-mary-is-not-god/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/mary-is-not-biblical-wisdom-mary-is-not-god/"
-locale: "en_US"
-type: "article"
+title: Mary is not Biblical Wisdom - Mary is not God
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/mary-is-not-biblical-wisdom-mary-is-not-god/)
 

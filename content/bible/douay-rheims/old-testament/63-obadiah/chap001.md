@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 The vision of Obadiah. Thus saith the Lord God to Edom: We have heard a rumour from the Lord, and he hath sent an ambassador to the nations: Arise, and let us rise up to battle against him.

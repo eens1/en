@@ -1,8 +1,9 @@
 ---
-title: "Chapter 8"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 8
 ---
+
 
 
 1 Now these are the chief of families, and the genealogy of them, who came up with me from Babylon in the reign of Artaxerxes the king.

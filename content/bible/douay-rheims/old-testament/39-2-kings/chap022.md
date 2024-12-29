@@ -1,8 +1,9 @@
 ---
-title: "Chapter 22"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 22
 ---
+
 
 
 1 Josias was eight years old when he began to reign: he reigned one and thirty years in Jerusalem: the name of his mother was Idida, the daughter of Hadaia, of Besecath.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 And he abode at that time in the king's court with Bagatha and Thara the king's eunuchs, who were porters of the palace.

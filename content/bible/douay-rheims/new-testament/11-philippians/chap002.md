@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 If there be therefore any consolation in Christ, if any comfort of charity, if any society of the spirit, if any bowels of commiseration:

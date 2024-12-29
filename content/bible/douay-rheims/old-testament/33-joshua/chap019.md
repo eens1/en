@@ -1,8 +1,9 @@
 ---
-title: "Chapter 19"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 19
 ---
+
 
 
 1 And the second lot came forth for the children of Simeon by their kindreds: and their inheritance was

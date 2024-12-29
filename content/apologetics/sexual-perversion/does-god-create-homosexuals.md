@@ -1,13 +1,18 @@
 ---
-title: "Does God Create Homosexuals?"
-date: "2024-11-24T09:34:14"
-draft: "false"
-description: "The answer to this question is no.  The Vatican II sect denies the truth: that God doesn’t create anyone as a homosexual Antipope John Paul II, New Catechism, #2357: “Homosexuality… Its psychological genesis remains largely [...]"
+date: '2024-11-24T09:34:14'
+description: "The answer to this question is no.\_ The Vatican II sect denies the\
+  \ truth: that God doesn\u2019t create anyone as a homosexual Antipope John Paul\
+  \ II, New Catechism, #2357: \u201CHomosexuality\u2026 Its psychological genesis\
+  \ remains largely [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/god-create-homosexuals/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/god-create-homosexuals/"
-locale: "en_US"
-type: "article"
+title: Does God Create Homosexuals?
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/god-create-homosexuals/)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 Now Arphaxad king of the Medes had brought many nations under his dominions, and he built a very strong city, which he called Ecbatana,

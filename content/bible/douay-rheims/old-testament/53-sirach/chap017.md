@@ -1,8 +1,9 @@
 ---
-title: "Chapter 17"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 17
 ---
+
 
 
 1 God created man of the earth, and made him after his own image.

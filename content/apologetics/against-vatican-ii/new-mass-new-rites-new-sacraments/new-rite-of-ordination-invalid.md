@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/new-rite-of-ordination-invalid/
 title: The New Rite of Ordination is Invalid
 ---
 
+
+
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/new-rite-of-ordination-invalid/)

@@ -1,17 +1,21 @@
 ---
-title: "Was Vatican II Infallible?"
-date: "2024-11-27T06:10:21"
-draft: "false"
-description: "ARTICLE: WAS VATICAN II INFALLIBLE? BRO. PETER DIMOND SECTIONS COVERED: -INTRODUCTION -JOHN XXIII’S OPENING SPEECH AT VATICAN II, OCT. 11, 1962 -JOHN XXIII SAYS THAT VATICAN II WILL BE AN ACT OF THE UNFAILING MAGISTERIUM [...]"
+date: '2024-11-27T06:10:21'
+description: "ARTICLE: WAS VATICAN II INFALLIBLE? BRO. PETER DIMOND SECTIONS COVERED:\
+  \ -INTRODUCTION -JOHN XXIII\u2019S OPENING SPEECH AT VATICAN II, OCT. 11, 1962 -JOHN\
+  \ XXIII SAYS THAT VATICAN II WILL BE AN ACT OF THE UNFAILING MAGISTERIUM [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/vatican-ii-infallible
+image: https://i.ibb.co/Ss7jgBF/was-vatican-ii-council-infallible-mhfm-video-1.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/vatican-ii-infallible"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/Ss7jgBF/was-vatican-ii-council-infallible-mhfm-video-1.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Was Vatican II Infallible?
+type: article
+video: true
 ---
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/vatican-ii-infallible)
 

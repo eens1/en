@@ -1,8 +1,9 @@
 ---
-title: "Chapter 40"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 40
 ---
+
 
 
 1 The word that came to Jeremiah from the Lord, after that Nabuzardan the general had let him go from Rama, when he had taken him, being bound with chains, among all them that were carried away from Jerusalem and Juda, and were carried to Babylon.

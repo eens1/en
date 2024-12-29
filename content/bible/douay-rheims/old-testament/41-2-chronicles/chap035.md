@@ -1,8 +1,9 @@
 ---
-title: "Chapter 35"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 35
 ---
+
 
 
 1 And Josias kept a phase to the Lord in Jerusalem, and it was sacrificed on the fourteenth day of the first month.

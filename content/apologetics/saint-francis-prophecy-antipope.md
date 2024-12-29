@@ -1,15 +1,17 @@
 ---
-title: "Saint Francis about an Antipope drawing many into error and death"
-date: 2024-09-14
-draft: false
-description: ""
-summary: ""
-tags: []
 categories: []
-image: "
+date: 2024-09-14
+description: ''
+draft: false
+image: '
 
-"
+  '
+summary: ''
+tags: []
+title: Saint Francis about an Antipope drawing many into error and death
 ---
+
+
 
 Source: Washbourne 1882, pp .248-249.
 

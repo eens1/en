@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:23+02:00
+date: 2024-09-06 20:00:23+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 And when great multitudes stood about him, so that they trod one upon another, he began to say to his disciples: Beware ye of the leaven of the Pharisees, which is hypocrisy.

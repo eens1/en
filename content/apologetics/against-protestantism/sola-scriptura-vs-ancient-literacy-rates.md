@@ -1,8 +1,10 @@
 ---
-title: "Sola Scriptura vs. Ancient Literacy Rates"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+title: Sola Scriptura vs. Ancient Literacy Rates
+video: true
 ---
+
 
 
 By Brother Peter Dimond, O.S.B.

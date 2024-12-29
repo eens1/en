@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/bible-papacy-st-peter/
 title: The Bible Teaches that Jesus made St. Peter the First Pope
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-papacy-st-peter/)

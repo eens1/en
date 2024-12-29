@@ -15,13 +15,14 @@
 --small-font: 14px;
 --font-family: 'Nunito', sans-serif;
 --logo-bg-color: var(--text-color);
---border-color: #444;
+--border-color: rgb(100,100,100);
+--border-color-highlight: #66afe9;
 }
 
 [data-theme="light"] {
 --font-size: 18px; 
 --text-color: black;
---light-text-color: grey;
+--light-text-color: rgb(50,50,50);
 --search-border-color: black;
 --link-color: blue;
 --bg-color: #FFFDD0;

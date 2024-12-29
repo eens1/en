@@ -1,8 +1,9 @@
 ---
-title: "Chapter 20"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 20
 ---
+
 
 
 1 Then all the children of Israel went out, and gathered together as one man, from Dan to Bersabee, with the land of Galaad, to the Lord in Maspha:

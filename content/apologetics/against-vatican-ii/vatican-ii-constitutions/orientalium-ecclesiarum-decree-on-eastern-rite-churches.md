@@ -1,17 +1,21 @@
 ---
-title: "Orientalium Ecclesiarum – Decree on Eastern Rite Churches"
-date: "2024-12-01T19:21:02"
-draft: "false"
-description: "2.  Orientalium ecclesiarum – Vatican II’s Decree on Eastern Catholic Churches The Vatican II Decree Orientalium ecclesiarum deals with eastern Catholic churches.  It also deals with the Eastern Schismatic [...]"
+date: '2024-12-01T19:21:02'
+description: "2.\_ Orientalium ecclesiarum \u2013 Vatican II\u2019s Decree on Eastern\
+  \ Catholic Churches The Vatican II Decree Orientalium ecclesiarum deals with eastern\
+  \ Catholic churches.\_ It also deals with the Eastern Schismatic [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/orientalium-ecclesiarum
+image: https://vaticancatholic.com/images/orientalium-ecclesiarum.jpg
+image:height: '518'
+image:type: image/jpeg
+image:width: '729'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/orientalium-ecclesiarum"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/orientalium-ecclesiarum.jpg"
-image:width: "729"
-image:height: "518"
-image:type: "image/jpeg"
+title: "Orientalium Ecclesiarum \u2013 Decree on Eastern Rite Churches"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/orientalium-ecclesiarum)
 

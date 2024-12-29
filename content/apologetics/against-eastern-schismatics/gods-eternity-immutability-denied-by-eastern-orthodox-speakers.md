@@ -6,6 +6,8 @@ title: "God's Eternity & Immutability - Denied By Eastern \u201COrthodox\u201D S
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/gods-eternity-immutability-denied-by-eastern-orthodox-speakers/)

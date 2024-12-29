@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 Times are not hid from the Almighty: but they that know him, know not his days.

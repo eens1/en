@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:23+02:00
+date: 2024-09-06 20:00:23+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 And when the sabbath was past, Mary Magdalen and Mary the mother of James and Salome bought sweet spices, that coming, they might anoint Jesus.

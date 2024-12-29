@@ -1,13 +1,17 @@
 ---
-title: "Bishop Tissier de Mallerais (SSPX) Is Not Catholic - Beware!"
-date: "2024-12-23T07:38:11"
-draft: "false"
-description: "By Bro. Peter Dimond, O.S.B. -5/12/06- Bishop Tissier De Mallerais of the SSPX recently gave an interview in which he discussed certain issues which are relevant to the post-Vatican II apostasy.  I would like to [...]"
+date: '2024-12-23T07:38:11'
+description: "By Bro. Peter Dimond, O.S.B. -5/12/06- Bishop Tissier De Mallerais of\
+  \ the SSPX recently gave an interview in which he discussed certain issues which\
+  \ are relevant to the post-Vatican II apostasy.\_ I would like to [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/bishop-tissier-de-mallerais/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/bishop-tissier-de-mallerais/"
-locale: "en_US"
-type: "article"
+title: Bishop Tissier de Mallerais (SSPX) Is Not Catholic - Beware!
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bishop-tissier-de-mallerais/)
 

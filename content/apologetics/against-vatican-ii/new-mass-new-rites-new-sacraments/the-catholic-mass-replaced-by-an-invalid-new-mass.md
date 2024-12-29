@@ -1,17 +1,20 @@
 ---
-title: "The Catholic Mass Replaced By An Invalid New Mass"
-date: "2024-12-01T19:32:16"
-draft: "false"
-description: "Why the \"Mass\" of \"Pope\" Paul VI in 1969, which is celebrated in English in all the dioceses, cannot be attended by a true Catholic."
+date: '2024-12-01T19:32:16'
+description: Why the "Mass" of "Pope" Paul VI in 1969, which is celebrated in English
+  in all the dioceses, cannot be attended by a true Catholic.
+draft: 'false'
+external_url: https://vaticancatholic.com/new-mass-traditional-latin-mass/
+image: https://vaticancatholic.com/images/new-mass-luchador.jpg
+image:height: '375'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/new-mass-traditional-latin-mass/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/new-mass-luchador.jpg"
-image:width: "500"
-image:height: "375"
-image:type: "image/jpeg"
+title: The Catholic Mass Replaced By An Invalid New Mass
+type: article
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 In the seventeenth year of Phacee, the son of Romelia reigned Achaz, the son of Joatham, king of Juda.

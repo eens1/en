@@ -1,9 +1,12 @@
 ---
-title: "Objection 19): The Joint Declaration with the Lutherans is not manifest heresy because John Paul II and Benedict XVI didn’t sign it."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/joint-declaration-lutherans-john-paul-ii-benedict-xvi/"
+external_url: https://vaticancatholic.com/joint-declaration-lutherans-john-paul-ii-benedict-xvi/
+title: "Objection 19): The Joint Declaration with the Lutherans is not manifest heresy\
+  \ because John Paul II and Benedict XVI didn\u2019t sign it."
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

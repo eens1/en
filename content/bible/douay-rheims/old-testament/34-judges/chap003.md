@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 These are the nations which the Lord left, that by them he might instruct Israel, and all that had not known the wars of the Chanaanites:

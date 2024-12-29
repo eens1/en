@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 Observe the month of new corn, which is the first of the spring, that thou mayst celebrate the phase to the Lord thy God: because in this month the Lord thy God brought thee out of Egypt by night.

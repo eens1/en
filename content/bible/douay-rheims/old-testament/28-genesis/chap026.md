@@ -1,8 +1,9 @@
 ---
-title: "Chapter 26"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 26
 ---
+
 
 
 1 And when a famine came in the land, after that barrenness which had happened in the days of Abraham, Isaac went to Abimelech, king of the Palestines, to Gerara.

@@ -1,9 +1,12 @@
 ---
-title: "Objection 18): The Council of Constance condemned the idea that a heretic would cease to be the pope."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/council-of-constance-john-hus/"
+external_url: https://vaticancatholic.com/council-of-constance-john-hus/
+title: 'Objection 18): The Council of Constance condemned the idea that a heretic
+  would cease to be the pope.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

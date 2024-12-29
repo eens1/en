@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 David consulted with the captains of thousands, and of hundreds, and with all the commanders.

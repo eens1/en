@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 In that day there shall be a fountain open to the house of David, and to the inhabitants of Jerusalem: for the washing of the sinner, and of the unclean woman.

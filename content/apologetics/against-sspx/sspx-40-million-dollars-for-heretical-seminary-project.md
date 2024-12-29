@@ -1,13 +1,18 @@
 ---
-title: "The Society of St. Pius X (SSPX) to receive 40 million dollars for their heretical seminary project"
-date: "2024-12-23T07:31:17"
-draft: "false"
-description: "Bro. Peter Dimond The Society of St. Pius X (SSPX) recently sent out a newsletter that came to our attention.  The newsletter discusses the SSPX’s new seminary project in Virginia.  It’s a striking example of [...]"
+date: '2024-12-23T07:31:17'
+description: "Bro. Peter Dimond The Society of St. Pius X (SSPX) recently sent out\
+  \ a newsletter that came to our attention.\_ The newsletter discusses the SSPX\u2019\
+  s new seminary project in Virginia.\_ It\u2019s a striking example of [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/society-st-pius-x-sspx-receive-7-million-dollars-heretical-seminary-project/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/society-st-pius-x-sspx-receive-7-million-dollars-heretical-seminary-project/"
-locale: "en_US"
-type: "article"
+title: The Society of St. Pius X (SSPX) to receive 40 million dollars for their heretical
+  seminary project
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/society-st-pius-x-sspx-receive-7-million-dollars-heretical-seminary-project/)
 

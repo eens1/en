@@ -1,17 +1,21 @@
 ---
-title: "Antipope Paul VI - Why He Was Not A Saint (Video Included)"
-date: "2024-12-01T19:42:38"
-draft: "false"
-description: "Paul VI (left) wearing the breast-plate of a Jewish High-Priest, (middle) giving away the Papal Tiara (a symbol of papal authority) and (right) engaging in false ecumenism and a possible masonic handshake with a schismatic [...]"
+date: '2024-12-01T19:42:38'
+description: Paul VI (left) wearing the breast-plate of a Jewish High-Priest, (middle)
+  giving away the Papal Tiara (a symbol of papal authority) and (right) engaging in
+  false ecumenism and a possible masonic handshake with a schismatic [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/anti-pope-paul-vi/
+image: https://vaticancatholic.com/images/saint-paul-vi-heresies-1.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/anti-pope-paul-vi/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/saint-paul-vi-heresies-1.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Antipope Paul VI - Why He Was Not A Saint (Video Included)
+type: article
 ---
+
+
 
 By Brother Michael Dimond, O.S.B.
 

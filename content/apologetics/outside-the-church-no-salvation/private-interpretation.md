@@ -6,6 +6,8 @@ title: "The \u201CPrivate Interpretation\u201D Objection"
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/private-interpretation/)

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 6"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 6
 ---
+
 
 
 1 Instead of a friend become not an enemy to thy neighbour: for an evil man shall inherit reproach and shame, so shall every sinner that is envious and double tongued.

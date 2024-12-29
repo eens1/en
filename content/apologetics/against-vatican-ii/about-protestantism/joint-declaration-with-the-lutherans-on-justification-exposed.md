@@ -1,16 +1,18 @@
 ---
-title: "Joint Declaration with the Lutherans on Justification Exposed"
-date: "2024-12-23T06:41:21"
-draft: "false"
+date: '2024-12-23T06:41:21'
+draft: 'false'
+external_url: https://vaticancatholic.com/joint-declaration-with-the-lutherans-on-justification
+image: https://vaticancatholic.com/images/joint-declaration-lutheran.jpg
+image:height: '430'
+image:type: image/jpeg
+image:width: '600'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/joint-declaration-with-the-lutherans-on-justification"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/joint-declaration-lutheran.jpg"
-image:width: "600"
-image:height: "430"
-image:type: "image/jpeg"
+title: Joint Declaration with the Lutherans on Justification Exposed
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/joint-declaration-with-the-lutherans-on-justification)
 

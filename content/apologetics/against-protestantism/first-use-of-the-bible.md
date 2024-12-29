@@ -1,8 +1,10 @@
 ---
-title: "The First Use of ‘The Bible’"
-date: 2024-09-06T20:02:15+02:00
+date: 2024-09-06 20:02:15+02:00
 draft: false
+title: "The First Use of \u2018The Bible\u2019"
+video: true
 ---
+
 
 
 By Brother Peter Dimond, O.S.B.

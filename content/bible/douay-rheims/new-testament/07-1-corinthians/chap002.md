@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 And I, brethren, when I came to you, came not in loftiness of speech or of wisdom, declaring unto you the testimony of Christ.

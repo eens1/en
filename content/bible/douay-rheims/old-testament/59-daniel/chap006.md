@@ -1,8 +1,9 @@
 ---
-title: "Chapter 6"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 6
 ---
+
 
 
 1 It seemed good to Darius, and he appointed over the kingdom a hundred and twenty governors, to be over his whole kingdom.

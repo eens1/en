@@ -1,8 +1,9 @@
 ---
-title: "Chapter 22"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 22
 ---
+
 
 
 1 A good name is better than great riches: and good favour is above silver and gold.

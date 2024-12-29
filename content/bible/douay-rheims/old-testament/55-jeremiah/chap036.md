@@ -1,8 +1,9 @@
 ---
-title: "Chapter 36"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 36
 ---
+
 
 
 1 And it came to pass in the fourth year of Joakim the son of Josias king of Juda, that this word came to Jeremiah by the Lord, saying:

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 2"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 2
 ---
+
 
 
 1 After this there went a man of the house of Levi; and took a wife of his own kindred.

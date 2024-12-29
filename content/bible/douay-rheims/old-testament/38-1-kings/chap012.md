@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 And Roboam went to Sichem: for thither were all Israel come together to make him king.

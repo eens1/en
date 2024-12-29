@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 Go about through the streets of Jerusalem, and see, and consider, and seek in the broad places thereof, if you can find a man that executeth judgment, and seeketh faith: and I will be merciful unto it.

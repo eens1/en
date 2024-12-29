@@ -6,6 +6,8 @@ title: Those who Die in Original Sin or Mortal Sin descend into Hell
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/people-who-die-in-mortal-sin)

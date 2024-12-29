@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 And Joram the son of Achab, reigned over Israel, in Samaria, in the eighteenth year of Josaphat, king of Juda. And he reigned twelve years.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 33"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 33
 ---
+
 
 
 1 Manasses was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem.

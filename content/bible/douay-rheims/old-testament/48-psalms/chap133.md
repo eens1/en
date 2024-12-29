@@ -1,8 +1,9 @@
 ---
-title: "Chapter 133"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 133
 ---
+
 
 
 1 A gradual canticle. Behold now bless ye the Lord, all ye servants of the Lord: Who stand in the house of the Lord, in the courts of the house of our God.

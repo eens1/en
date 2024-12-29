@@ -1,17 +1,21 @@
 ---
-title: "The Vatican II Sect Promotes Idolatry By Its Worship Of Men"
-date: "2024-12-23T07:00:36"
-draft: "false"
-description: "“Those who undertake the tedious task of wading through even a fraction of the propaganda which has accompanied the New Mass in any Western country would certainly concur that almost invariably it sees the meaning [...]"
+date: '2024-12-23T07:00:36'
+description: "\u201CThose who undertake the tedious task of wading through even a\
+  \ fraction of the propaganda which has accompanied the New Mass in any Western country\
+  \ would certainly concur that almost invariably it sees the meaning [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/worship-of-man-false-church/
+image: https://vaticancatholic.com/images/new-mass-idolatry-clown.jpg
+image:height: '307'
+image:type: image/jpeg
+image:width: '400'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/worship-of-man-false-church/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/new-mass-idolatry-clown.jpg"
-image:width: "400"
-image:height: "307"
-image:type: "image/jpeg"
+title: The Vatican II Sect Promotes Idolatry By Its Worship Of Men
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/worship-of-man-false-church/)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 Simon Peter, servant and apostle of Jesus Christ: to them that have obtained equal faith with us in the justice of our God and Saviour Jesus Christ.

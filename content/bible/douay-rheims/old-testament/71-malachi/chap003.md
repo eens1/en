@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold, he cometh, saith the Lord of hosts.

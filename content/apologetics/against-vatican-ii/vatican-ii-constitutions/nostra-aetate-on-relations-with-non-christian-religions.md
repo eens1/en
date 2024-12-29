@@ -1,17 +1,21 @@
 ---
-title: "Nostra Aetate – On Relations with Non-Christian Religions"
-date: "2024-12-01T19:24:47"
-draft: "false"
-description: "6.  Nostra Aetate – Vatican II’s Decree on Non-Christian Religions Vatican II document, Nostra aetate # 3: “The Church also looks upon Muslims with respect.  They worship the one [...]"
+date: '2024-12-01T19:24:47'
+description: "6.\_ Nostra Aetate \u2013 Vatican II\u2019s Decree on Non-Christian\
+  \ Religions Vatican II document, Nostra aetate # 3: \u201CThe Church also looks\
+  \ upon Muslims with respect.\_ They worship the one [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/nostra-aetate
+image: https://vaticancatholic.com/images/nostra-aetate.jpg
+image:height: '319'
+image:type: image/jpeg
+image:width: '448'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/nostra-aetate"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/nostra-aetate.jpg"
-image:width: "448"
-image:height: "319"
-image:type: "image/jpeg"
+title: "Nostra Aetate \u2013 On Relations with Non-Christian Religions"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/nostra-aetate)
 

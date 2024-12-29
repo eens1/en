@@ -1,17 +1,21 @@
 ---
-title: "Shocking News Reports Summarizing The Vatican II Apostasy"
-date: "2024-12-23T07:16:56"
-draft: "false"
-description: "The seemingly bottomless pit of scandal produced by the Vatican II sect in the areas of outrageous New Masses (many of which we have already catalogued), “Catholic” colleges and universities, and the actions of its [...]"
+date: '2024-12-23T07:16:56'
+description: "The seemingly bottomless pit of scandal produced by the Vatican II sect\
+  \ in the areas of outrageous New Masses (many of which we have already catalogued),\
+  \ \u201CCatholic\u201D colleges and universities, and the actions of its [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/shocking-news-apostasy-of-vatican-ii-sects/
+image: https://vaticancatholic.com/images/new-mass-abominations.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/shocking-news-apostasy-of-vatican-ii-sects/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/new-mass-abominations.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Shocking News Reports Summarizing The Vatican II Apostasy
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/shocking-news-apostasy-of-vatican-ii-sects/)
 

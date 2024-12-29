@@ -6,6 +6,8 @@ title: "Eastern \u201COrthodoxy's\u201D Fatal Flaw On Bishops & Ecumenical Counc
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/eastern-orthodoxy-bishops-ecumenical-councils/)

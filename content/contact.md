@@ -1,9 +1,12 @@
 ---
-title: "Contact"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
 hide_footer: true
+title: Contact
 ---
+
+
+
 
 {{< form name="Name" button="Submit" key="8f3ff63f-b4ef-4933-a61e-03c140303b40" >}}
 

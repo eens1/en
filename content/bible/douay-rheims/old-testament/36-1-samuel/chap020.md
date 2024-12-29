@@ -1,8 +1,9 @@
 ---
-title: "Chapter 20"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 20
 ---
+
 
 
 1 But David fled from Najoth, which is in Ramatha, and came and said to Jonathan: What have I done? what is my iniquity, and what is my sin against thy father, that he seeketh my life?

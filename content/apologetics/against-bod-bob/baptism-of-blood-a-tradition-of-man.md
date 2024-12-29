@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/baptism-of-blood-a-tradition-of-man/"
-title: "The Theory of Baptism of Blood - A Tradition of Man"
+external_url: https://vaticancatholic.com/baptism-of-blood-a-tradition-of-man/
+title: The Theory of Baptism of Blood - A Tradition of Man
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

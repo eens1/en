@@ -1,17 +1,21 @@
 ---
-title: "Apostasy Of The “Catholic” Hierarchy And Prominent Members"
-date: "2024-12-23T07:17:28"
-draft: "false"
-description: "The Bishop of Buffalo getting vested by the Dalai Lama in a massive interreligious service of apostasy[1] (more on this below) St. Robert Bellarmine, De Romano Pontifice, lib. II, cap. 30: “Finally, the Holy Fathers [...]"
+date: '2024-12-23T07:17:28'
+description: "The Bishop of Buffalo getting vested by the Dalai Lama in a massive\
+  \ interreligious service of apostasy[1] (more on this below) St. Robert Bellarmine,\
+  \ De Romano Pontifice, lib. II, cap. 30: \u201CFinally, the Holy Fathers [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/vatican-ii-apostasy-hierarchy/
+image: https://vaticancatholic.com/images/apostate-bishops.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/vatican-ii-apostasy-hierarchy/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/apostate-bishops.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Apostasy Of The \u201CCatholic\u201D Hierarchy And Prominent Members"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/vatican-ii-apostasy-hierarchy/)
 

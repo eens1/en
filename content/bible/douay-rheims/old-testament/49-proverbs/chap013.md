@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 A wise son heareth the doctrine of his father: but he that is a scorner, heareth not when he is reproved.

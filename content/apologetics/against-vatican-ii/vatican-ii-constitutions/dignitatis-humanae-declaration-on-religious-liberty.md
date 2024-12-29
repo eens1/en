@@ -1,17 +1,21 @@
 ---
-title: "Dignitatis Humanae – Declaration on Religious liberty"
-date: "2024-12-01T19:21:53"
-draft: "false"
-description: "4.  Dignitatis Humanae – Vatican II’s Declaration on Religious liberty Vatican II’s Declaration on Religious Liberty was without question the most notorious of all the documents of Vatican [...]"
+date: '2024-12-01T19:21:53'
+description: "4.\_ Dignitatis Humanae \u2013 Vatican II\u2019s Declaration on Religious\
+  \ liberty Vatican II\u2019s Declaration on Religious Liberty was without question\
+  \ the most notorious of all the documents of Vatican [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/dignitatis-humanae
+image: https://vaticancatholic.com/images/dignitates-humanae.jpg
+image:height: '439'
+image:type: image/jpeg
+image:width: '758'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/dignitatis-humanae"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/dignitates-humanae.jpg"
-image:width: "758"
-image:height: "439"
-image:type: "image/jpeg"
+title: "Dignitatis Humanae \u2013 Declaration on Religious liberty"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/dignitatis-humanae)
 

@@ -6,6 +6,8 @@ title: The Errors of the Current St. Benedict Center
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/errors-current-st-benedict-center/)

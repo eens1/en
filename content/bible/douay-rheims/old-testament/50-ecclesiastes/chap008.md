@@ -1,8 +1,9 @@
 ---
-title: "Chapter 8"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 8
 ---
+
 
 
 1 The wisdom of a man shineth in his countenance, and the most mighty will change his face.

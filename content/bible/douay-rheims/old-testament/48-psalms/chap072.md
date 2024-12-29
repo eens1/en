@@ -1,8 +1,9 @@
 ---
-title: "Chapter 72"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 72
 ---
+
 
 
 1 A psalm for Asaph. How good is God to Israel, to them that are of a right heart!

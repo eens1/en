@@ -1,8 +1,9 @@
 ---
-title: "Chapter 18"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 18
 ---
+
 
 
 1 And after these things, I saw another angel come down from heaven, having great power: and the earth was enlightened with his glory.

@@ -1,17 +1,22 @@
 ---
-title: "The Heresies of John Paul II, the most traveled man in history and perhaps the most heretical"
-date: "2024-12-01T19:44:43"
-draft: "false"
-description: "Videos On John Paul II’s Heresies “KING: The pope congratulated your children's bar mitzvahs? ”LEVINE: Not only congratulate us, he sent us a menorah. ”KING: He sent you a menorah? ”LEVINE: He gave it to [...]"
+date: '2024-12-01T19:44:43'
+description: "Videos On John Paul II\u2019s Heresies \u201CKING: The pope congratulated\
+  \ your children's bar mitzvahs? \u201DLEVINE: Not only congratulate us, he sent\
+  \ us a menorah. \u201DKING: He sent you a menorah? \u201DLEVINE: He gave it to [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/heresies-of-john-paul-ii/
+image: https://vaticancatholic.com/images/heresies-of-john-paul-ii.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/heresies-of-john-paul-ii/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/heresies-of-john-paul-ii.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Heresies of John Paul II, the most traveled man in history and perhaps
+  the most heretical
+type: article
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

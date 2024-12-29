@@ -1,13 +1,18 @@
 ---
-title: "Canonizations Are Infallible"
-date: "2024-12-23T07:34:27"
-draft: "false"
-description: "By Bro. Peter Dimond, O.S.B. *Note: This article is the second part to newsletter #4, Antipope John Paul II’s Canonization of Josemaria Escriva reveals Schism among most “traditionalists”. In this Article: - Fr. Moderator says [...]"
+date: '2024-12-23T07:34:27'
+description: "By Bro. Peter Dimond, O.S.B. *Note: This article is the second part\
+  \ to newsletter #4, Antipope John Paul II\u2019s Canonization of Josemaria Escriva\
+  \ reveals Schism among most \u201Ctraditionalists\u201D. In this Article: - Fr.\
+  \ Moderator says [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/are-canonizations-infallible/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/are-canonizations-infallible/"
-locale: "en_US"
-type: "article"
+title: Canonizations Are Infallible
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/are-canonizations-infallible/)
 

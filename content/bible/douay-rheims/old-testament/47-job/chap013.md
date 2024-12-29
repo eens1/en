@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 Behold my eye hath seen all these things, and my ear hath heard them, and I have understood them all.

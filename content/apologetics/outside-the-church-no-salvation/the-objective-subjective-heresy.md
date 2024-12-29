@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/the-objective-subjective-heresy/
 title: The Objective-Subjective Heresy
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-objective-subjective-heresy/)

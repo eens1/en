@@ -6,6 +6,8 @@ title: Jesus Christ Against Invincible Ignorance
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/jesus-christ-against-invincible-ignorance/)

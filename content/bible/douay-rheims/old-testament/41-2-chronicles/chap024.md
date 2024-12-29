@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 Joas was seven years old when he began to reign: and he reigned forty years in Jerusalem: the name of his mother was Sebia of Bersabee.

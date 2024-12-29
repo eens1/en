@@ -1,8 +1,9 @@
 ---
-title: "Chapter 6"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 6
 ---
+
 
 
 1 Now Jericho was close shut up and fenced, for fear of the children of Israel, and no man durst go out or come in.

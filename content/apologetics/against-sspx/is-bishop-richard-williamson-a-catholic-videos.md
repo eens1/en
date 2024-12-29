@@ -1,13 +1,17 @@
 ---
-title: "Is Bishop Richard Williamson a Catholic? (VIDEOS)"
-date: "2024-12-23T07:36:36"
-draft: "false"
-description: "By Bro. Peter Dimond, O.S.B. MUST-SEE NEW VIDEO ON THE SSPX: The Truth About The SSPX, The SSPX-MC, And Similar Groups -5/27/05- The Remnant recently held an interview with Bishop Richard Williamson of the Society [...]"
+date: '2024-12-23T07:36:36'
+description: 'By Bro. Peter Dimond, O.S.B. MUST-SEE NEW VIDEO ON THE SSPX: The Truth
+  About The SSPX, The SSPX-MC, And Similar Groups -5/27/05- The Remnant recently held
+  an interview with Bishop Richard Williamson of the Society [...]'
+draft: 'false'
+external_url: https://vaticancatholic.com/bishop-richard-williamson/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/bishop-richard-williamson/"
-locale: "en_US"
-type: "article"
+title: Is Bishop Richard Williamson a Catholic? (VIDEOS)
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bishop-richard-williamson/)
 

@@ -1,17 +1,21 @@
 ---
-title: "Pope Leo XIII’s Original Prayer to St. Michael – a Prophecy"
-date: "2024-11-27T05:28:40"
-draft: "false"
-description: "Pope Leo XIII’s Prayer to St. Michael the Archangel is prophetic.  Composed over 100 years ago, and then suppressed, Pope Leo XIII’s original Prayer to St. Michael is one of the most interesting and controversial [...]"
+date: '2024-11-27T05:28:40'
+description: "Pope Leo XIII\u2019s Prayer to St. Michael the Archangel is prophetic.\_\
+  \ Composed over 100 years ago, and then suppressed, Pope Leo XIII\u2019s original\
+  \ Prayer to St. Michael is one of the most interesting and controversial [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/prayer-saint-michael-pope-leo-xiii/
+image: https://i.ibb.co/WzdHW2Z/st-michael-leo-xiii-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/prayer-saint-michael-pope-leo-xiii/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/WzdHW2Z/st-michael-leo-xiii-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Pope Leo XIII\u2019s Original Prayer to St. Michael \u2013 a Prophecy"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/prayer-saint-michael-pope-leo-xiii/)
 

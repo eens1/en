@@ -4,7 +4,9 @@ draft: false
 external_url: https://endtimes.video/vatican-ii-new-religion/
 tags: []
 title: Vatican II is a new religion
+video: true
 ---
+
 
 By Brother Peter Dimond, O.S.B.
 

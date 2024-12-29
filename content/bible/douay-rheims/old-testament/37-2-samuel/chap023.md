@@ -1,8 +1,9 @@
 ---
-title: "Chapter 23"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 23
 ---
+
 
 
 1 Now these are David's last words. David the son of Isai said: The man to whom it was appointed concerning the Christ of the God of Jacob, the excellent psalmist of Israel said:

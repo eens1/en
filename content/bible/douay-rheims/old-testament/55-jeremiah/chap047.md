@@ -1,8 +1,9 @@
 ---
-title: "Chapter 47"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 47
 ---
+
 
 
 1 The word of the Lord that came to Jeremiah the prophet against the people of Palestine, before Pharao took Gaza.

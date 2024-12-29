@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/pope-leo-the-great-water-baptism/"
-title: "Pope St. Leo The Great Ends The Debate"
+external_url: https://vaticancatholic.com/pope-leo-the-great-water-baptism/
+title: Pope St. Leo The Great Ends The Debate
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

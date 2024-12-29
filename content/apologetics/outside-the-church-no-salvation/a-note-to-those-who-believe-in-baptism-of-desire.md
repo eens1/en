@@ -6,6 +6,8 @@ title: A Note to Those Who Believe in Baptism of Desire
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/a-note-to-those-who-believe-in-baptism-of-desire/)

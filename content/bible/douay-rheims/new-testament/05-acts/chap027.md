@@ -1,8 +1,9 @@
 ---
-title: "Chapter 27"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 27
 ---
+
 
 
 1 And when it was determined that he should sail into Italy and that Paul, with the other prisoners, should be delivered to a centurion, named Julius, of the band Augusta,

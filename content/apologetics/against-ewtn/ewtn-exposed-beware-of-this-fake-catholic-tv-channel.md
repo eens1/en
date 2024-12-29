@@ -1,17 +1,21 @@
 ---
-title: "EWTN Exposed! - Beware Of This Fake Catholic TV Channel"
-date: "2024-12-23T07:23:48"
-draft: "false"
-description: "This is our primary article on EWTN. It comes from our book, The Truth about What Really Happened to the Catholic Church after Vatican II. This article explains the main problems with EWTN. It covers [...]"
+date: '2024-12-23T07:23:48'
+description: This is our primary article on EWTN. It comes from our book, The Truth
+  about What Really Happened to the Catholic Church after Vatican II. This article
+  explains the main problems with EWTN. It covers [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/ewtn/
+image: https://vaticancatholic.com/images/ewtn-apostasy.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/ewtn/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/ewtn-apostasy.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: EWTN Exposed! - Beware Of This Fake Catholic TV Channel
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/ewtn/)
 

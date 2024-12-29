@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/st-john-chrysostom-baptism-of-desire/"
+external_url: https://vaticancatholic.com/st-john-chrysostom-baptism-of-desire/
 title: St. John Chrysostom & "Baptism of Desire"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

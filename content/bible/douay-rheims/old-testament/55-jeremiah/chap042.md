@@ -1,8 +1,9 @@
 ---
-title: "Chapter 42"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 42
 ---
+
 
 
 1 Then all the captains of the warriors, and Johanan the son of Caree, and Jezonias, the son of Osaias, and the rest of the people from the least to the greatest came near:

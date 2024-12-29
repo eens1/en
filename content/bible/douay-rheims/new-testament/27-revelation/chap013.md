@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 And I saw a beast coming up out the sea, having seven heads and ten horns: and upon his horns, ten diadems: and upon his heads, names of blasphemy.

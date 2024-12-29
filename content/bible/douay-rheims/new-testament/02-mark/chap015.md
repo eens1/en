@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:23+02:00
+date: 2024-09-06 20:00:23+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 And straightway in the morning, the chief priests holding a consultation with the ancients and the scribes and the whole council, binding Jesus, led him away and delivered him to Pilate.

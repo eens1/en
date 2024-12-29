@@ -1,13 +1,18 @@
 ---
-title: "Bishop Bernard Fellay (SSPX) says Hindus can be saved"
-date: "2024-12-23T07:33:25"
-draft: "false"
-description: "We’ve repeatedly documented that almost all traditionalist priests deny the dogma Outside the Church There is No Salvation.  We’ve also documented that among those dogma deniers, the priests of the SSPX are prominent.  We’ve also [...]"
+date: '2024-12-23T07:33:25'
+description: "We\u2019ve repeatedly documented that almost all traditionalist priests\
+  \ deny the dogma Outside the Church There is No Salvation.\_ We\u2019ve also documented\
+  \ that among those dogma deniers, the priests of the SSPX are prominent.\_ We\u2019\
+  ve also [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/bishop-fellay-sspx-hindus/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/bishop-fellay-sspx-hindus/"
-locale: "en_US"
-type: "article"
+title: Bishop Bernard Fellay (SSPX) says Hindus can be saved
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bishop-fellay-sspx-hindus/)
 

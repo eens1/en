@@ -1,8 +1,9 @@
 ---
-title: "Chapter 47"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 47
 ---
+
 
 
 1 Come down, sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne for the daughter of the Chaldeans, for thou shalt no more be called delicate and tender.

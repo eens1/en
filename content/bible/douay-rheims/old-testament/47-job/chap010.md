@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 My soul is weary of my life, I will let go my speech against myself, I will speak in the bitterness of my soul.

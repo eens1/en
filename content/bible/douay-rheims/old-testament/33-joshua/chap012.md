@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 These are the kings, whom the children of Israel slew and possessed their land beyond the Jordan towards the rising of the sun, from the torrent Arnon unto mount Hermon, and all the east country that looketh towards the wilderness.

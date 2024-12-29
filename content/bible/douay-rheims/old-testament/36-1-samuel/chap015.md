@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 And Samuel said to Saul: The Lord sent me to anoint thee king over his people Israel: now therefore hearken thou unto the voice of the Lord:

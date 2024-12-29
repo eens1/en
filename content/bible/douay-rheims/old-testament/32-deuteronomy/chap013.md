@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 If there rise in the midst of thee a prophet or one that saith he hath dreamed a dream, and he foretell a sign and a wonder,

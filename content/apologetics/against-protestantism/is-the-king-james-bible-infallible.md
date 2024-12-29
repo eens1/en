@@ -3,7 +3,9 @@ date: 2024-09-06 20:02:15+02:00
 draft: false
 external_url: https://vaticancatholic.com/is-the-king-james-bible-infallible/
 title: Is the King James Bible Infallible?
+video: true
 ---
+
 
 
 By Brother Peter Dimond, O.S.B.

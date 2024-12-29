@@ -1,8 +1,9 @@
 ---
-title: "Chapter 22"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 22
 ---
+
 
 
 1 Men, brethren and fathers, hear ye the account which I now give unto you.

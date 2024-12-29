@@ -1,17 +1,21 @@
 ---
-title: "The SSPX - Why Catholics Should Avoid This Heretical Group"
-date: "2024-12-23T07:39:38"
-draft: "false"
-description: "MUST-SEE VIDEO ON THE SSPX: The Truth About The SSPX, The SSPX-MC, And Similar Groups The article below contains a detailed explanation of the SSPX’s positions, and it shows why they are not consistent with [...]"
+date: '2024-12-23T07:39:38'
+description: "MUST-SEE VIDEO ON THE SSPX: The Truth About The SSPX, The SSPX-MC, And\
+  \ Similar Groups The article below contains a detailed explanation of the SSPX\u2019\
+  s positions, and it shows why they are not consistent with [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/sspx-society-st-pius-x-lefebvre/
+image: https://vaticancatholic.com/images/lefebvre-four-sspx-bishops.jpg
+image:height: '501'
+image:type: image/jpeg
+image:width: '640'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/sspx-society-st-pius-x-lefebvre/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/lefebvre-four-sspx-bishops.jpg"
-image:width: "640"
-image:height: "501"
-image:type: "image/jpeg"
+title: The SSPX - Why Catholics Should Avoid This Heretical Group
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/sspx-society-st-pius-x-lefebvre/)
 

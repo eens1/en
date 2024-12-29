@@ -6,6 +6,8 @@ title: Invincible Ignorance Becomes A Destructive Heresy,
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/invincible-ignorance-destructive-heresy/)

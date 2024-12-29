@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/the-dogmatic-council-of-vienne-contradicts-three-baptisms/"
+external_url: https://vaticancatholic.com/the-dogmatic-council-of-vienne-contradicts-three-baptisms/
 title: "The Dogmatic Council Of Vienne Contradicts \u201CThree Baptisms\u201D"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

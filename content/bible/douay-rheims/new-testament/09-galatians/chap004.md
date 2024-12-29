@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 As long as the heir is a child, he differeth nothing from a servant, though he be lord of all,

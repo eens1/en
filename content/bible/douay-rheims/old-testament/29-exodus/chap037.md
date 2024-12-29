@@ -1,8 +1,9 @@
 ---
-title: "Chapter 37"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 37
 ---
+
 
 
 1 And Beseleel made also, the ark of setim wood: it was two cubits and a half in length, and a cubit and a half in breadth, and the height was of one cubit and a half: and he overlaid it with the purest gold within and without.

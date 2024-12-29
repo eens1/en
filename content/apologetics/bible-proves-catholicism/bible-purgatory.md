@@ -3,7 +3,9 @@ date: 2024-09-06 20:02:27+02:00
 draft: false
 external_url: https://vaticancatholic.com/bible-purgatory/
 title: The Bible Teaches Purgatory
+video: true
 ---
+
 
 By Brother Peter Dimond, O.S.B.
 

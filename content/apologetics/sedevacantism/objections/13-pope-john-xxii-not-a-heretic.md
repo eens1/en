@@ -1,9 +1,12 @@
 ---
-title: "Objection 13): John XXII was a heretic, who was even denounced by Cardinal Orsini as a heretic, yet he remained the pope."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/pope-john-xxii-not-a-heretic/"
+external_url: https://vaticancatholic.com/pope-john-xxii-not-a-heretic/
+title: 'Objection 13): John XXII was a heretic, who was even denounced by Cardinal
+  Orsini as a heretic, yet he remained the pope.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

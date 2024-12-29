@@ -6,6 +6,8 @@ title: Quick Refutation of Jehovah's Witnesses
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/jehovahs-witnesses-watchtower-society/)

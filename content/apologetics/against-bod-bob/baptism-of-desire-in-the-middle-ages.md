@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/baptism-of-desire-in-the-middle-ages/"
+external_url: https://vaticancatholic.com/baptism-of-desire-in-the-middle-ages/
 title: '"Baptism of Desire" in The Middle Ages'
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 43"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 43
 ---
+
 
 
 1 And he brought me to the gate that looked towards the east.

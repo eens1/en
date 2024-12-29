@@ -3,7 +3,9 @@ date: 2024-09-06 20:02:15+02:00
 draft: false
 external_url: https://vaticancatholic.com/james-white-reformed-baptist/
 title: '''Born Again'' Refutes ''Faith Alone'' & The Demonic Possession of James White'
+video: true
 ---
+
 
 
 By Brother Peter Dimond, O.S.B.

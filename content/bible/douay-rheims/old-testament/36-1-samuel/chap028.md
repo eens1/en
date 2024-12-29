@@ -1,8 +1,9 @@
 ---
-title: "Chapter 28"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 28
 ---
+
 
 
 1 And it came to pass in those days, that the Philistines gathered together their armies, to be prepared for war against Israel: And Achis said to David: Know thou now assuredly, that thou shalt go out with me to the war, thou, and thy men.

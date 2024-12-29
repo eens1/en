@@ -6,6 +6,8 @@ title: "The \u201CYou Can\u2019t Judge\u201D Heresy"
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/you-cant-judge-heresy/)

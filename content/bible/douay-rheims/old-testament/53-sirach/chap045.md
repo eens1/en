@@ -1,8 +1,9 @@
 ---
-title: "Chapter 45"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 45
 ---
+
 
 
 1 Moses was beloved of God, and men: whose memory is in benediction.

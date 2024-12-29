@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 All wisdom is from the Lord God, and hath been always with him, and is before all time.

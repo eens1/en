@@ -1,8 +1,9 @@
 ---
-title: "Chapter 44"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 44
 ---
+
 
 
 1 And now hear, O Jacob, my servant, and Israel whom I have chosen.

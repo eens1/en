@@ -1,8 +1,9 @@
 ---
-title: "Chapter 11"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 11
 ---
+
 
 
 1 And the Lord said to Moses: Yet one plague more will I bring upon Pharao and Egypt, and after that he shall let you go, and thrust you out.

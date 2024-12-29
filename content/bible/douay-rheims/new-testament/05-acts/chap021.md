@@ -1,8 +1,9 @@
 ---
-title: "Chapter 21"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 21
 ---
+
 
 
 1 And when it came to pass that, being parted from them, we set sail, we came with a straight course to Coos, and the day following to Rhodes: and from thence to Patara.

@@ -6,6 +6,8 @@ title: Against the Heresies, by Archbishop Marcel Lefebvre
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/against-the-heresies-by-archbishop-marcel-lefebvre/)

@@ -6,6 +6,8 @@ title: Specific Catholic Teaching Against Protestant and Schismatic Sects
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/against-protestant-and-schismatics/)

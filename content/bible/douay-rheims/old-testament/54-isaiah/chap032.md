@@ -1,8 +1,9 @@
 ---
-title: "Chapter 32"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 32
 ---
+
 
 
 1 Behold a king shall reign in justice, and princes shall rule in judgment.

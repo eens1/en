@@ -1,8 +1,9 @@
 ---
-title: "Chapter 8"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 8
 ---
+
 
 
 1 Now we make known unto you, brethren, the grace of God that hath been given in the churches of Macedonia.

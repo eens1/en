@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/forty-martyrs-of-sebaste-saint-emerentiana/"
-title: "The Forty Martyrs Of Sebaste & Saint Emerentiana"
+external_url: https://vaticancatholic.com/forty-martyrs-of-sebaste-saint-emerentiana/
+title: The Forty Martyrs Of Sebaste & Saint Emerentiana
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 After Abimelech, there arose a ruler in Israel, Thola, son of Phua, the uncle of Abimelech, a man of Issachar, who dwelt in Samir of mount Ephraim:

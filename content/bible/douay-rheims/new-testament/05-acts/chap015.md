@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 And some, coming down from Judea, taught the brethren: That, except you be circumcised after the manner of Moses, you cannot be saved.

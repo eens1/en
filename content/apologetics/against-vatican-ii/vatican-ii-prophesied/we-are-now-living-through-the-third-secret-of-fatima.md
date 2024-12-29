@@ -1,17 +1,21 @@
 ---
-title: "We Are Now Living Through The Third Secret of Fatima!"
-date: "2024-11-27T05:32:58"
-draft: "false"
-description: "Fr. Mario Luigi Ciappi, papal theologian to Pope Pius XII: “In the Third Secret [of Fatima] it is foretold, among other things, that the great apostasy in the Church will begin at the top.”[1] The [...]"
+date: '2024-11-27T05:32:58'
+description: "Fr. Mario Luigi Ciappi, papal theologian to Pope Pius XII: \u201CIn\
+  \ the Third Secret [of Fatima] it is foretold, among other things, that the great\
+  \ apostasy in the Church will begin at the top.\u201D[1] The [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/our-lady-of-fatima-third-secret/
+image: https://i.ibb.co/4Kf8qJT/lucia-francisco-jacintha-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/our-lady-of-fatima-third-secret/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/4Kf8qJT/lucia-francisco-jacintha-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: We Are Now Living Through The Third Secret of Fatima!
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/our-lady-of-fatima-third-secret/)
 

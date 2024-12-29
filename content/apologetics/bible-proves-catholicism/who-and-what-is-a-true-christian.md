@@ -1,13 +1,17 @@
 ---
-title: "Who and What is a True Christian?"
-date: "2024-11-24T09:37:12"
-draft: "false"
-description: "A Christian is someone who follows the true faith of Jesus Christ.  In the Acts of the Apostles we read that it was at Antioch that the followers of Christ were first called Christians. Acts [...]"
+date: '2024-11-24T09:37:12'
+description: "A Christian is someone who follows the true faith of Jesus Christ.\_\
+  \ In the Acts of the Apostles we read that it was at Antioch that the followers\
+  \ of Christ were first called Christians. Acts [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/who-what-true-christian/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/who-what-true-christian/"
-locale: "en_US"
-type: "article"
+title: Who and What is a True Christian?
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/who-what-true-christian/)
 

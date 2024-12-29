@@ -1,3 +1,6 @@
+---
+video: true
+---
 
 ---
 title: "Vatican II’s Intercommunion Heresy"

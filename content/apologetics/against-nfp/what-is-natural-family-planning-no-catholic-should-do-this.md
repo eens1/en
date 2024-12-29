@@ -1,17 +1,21 @@
 ---
-title: "What Is Natural Family Planning? No Catholic Should Do This!"
-date: "2024-12-23T07:44:07"
-draft: "false"
-description: "Video: Natural Family Planning: A Birth Control Deception Why Natural Family Planning is Sinful Birth Control [PDF] In this Article: What is Natural Family Planning? Why is NFP Evil? The Teaching of the Catholic Papal [...]"
+date: '2024-12-23T07:44:07'
+description: 'Video: Natural Family Planning: A Birth Control Deception Why Natural
+  Family Planning is Sinful Birth Control [PDF] In this Article: What is Natural Family
+  Planning? Why is NFP Evil? The Teaching of the Catholic Papal [...]'
+draft: 'false'
+external_url: https://vaticancatholic.com/natural-family-planning-nfp/
+image: https://vaticancatholic.com/images/natural-family-planning-is-evil-mhfm-article.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/natural-family-planning-nfp/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/natural-family-planning-is-evil-mhfm-article.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: What Is Natural Family Planning? No Catholic Should Do This!
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/natural-family-planning-nfp/)
 

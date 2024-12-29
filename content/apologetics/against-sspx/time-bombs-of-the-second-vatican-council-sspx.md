@@ -6,6 +6,8 @@ title: Time Bombs of the Second Vatican Council, by Fr. Schmidberger of the SSPX
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/time-bombs-of-the-second-vatican-council-sspx/)

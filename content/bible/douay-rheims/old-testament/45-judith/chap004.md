@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 Then the children of Israel, who dwelt in the land of Juda, hearing these things, were exceedingly afraid of him.

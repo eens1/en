@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 Then David went up from thence, and dwelt in strong holds of Engaddi.

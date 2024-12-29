@@ -1,8 +1,9 @@
 ---
-title: "Chapter 19"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 19
 ---
+
 
 
 1 And it came to pass, while Apollo was at Corinth, that Paul, having passed through the upper coasts, came to Ephesus and found certain disciples.

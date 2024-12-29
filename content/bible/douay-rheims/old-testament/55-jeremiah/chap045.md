@@ -1,8 +1,9 @@
 ---
-title: "Chapter 45"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 45
 ---
+
 
 
 1 The word that Jeremiah the prophet spoke to Baruch the son of Nerias, when he had written these words in a book, out of the mouth of Jeremiah, in the fourth year of Joakim the son of Josias king of Juda, saying:

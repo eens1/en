@@ -6,6 +6,8 @@ title: Heresy before Vatican II
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/heresy-before-vatican-ii/)

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 14"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Chapter 14
 ---
+
 
 
 1 In the year one hundred and seventy-two king Demetrius assembled his army, and went into Media to get him succours to fight against Tryphon.

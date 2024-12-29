@@ -6,6 +6,8 @@ title: The Degenerate Result of Heresy against this Dogma
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-degenerate-result-of-heresy-against-this-dogma/)

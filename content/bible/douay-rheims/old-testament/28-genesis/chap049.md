@@ -1,8 +1,9 @@
 ---
-title: "Chapter 49"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 49
 ---
+
 
 
 1 And Jacob called his sons, and said to them: Gather yourselves together, that I may tell you the things that shall befall you in the last days.

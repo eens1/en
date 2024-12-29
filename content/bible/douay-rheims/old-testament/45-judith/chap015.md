@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 And when all the army heard that Holofernes was beheaded, courage and counsel fled from them, and being seized with trembling and fear they thought only to save themselves by flight.

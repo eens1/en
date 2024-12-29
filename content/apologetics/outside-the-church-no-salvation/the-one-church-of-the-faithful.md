@@ -6,6 +6,8 @@ title: The One Church of the Faithful
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-one-church-of-the-faithful)

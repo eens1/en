@@ -1,17 +1,21 @@
 ---
-title: "Was Vatican II A “Pastoral Council”? - The Answer May Shock You"
-date: "2024-11-27T06:22:48"
-draft: "false"
-description: "Video: Was Vatican II Infallible? Debate: Busting Myths about Vatican II’s “Infallibility” “Each and every one of the things set forth in this Decree has won the consent of the fathers.  We, too, by the [...]"
+date: '2024-11-27T06:22:48'
+description: "Video: Was Vatican II Infallible? Debate: Busting Myths about Vatican\
+  \ II\u2019s \u201CInfallibility\u201D \u201CEach and every one of the things set\
+  \ forth in this Decree has won the consent of the fathers.\_ We, too, by the [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/pastoral-council-vatican-ii-infallible/
+image: https://i.ibb.co/5WvQxZm/v2-p6.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/pastoral-council-vatican-ii-infallible/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/5WvQxZm/v2-p6.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Was Vatican II A \u201CPastoral Council\u201D? - The Answer May Shock You"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/pastoral-council-vatican-ii-infallible/)
 

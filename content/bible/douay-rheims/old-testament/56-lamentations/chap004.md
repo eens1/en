@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 Aleph. How is the gold become dim, the finest colour is changed, the stones of the sanctuary are scattered in the top of every street?

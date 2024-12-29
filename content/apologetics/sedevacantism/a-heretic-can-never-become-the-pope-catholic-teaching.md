@@ -1,17 +1,21 @@
 ---
-title: "A Heretic Can Never Become The Pope - Catholic Teaching"
-date: "2024-11-27T05:42:29"
-draft: "false"
-description: "The Catholic Encyclopedia, “Heresy,” 1914, Vol. 7, p. 261: “The pope himself, if notoriously guilty of heresy, would cease to be pope because he would cease to be a member of the Church.”[1] Heresy is [...]"
+date: '2024-11-27T05:42:29'
+description: "The Catholic Encyclopedia, \u201CHeresy,\u201D 1914, Vol. 7, p. 261:\
+  \ \u201CThe pope himself, if notoriously guilty of heresy, would cease to be pope\
+  \ because he would cease to be a member of the Church.\u201D[1] Heresy is [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/heretic-cannot-be-pope/
+image: https://i.ibb.co/f9Y7YZt/st-robert-bellarmine.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/heretic-cannot-be-pope/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/f9Y7YZt/st-robert-bellarmine.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: A Heretic Can Never Become The Pope - Catholic Teaching
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/heretic-cannot-be-pope/)
 

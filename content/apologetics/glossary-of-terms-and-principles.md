@@ -1,17 +1,21 @@
 ---
-title: "Glossary of Terms and Principles"
-date: "2024-11-27T05:25:05"
-draft: "false"
-description: "The Glossary of Terms and Principles [PDF] -This glossary of terms and principles will hopefully provide a quick aid to those unfamiliar with some of the phrases, topics or principles that are frequently discussed in [...]"
+date: '2024-11-27T05:25:05'
+description: The Glossary of Terms and Principles [PDF] -This glossary of terms and
+  principles will hopefully provide a quick aid to those unfamiliar with some of the
+  phrases, topics or principles that are frequently discussed in [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/catholic-glossary-principles/
+image: https://vaticancatholic.com/images/dictionary.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/catholic-glossary-principles/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/dictionary.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: Glossary of Terms and Principles
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/catholic-glossary-principles/)
 

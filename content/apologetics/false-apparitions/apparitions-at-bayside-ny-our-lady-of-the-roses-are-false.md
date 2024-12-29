@@ -1,17 +1,21 @@
 ---
-title: "Apparitions At Bayside, NY (\"Our Lady Of The Roses\") Are False"
-date: "2024-12-23T07:24:49"
-draft: "false"
-description: "We’re often contacted by those who follow the alleged apparitions of Our Lady and Our Lord that have occurred in various parts of the world over the past few decades.  Among these, the apparitions at [...]"
+date: '2024-12-23T07:24:49'
+description: "We\u2019re often contacted by those who follow the alleged apparitions\
+  \ of Our Lady and Our Lord that have occurred in various parts of the world over\
+  \ the past few decades.\_ Among these, the apparitions at [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/our-lady-roses-bayside-false-apparitions/
+image: https://vaticancatholic.com/images/bayside.jpg
+image:height: '398'
+image:type: image/jpeg
+image:width: '625'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/our-lady-roses-bayside-false-apparitions/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/bayside.jpg"
-image:width: "625"
-image:height: "398"
-image:type: "image/jpeg"
+title: Apparitions At Bayside, NY ("Our Lady Of The Roses") Are False
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/our-lady-roses-bayside-false-apparitions/)
 

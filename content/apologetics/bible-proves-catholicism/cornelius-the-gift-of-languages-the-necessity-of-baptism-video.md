@@ -1,17 +1,21 @@
 ---
-title: "Cornelius, The Gift Of Languages & The Necessity Of Baptism"
-date: "2024-11-24T07:15:52"
-draft: "false"
-description: "CORNELIUS, THE GIFT OF LANGUAGES & THE NECESSITY OF BAPTISM Bro. Peter Dimond Some people believe that a few verses in the Acts of the Apostles indicate that Cornelius (the first Gentile convert) and his [...]"
+date: '2024-11-24T07:15:52'
+description: CORNELIUS, THE GIFT OF LANGUAGES & THE NECESSITY OF BAPTISM Bro. Peter
+  Dimond Some people believe that a few verses in the Acts of the Apostles indicate
+  that Cornelius (the first Gentile convert) and his [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/speaking-in-tongues-baptism-holy-spirit
+image: https://vaticancatholic.com/images/cornelius-baptism-mhfm-video-1.jpg
+image:height: '272'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-locale: "en_US"
-type: "article"
-external_url: "https://vaticancatholic.com/speaking-in-tongues-baptism-holy-spirit"
-image: "https://vaticancatholic.com/images/cornelius-baptism-mhfm-video-1.jpg"
-image:width: "500"
-image:height: "272"
-image:type: "image/jpeg"
+title: Cornelius, The Gift Of Languages & The Necessity Of Baptism
+type: article
+video: true
 ---
+
 
 By Bro. Peter Dimond, O.S.B.
 

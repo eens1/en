@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 Now in the eighteenth year of the reign of Jeroboam, the son of Nabat, Abiam reigned over Juda.

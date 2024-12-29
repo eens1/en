@@ -7,6 +7,8 @@ title: Catholics Must Believe and Profess that the Sacramental System as a whole
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/catholics-sacramental-system/)

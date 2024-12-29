@@ -1,17 +1,21 @@
 ---
-title: "Figures On The Post-Vatican II Decline"
-date: "2024-12-23T07:12:37"
-draft: "false"
-description: "The figures on the post-Vatican II decline were summarized by Pat Buchanan in a Dec. 11, 2002 article called “An index of Catholicism’s decline” on townhall.com.  Pat Buchanan was drawing on the research of Kenneth [...]"
+date: '2024-12-23T07:12:37'
+description: "The figures on the post-Vatican II decline were summarized by Pat Buchanan\
+  \ in a Dec. 11, 2002 article called \u201CAn index of Catholicism\u2019s decline\u201D\
+  \ on townhall.com.\_ Pat Buchanan was drawing on the research of Kenneth [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/figures-post-vatican-ii-decline
+image: https://vaticancatholic.com/images/wooden-benches_v2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/figures-post-vatican-ii-decline"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/wooden-benches_v2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Figures On The Post-Vatican II Decline
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/figures-post-vatican-ii-decline)
 

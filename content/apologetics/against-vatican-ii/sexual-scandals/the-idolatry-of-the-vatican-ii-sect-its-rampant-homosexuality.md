@@ -1,17 +1,21 @@
 ---
-title: "The Idolatry Of The Vatican II Sect & Its Rampant Homosexuality"
-date: "2024-12-23T06:59:15"
-draft: "false"
-description: "Scripture teaches that homosexuality is a result of idolatry.  Romans 1- “Because that, when they knew God, they have not glorified him as God, or given thanks; but became vain in their thoughts, and their [...]"
+date: '2024-12-23T06:59:15'
+description: "Scripture teaches that homosexuality is a result of idolatry.\_ Romans\
+  \ 1- \u201CBecause that, when they knew God, they have not glorified him as God,\
+  \ or given thanks; but became vain in their thoughts, and their [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/idolatry-priests-rampant-homosexuality/
+image: https://vaticancatholic.com/images/idolatry-vatican-ii.jpg
+image:height: '369'
+image:type: image/jpeg
+image:width: '548'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/idolatry-priests-rampant-homosexuality/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/idolatry-vatican-ii.jpg"
-image:width: "548"
-image:height: "369"
-image:type: "image/jpeg"
+title: The Idolatry Of The Vatican II Sect & Its Rampant Homosexuality
+type: article
 ---
+
+
 
 <p>Scripture teaches that homosexuality is a result of idolatry. </p>
 <blockquote>

@@ -6,6 +6,8 @@ title: The Dogma, Pope Pius IX And Invincible Ignorance
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/dogma-pope-pius-ix-invincible-ignorance/)

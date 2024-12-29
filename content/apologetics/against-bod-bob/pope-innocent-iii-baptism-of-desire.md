@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/pope-innocent-iii-baptism-of-desire/"
-title: "Pope Innocent III"
+external_url: https://vaticancatholic.com/pope-innocent-iii-baptism-of-desire/
+title: Pope Innocent III
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

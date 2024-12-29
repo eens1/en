@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/against-judaism/
 title: Specific Catholic Teaching Against Judaism
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/against-judaism/)

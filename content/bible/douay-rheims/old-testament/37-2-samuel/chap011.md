@@ -1,8 +1,9 @@
 ---
-title: "Chapter 11"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 11
 ---
+
 
 
 1 And it came to pass at the return of the year, at the time when kings go forth to war, that David sent Joab and his servants with him, and all Israel, and they spoiled the children of Ammon, and besieged Rabba: but David remained in Jerusalem.

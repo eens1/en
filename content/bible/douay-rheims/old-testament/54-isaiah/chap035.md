@@ -1,8 +1,9 @@
 ---
-title: "Chapter 35"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 35
 ---
+
 
 
 1 The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.

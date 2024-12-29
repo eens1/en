@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 For concerning the ministry that is done towards the saints, it is superfluous for me to write unto you.

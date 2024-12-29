@@ -1,17 +1,22 @@
 ---
-title: "The Fake \"Catholic Church\" Literally Turns Away Converts At The Door"
-date: "2024-12-23T07:13:41"
-draft: "false"
-description: "We’ve already documented that Paul VI, John Paul II and Benedict XVI explicitly taught/teach that non-Catholics, such as the Protestants and Eastern Orthodox, don’t need to be converted to the Catholic Faith for unity and [...]"
+date: '2024-12-23T07:13:41'
+description: "We\u2019ve already documented that Paul VI, John Paul II and Benedict\
+  \ XVI explicitly taught/teach that non-Catholics, such as the Protestants and Eastern\
+  \ Orthodox, don\u2019t need to be converted to the Catholic Faith for unity and\
+  \ [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/vatican-ii-turns-away-converts/
+image: https://vaticancatholic.com/images/church-door.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/vatican-ii-turns-away-converts/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/church-door.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Fake "Catholic Church" Literally Turns Away Converts At The Door
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/vatican-ii-turns-away-converts/)
 

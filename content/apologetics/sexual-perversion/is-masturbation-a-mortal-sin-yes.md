@@ -1,13 +1,17 @@
 ---
-title: "Is Masturbation A Mortal Sin? Yes."
-date: "2024-11-24T14:37:36"
-draft: "false"
-description: "Rejecting the Lust and Impurity of Hell video series We regret that we have to address these issues. However, due to the fact that we have received a high number of queries on this issue, [...]"
+date: '2024-11-24T14:37:36'
+description: Rejecting the Lust and Impurity of Hell video series We regret that we
+  have to address these issues. However, due to the fact that we have received a high
+  number of queries on this issue, [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/masturbation-mortal-sin/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/masturbation-mortal-sin/"
-locale: "en_US"
-type: "article"
+title: Is Masturbation A Mortal Sin? Yes.
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/masturbation-mortal-sin/)
 

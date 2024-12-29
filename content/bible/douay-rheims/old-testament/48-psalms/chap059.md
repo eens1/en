@@ -1,8 +1,9 @@
 ---
-title: "Chapter 59"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 59
 ---
+
 
 
 1 Unto the end, for them that shall be changed, for the inscription of a title, to David himself, for doctrine,

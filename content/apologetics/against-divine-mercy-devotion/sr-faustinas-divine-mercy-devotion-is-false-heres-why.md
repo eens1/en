@@ -1,17 +1,21 @@
 ---
-title: "Sr. Faustina’s Divine Mercy Devotion Is False - Here's Why"
-date: "2024-12-23T07:42:50"
-draft: "false"
-description: "Over the years we had heard different opinions about the Divine Mercy Devotion and didn’t know exactly what to think about it.   The fact is that in the 1950s the Divine Mercy Devotion was [...]"
+date: '2024-12-23T07:42:50'
+description: "Over the years we had heard different opinions about the Divine Mercy\
+  \ Devotion and didn\u2019t know exactly what to think about it. \_ The fact is that\
+  \ in the 1950s the Divine Mercy Devotion was [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/sr-faustina-divine-mercy-chaplet/
+image: https://vaticancatholic.com/images/divine-mercy-sr-faustina.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/sr-faustina-divine-mercy-chaplet/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/divine-mercy-sr-faustina.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: "Sr. Faustina\u2019s Divine Mercy Devotion Is False - Here's Why"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/sr-faustina-divine-mercy-chaplet/)
 

@@ -1,17 +1,20 @@
 ---
-title: "Was Anti-Pope John Paul II The Antichrist?"
-date: "2024-12-23T07:48:33"
-draft: "false"
-description: "Video: The Antichrist Revealed: The Beast that Was, and Is Not, Has Returned Video: “St.” John Paul II’s Heresies (1 hour 5 minutes)"
+date: '2024-12-23T07:48:33'
+description: "Video: The Antichrist Revealed: The Beast that Was, and Is Not, Has\
+  \ Returned Video: \u201CSt.\u201D John Paul II\u2019s Heresies (1 hour 5 minutes)"
+draft: 'false'
+external_url: https://vaticancatholic.com/john-paul-ii-antichrist/
+image: https://vaticancatholic.com/images/jpii-upside-down-crosses.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/john-paul-ii-antichrist/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/jpii-upside-down-crosses.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Was Anti-Pope John Paul II The Antichrist?
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/john-paul-ii-antichrist/)
 

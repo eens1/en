@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 Now when all the kings of the Amorrhites, who dwelt beyond the Jordan, westward, and all the kings of Chanaan, who possessed the places near the great sea, had heard that the Lord had dried up the waters of the Jordan before the children of Israel, till they passed over, their heart failed them, and there remained no spirit in them, fearing the coming in of the children of Israel.

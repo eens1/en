@@ -1,17 +1,22 @@
 ---
-title: "The Great Western Schism (1378-1417)"
-date: "2024-11-27T05:41:12"
-draft: "false"
-description: "The Great Western Schism (1378-1417) and what it teaches us about the post-Vatican II apostasy [PDF] -Massive confusion, multiple antipopes, antipopes in Rome, an antipope recognized by all the cardinals; The Great Western Schism proves [...]"
+date: '2024-11-27T05:41:12'
+description: The Great Western Schism (1378-1417) and what it teaches us about the
+  post-Vatican II apostasy [PDF] -Massive confusion, multiple antipopes, antipopes
+  in Rome, an antipope recognized by all the cardinals; The Great Western Schism proves
+  [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/great-western-schism/
+image: https://i.ibb.co/zbs8LbZ/council-of-constance-v2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/great-western-schism/"
-locale: "en_US"
-type: "article"
-image: "https://i.ibb.co/zbs8LbZ/council-of-constance-v2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Great Western Schism (1378-1417)
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/great-western-schism/)
 

@@ -6,6 +6,8 @@ title: Specific Teaching Against Islam
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/against-islam/)

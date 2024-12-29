@@ -1,17 +1,22 @@
 ---
-title: "The Hypocrisy Of Donald Sanborn's Group"
-date: "2024-12-23T12:41:04"
-draft: "false"
-description: "MHFM: It’s remarkable to see certain blind supporters of Donald Sanborn’s pseudo-sedevacantist group denounce the ‘Recognize and Resist’ position, while they fail to realize that Sanborn’s group holds the ‘Recognize and Resist’ position. Yes, Sanborn’s [...]"
+date: '2024-12-23T12:41:04'
+description: "MHFM: It\u2019s remarkable to see certain blind supporters of Donald\
+  \ Sanborn\u2019s pseudo-sedevacantist group denounce the \u2018Recognize and Resist\u2019\
+  \ position, while they fail to realize that Sanborn\u2019s group holds the \u2018\
+  Recognize and Resist\u2019 position. Yes, Sanborn\u2019s [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/hypocrisy-of-donald-sanborn-group/
+image: https://vaticancatholic.com/images/hypocrisy-of-donald-sanborn-group.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/hypocrisy-of-donald-sanborn-group/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/hypocrisy-of-donald-sanborn-group.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Hypocrisy Of Donald Sanborn's Group
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/hypocrisy-of-donald-sanborn-group/)
 

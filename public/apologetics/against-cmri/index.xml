@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Against the CMRI group on Extra Ecclesiam Nulla Salus</title>
-    <link>https://eens-en.netlify.app/apologetics/against-cmri/</link>
+    <link>http://localhost:1313/apologetics/against-cmri/</link>
     <description>Recent content in Against the CMRI group on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 20:02:28 +0200</lastBuildDate>
-    <atom:link href="https://eens-en.netlify.app/apologetics/against-cmri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/apologetics/against-cmri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMRI priest confirms their belief in salvation for non-Catholics</title>
+      <link>http://localhost:1313/apologetics/against-cmri/cmri-priest-confirms-their-belief-in-salvation-for-non-catholics/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apologetics/against-cmri/cmri-priest-confirms-their-belief-in-salvation-for-non-catholics/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Fr. Ripperger, SSPX, CMRI, Etc. Promote Grave Errors - Refuted By Cistercian Theologian</title>
+      <link>http://localhost:1313/apologetics/against-cmri/fr-ripperger-sspx-cmri-etc-promote-grave-errors-refuted-by-cistercian-theologian/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apologetics/against-cmri/fr-ripperger-sspx-cmri-etc-promote-grave-errors-refuted-by-cistercian-theologian/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Response to Ken on the CMRI and other false traditionalists</title>
+      <link>http://localhost:1313/apologetics/against-cmri/response-to-ken-on-the-cmri-and-other-false-traditionalists/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apologetics/against-cmri/response-to-ken-on-the-cmri-and-other-false-traditionalists/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>SSPX, CMRI &amp; Francis vs. Powerful Papal Teaching</title>
+      <link>http://localhost:1313/apologetics/against-cmri/sspx-cmri-francis-vs-powerful-papal-teaching/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apologetics/against-cmri/sspx-cmri-francis-vs-powerful-papal-teaching/</guid>
+      <description> </description>
+    </item>
     <item>
       <title>The CMRI and Other Priests</title>
-      <link>https://eens-en.netlify.app/apologetics/against-cmri/cmri-other-priests-against-water-baptism/</link>
+      <link>http://localhost:1313/apologetics/against-cmri/cmri-other-priests-against-water-baptism/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:28 +0200</pubDate>
-      <guid>https://eens-en.netlify.app/apologetics/against-cmri/cmri-other-priests-against-water-baptism/</guid>
+      <guid>http://localhost:1313/apologetics/against-cmri/cmri-other-priests-against-water-baptism/</guid>
       <description>By Brother Peter Dimond, O.S.B.&#xA;Source: vaticancatholic.com&#xA;Unfortunately, the priests of the CMRI (Congregation of Mary Immaculate Queen) also reject the true meaning of the dogma Outside the Church There is No Salvation. They also adhere to and promote the heretical Protocol 122/49 and hold that those who die as non-Catholics can be saved.&#xA;The CMRI recently published a pamphlet defending “baptism of desire” which implements arguments which have all been thoroughly refuted in this book.</description>
     </item>
   </channel>

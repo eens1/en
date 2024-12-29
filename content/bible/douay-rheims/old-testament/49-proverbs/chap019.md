@@ -1,8 +1,9 @@
 ---
-title: "Chapter 19"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 19
 ---
+
 
 
 1 Better is the poor man, that walketh in his simplicity, than a rich man that is perverse in his lips and unwise.

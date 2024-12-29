@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 And Jesus passing by, saw a man who was blind from his birth.

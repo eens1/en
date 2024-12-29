@@ -1,10 +1,13 @@
 ---
-title: "Matthias of Salo"
 date: 2024-12-23T17:38:34+0000
 draft: false
+summary: The reform of the Church and Franciscan renewal.
 tags: []
-summary: "The reform of the Church and Franciscan renewal."
+title: Matthias of Salo
 ---
+
+
+
 
 Source: [capdox.capuchin.org](https://www.capdox.capuchin.org.au/studies/reform-of-the-church-prophesy-and-apocalypse-in-mattia-da-salo/?hilite=clareno#post-5969-_Toc59381920)
 

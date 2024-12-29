@@ -6,6 +6,8 @@ title: Is Feeneyism Catholic?, by Fr. Francois Laisney (SSPX)
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/is-feeneyism-catholic-francois-laisney-sspx/)

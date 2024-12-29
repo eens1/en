@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 The burden of Ninive. The book of the vision of Nahum, the Elcesite.

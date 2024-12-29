@@ -1,13 +1,17 @@
 ---
-title: "Is Mary Co-Redemptrix? No. Here’s Why."
-date: "2024-11-25T06:13:23"
-draft: "false"
-description: "Refuting a Response on Co-Redemptrix; defending the necessity of devotion to Our Lady; and defending the truth that Jesus Christ is our Sole Redeemer FOR A MORE UPDATED ARTICLE ON [...]"
+date: '2024-11-25T06:13:23'
+description: Refuting a Response on Co-Redemptrix; defending the necessity of devotion
+  to Our Lady; and defending the truth that Jesus Christ is our Sole Redeemer FOR
+  A MORE UPDATED ARTICLE ON [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/is-mary-co-redemptrix/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/is-mary-co-redemptrix/"
-locale: "en_US"
-type: "article"
+title: "Is Mary Co-Redemptrix? No. Here\u2019s Why."
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/is-mary-co-redemptrix/)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 If a man take a wife, and have her, and she find not favour in his eyes, for some uncleanness: he shall write a bill of divorce, and shall give it in her hand, and send her out of his house.

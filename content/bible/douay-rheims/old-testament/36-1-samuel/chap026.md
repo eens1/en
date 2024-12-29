@@ -1,8 +1,9 @@
 ---
-title: "Chapter 26"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 26
 ---
+
 
 
 1 And the men of Ziph came to Saul in Gabaa, saying: Behold David is hid in the hill of Hachila, which is over against the wilderness.

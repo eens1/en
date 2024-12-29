@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 God, who, at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all,

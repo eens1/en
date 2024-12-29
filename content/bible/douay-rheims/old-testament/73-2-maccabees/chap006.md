@@ -1,8 +1,9 @@
 ---
-title: "Chapter 6"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Chapter 6
 ---
+
 
 
 1 But not long after the king sent a certain old man of Antioch, to compel the Jews to depart from the laws of their fathers and of God:

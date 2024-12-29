@@ -1,8 +1,9 @@
 ---
-title: "Chapter 11"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 11
 ---
+
 
 
 1 Then Holofernes said to her: Be of good comfort, and fear not in thy heart: for I have never hurt a man that was willing to serve Nabuchodonosor the king.

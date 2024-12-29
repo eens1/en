@@ -1,8 +1,9 @@
 ---
-title: "Chapter 21"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 21
 ---
+
 
 
 1 And Josaphat slept with his fathers, and was buried with them in the city of David: and Joram his son reigned in his stead.

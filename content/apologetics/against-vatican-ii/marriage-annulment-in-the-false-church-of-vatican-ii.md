@@ -1,17 +1,21 @@
 ---
-title: "Marriage Annulment In The False Church Of Vatican II"
-date: "2024-12-23T07:11:51"
-draft: "false"
-description: "Pope Leo XIII, Dum Multa (# 2), Dec. 24, 1902: “It follows then that the marriage of Christians when fully accomplished… cannot be dissolved for any reason other than the death of either spouse, according [...]"
+date: '2024-12-23T07:11:51'
+description: "Pope Leo XIII, Dum Multa (# 2), Dec. 24, 1902: \u201CIt follows then\
+  \ that the marriage of Christians when fully accomplished\u2026 cannot be dissolved\
+  \ for any reason other than the death of either spouse, according [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/annulment-divorce-remarriage-false-church/
+image: https://vaticancatholic.com/images/annulment-marriage-bible.jpg
+image:height: '284'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/annulment-divorce-remarriage-false-church/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/annulment-marriage-bible.jpg"
-image:width: "500"
-image:height: "284"
-image:type: "image/jpeg"
+title: Marriage Annulment In The False Church Of Vatican II
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/annulment-divorce-remarriage-false-church/)
 

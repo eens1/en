@@ -1,8 +1,9 @@
 ---
-title: "Chapter 64"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 64
 ---
+
 
 
 1 To the end, a psalm of David. The canticle of Jeremias and Ezechiel to the people of the captivity, when they began to go out.

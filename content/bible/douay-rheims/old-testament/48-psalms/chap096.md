@@ -1,8 +1,9 @@
 ---
-title: "Chapter 96"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 96
 ---
+
 
 
 1 For the same David, when his land was restored again to him. The Lord hath reigned, let the earth rejoice: let many islands be glad.

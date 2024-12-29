@@ -1,8 +1,9 @@
 ---
-title: "Chapter 52"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 52
 ---
+
 
 
 1 Arise, arise, put on thy strength, O Sion, put on the garments of thy glory, O Jerusalem, the city of the Holy One: for henceforth the uncircumcised, and unclean shall no more pass through thee.

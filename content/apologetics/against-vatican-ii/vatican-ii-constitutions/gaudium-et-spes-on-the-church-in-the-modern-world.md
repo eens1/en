@@ -1,17 +1,21 @@
 ---
-title: "Gaudium et Spes – On the Church in the Modern World"
-date: "2024-12-01T19:25:10"
-draft: "false"
-description: "7.  Gaudium et Spes – Vatican II’s Constitution on the Church in the Modern World Vatican II document, Gaudium et Spes # 22: “For by His incarnation the Son [...]"
+date: '2024-12-01T19:25:10'
+description: "7.\_ Gaudium et Spes \u2013 Vatican II\u2019s Constitution on the Church\
+  \ in the Modern World Vatican II document, Gaudium et Spes # 22: \u201CFor by His\
+  \ incarnation the Son [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/gaudium-et-spes
+image: https://vaticancatholic.com/images/gaudium-et-spes.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/gaudium-et-spes"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/gaudium-et-spes.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Gaudium et Spes \u2013 On the Church in the Modern World"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/gaudium-et-spes)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 7"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 7
 ---
+
 
 
 1 Having therefore these promises, dearly beloved, let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God.

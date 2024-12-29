@@ -1,8 +1,9 @@
 ---
-title: "Chapter 109"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 109
 ---
+
 
 
 1 A psalm for David. The Lord said to my Lord: Sit thou at my right hand: Until I make thy enemies thy footstool.

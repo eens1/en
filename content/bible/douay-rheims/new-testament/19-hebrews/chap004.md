@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 Let us fear therefore lest, the promise being left of entering into his rest, any of you should be thought to be wanting.

@@ -6,6 +6,8 @@ title: Bayside, Medjugorje and Other False Apparitions
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bayside-medjugorje-and-other-false-apparitions/)

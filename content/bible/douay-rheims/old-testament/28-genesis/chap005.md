@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 This is the book of the generation of Adam. In the day that God created man, he made him to the likeness of God.

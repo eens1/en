@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 Now these are the priests and the Levites, that went up with Zorobabel the son of Salathiel, and Josue: Saraia, Jeremias, Esdras,

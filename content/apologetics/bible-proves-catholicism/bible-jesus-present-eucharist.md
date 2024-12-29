@@ -6,6 +6,8 @@ title: The Bible teaches that Jesus is truly present in the Eucharist
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-jesus-present-eucharist/)

@@ -1,17 +1,21 @@
 ---
-title: "Exchanges On The Stupidity Of Sanborn’s Position"
-date: "2024-12-23T12:42:13"
-draft: "false"
-description: "Exchanges On The Stupidity Of Sanborn’s Position Sanborn And Others Are Totally Wrong On Manifest Heresy – New Evidence From Pope Martin V Brothers, I disagree with the CT [Cassiciacum Thesis], but I don't believe… [...]"
+date: '2024-12-23T12:42:13'
+description: "Exchanges On The Stupidity Of Sanborn\u2019s Position Sanborn And Others\
+  \ Are Totally Wrong On Manifest Heresy \u2013 New Evidence From Pope Martin V Brothers,\
+  \ I disagree with the CT [Cassiciacum Thesis], but I don't believe\u2026 [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/exchanges-on-the-stupidity-of-sanborns-position/
+image: https://vaticancatholic.com/images/catholic-answers-e-exchanges.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/exchanges-on-the-stupidity-of-sanborns-position/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/catholic-answers-e-exchanges.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Exchanges On The Stupidity Of Sanborn\u2019s Position"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/exchanges-on-the-stupidity-of-sanborns-position/)
 

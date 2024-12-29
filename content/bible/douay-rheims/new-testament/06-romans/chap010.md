@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 Brethren, the will of my heart, indeed and my prayer to God is for them unto salvation.

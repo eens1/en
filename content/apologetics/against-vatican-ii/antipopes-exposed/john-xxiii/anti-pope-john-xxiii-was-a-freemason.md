@@ -1,17 +1,21 @@
 ---
-title: "Antipope John XXIII was a Freemason?"
-date: "2024-12-01T19:40:06"
-draft: "false"
-description: "Yves Marsaudon, 33rd degree Scottish Rite Freemason: “The sense of universalism that is rampant in Rome these days is very close to our purpose for existence… with all our hearts we support the revolution of [...]"
+date: '2024-12-01T19:40:06'
+description: "Yves Marsaudon, 33rd degree Scottish Rite Freemason: \u201CThe sense\
+  \ of universalism that is rampant in Rome these days is very close to our purpose\
+  \ for existence\u2026 with all our hearts we support the revolution of [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/anti-pope-john-xxiii
+image: https://vaticancatholic.com/images/anti-pope-john-xxiii.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/anti-pope-john-xxiii"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/anti-pope-john-xxiii.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Antipope John XXIII was a Freemason?
+type: article
 ---
+
+
 
 By Brother Michael Dimond, O.S.B.
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 After these things, king Assuerus advanced Aman, the son of Amadathi, who was of the race of Agag: and he set his throne above all the princes that were with him.

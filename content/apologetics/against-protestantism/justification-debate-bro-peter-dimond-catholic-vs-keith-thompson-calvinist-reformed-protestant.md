@@ -4,7 +4,9 @@ draft: false
 external_url: https://vaticancatholic.com/justification-debate-bro-peter-dimond-catholic-vs-keith-thompson-calvinist-reformed-protestant/
 title: Justification Debate - Bro. Peter Dimond (Catholic) vs. Keith Thompson (Reformed
   Protestant)
+video: true
 ---
+
 
 
 By Brother Peter Dimond, O.S.B.

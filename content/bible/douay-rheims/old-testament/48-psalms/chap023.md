@@ -1,8 +1,9 @@
 ---
-title: "Chapter 23"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 23
 ---
+
 
 
 1 On the first day of the week, a psalm for David. The earth is the Lord's and the fulness thereof: the world, and all they that dwell therein.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 117"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 117
 ---
+
 
 
 1 Give praise to the Lord, for he is good: for his mercy endureth for ever.

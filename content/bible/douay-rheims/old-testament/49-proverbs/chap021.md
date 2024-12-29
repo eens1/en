@@ -1,8 +1,9 @@
 ---
-title: "Chapter 21"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 21
 ---
+
 
 
 1 As the divisions of waters, so the heart of the king is in the hand of the Lord: whithersoever he will, he shall turn it.

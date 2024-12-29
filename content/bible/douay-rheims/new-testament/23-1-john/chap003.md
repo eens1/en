@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 Behold what manner of charity the Father hath bestowed upon us, that we should be called and should be the sons of God. Therefore the world knoweth not us, because it knew not him.

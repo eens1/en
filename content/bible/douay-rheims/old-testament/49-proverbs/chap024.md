@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 Seek not to be like evil men, neither desire to be with them:

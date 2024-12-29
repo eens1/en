@@ -6,6 +6,8 @@ title: Baptism of Desire, by Fr. Jean-Marc Rulleau (SSPX)
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/baptism-of-desire-jean-marc-rulleau-sspx/)

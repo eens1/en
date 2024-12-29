@@ -1,9 +1,12 @@
 ---
-title: "Objection 9): Pope Liberius gave in to the Arian heretics and excommunicated St. Athanasius, yet he remained the pope…"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/pope-liberius-arians/"
+external_url: https://vaticancatholic.com/pope-liberius-arians/
+title: "Objection 9): Pope Liberius gave in to the Arian heretics and excommunicated\
+  \ St. Athanasius, yet he remained the pope\u2026"
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

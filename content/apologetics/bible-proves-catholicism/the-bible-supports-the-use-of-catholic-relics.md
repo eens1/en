@@ -1,17 +1,21 @@
 ---
-title: "The Bible Supports The Use Of Catholic Relics"
-date: "2024-11-24T09:23:21"
-draft: "false"
-description: "Spirituality “And God wrought by the hand of Paul more than common miracles: So that even there were brought from his body to the sick handkerchiefs and aprons, and the diseases departed from them, and [...]"
+date: '2024-11-24T09:23:21'
+description: "Spirituality \u201CAnd God wrought by the hand of Paul more than common\
+  \ miracles: So that even there were brought from his body to the sick handkerchiefs\
+  \ and aprons, and the diseases departed from them, and [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/the-bible-supports-the-use-of-catholic-relics/
+image: https://vaticancatholic.com/images/daily-quotes-mhfm.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/the-bible-supports-the-use-of-catholic-relics/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/daily-quotes-mhfm.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Bible Supports The Use Of Catholic Relics
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-bible-supports-the-use-of-catholic-relics/)
 

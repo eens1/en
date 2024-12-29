@@ -1,8 +1,9 @@
 ---
-title: "Chapter 55"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 55
 ---
+
 
 
 1 All you that thirst, come to the waters: and you that have no money make haste, buy, and eat: come ye, buy wine and milk without money, and without any price.

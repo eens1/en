@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 And Nadab and Abiu, the sons of Aaron, taking their censers, put fire therein, and incense on it, offering before the Lord strange fire: which was not commanded them.

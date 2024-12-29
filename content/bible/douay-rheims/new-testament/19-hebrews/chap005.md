@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 For every high priest taken from among men is ordained for men in the things that appertain to God, that he may offer up gifts and sacrifices for sins:

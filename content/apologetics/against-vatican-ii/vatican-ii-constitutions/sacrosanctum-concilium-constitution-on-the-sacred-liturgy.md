@@ -1,17 +1,21 @@
 ---
-title: "Sacrosanctum Concilium – Constitution on the Sacred Liturgy"
-date: "2024-12-01T19:25:31"
-draft: "false"
-description: "8. Sacrosanctum Concilium – Vatican II’s Constitution on the Sacred Liturgy Sacrosanctum Concilium was Vatican II’s constitution on the sacred liturgy.  It was responsible for the incredible changes to [...]"
+date: '2024-12-01T19:25:31'
+description: "8. Sacrosanctum Concilium \u2013 Vatican II\u2019s Constitution on the\
+  \ Sacred Liturgy Sacrosanctum Concilium was Vatican II\u2019s constitution on the\
+  \ sacred liturgy.\_ It was responsible for the incredible changes to [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/sacrosanctum-concilium
+image: https://vaticancatholic.com/images/sacrosanctum-concilium.jpg
+image:height: '213'
+image:type: image/jpeg
+image:width: '283'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/sacrosanctum-concilium"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/sacrosanctum-concilium.jpg"
-image:width: "283"
-image:height: "213"
-image:type: "image/jpeg"
+title: "Sacrosanctum Concilium \u2013 Constitution on the Sacred Liturgy"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/sacrosanctum-concilium)
 

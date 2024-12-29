@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/saturday-or-sunday-holy-day-sabbath/
 title: Is Saturday or Sunday the Holy Day?
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/saturday-or-sunday-holy-day-sabbath/)

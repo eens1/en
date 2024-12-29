@@ -1,8 +1,9 @@
 ---
-title: "Chapter 21"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 21
 ---
+
 
 
 1 My son, hast thou sinned? do so no more: but for thy former sins also pray that they may be forgiven thee.

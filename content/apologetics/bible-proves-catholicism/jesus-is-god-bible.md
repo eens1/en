@@ -6,6 +6,8 @@ title: Jesus is God according to the Bible
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/jesus-is-god-bible/)

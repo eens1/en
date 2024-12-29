@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 And in the six and thirtieth year of his kingdom, Baasa the king of Israel came up against Juda, and built a wall about Rama, that no one might safely go out or come in of the kingdom of Asa.

@@ -1,9 +1,12 @@
 ---
-title: "Objection 8): St. Robert Bellarmine said that one cannot depose a pope, but that one can licitly resist him. Sedevacantists judge, punish and depose the pope…"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/bellarmine-resist-a-pope/"
+external_url: https://vaticancatholic.com/bellarmine-resist-a-pope/
+title: "Objection 8): St. Robert Bellarmine said that one cannot depose a pope, but\
+  \ that one can licitly resist him. Sedevacantists judge, punish and depose the pope\u2026"
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

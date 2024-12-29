@@ -1,8 +1,9 @@
 ---
-title: "Chapter 27"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 27
 ---
+
 
 
 1 And Moses with the ancients of Israel commanded the people, saying: Keep every commandment that I command you this day.

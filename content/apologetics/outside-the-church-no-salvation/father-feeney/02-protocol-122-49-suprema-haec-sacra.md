@@ -6,6 +6,8 @@ title: Protocol 122/49 (Suprema haec sacra)
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/protocol-122-49-suprema-haec-sacra/)

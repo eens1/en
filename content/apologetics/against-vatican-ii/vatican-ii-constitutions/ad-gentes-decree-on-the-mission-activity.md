@@ -1,17 +1,21 @@
 ---
-title: "Ad Gentes – Decree on the Mission Activity"
-date: "2024-12-01T19:22:20"
-draft: "false"
-description: "5.  Ad Gentes – Vatican II’s Decree on Missionary Activity Not surprisingly, we also find heresy in Vatican II’s Decree on Missionary Activity. Vatican II document, Ad Gentes # [...]"
+date: '2024-12-01T19:22:20'
+description: "5.\_ Ad Gentes \u2013 Vatican II\u2019s Decree on Missionary Activity\
+  \ Not surprisingly, we also find heresy in Vatican II\u2019s Decree on Missionary\
+  \ Activity. Vatican II document, Ad Gentes # [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/ad-gentes
+image: https://vaticancatholic.com/images/ad-gentes.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/ad-gentes"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/ad-gentes.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Ad Gentes \u2013 Decree on the Mission Activity"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/ad-gentes)
 

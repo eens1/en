@@ -1,17 +1,21 @@
 ---
-title: "Unitatis Redintegratio – Decree on Ecumenism"
-date: "2024-12-01T19:18:58"
-draft: "false"
-description: "1.  Unitatis Redintegratio – Vatican II’s Decree on Ecumenism. Vatican II document, Unitatis Redintegratio # 1: “Yet almost all, though in different ways, long for the one visible Church [...]"
+date: '2024-12-01T19:18:58'
+description: "1.\_ Unitatis Redintegratio \u2013 Vatican II\u2019s Decree on Ecumenism.\
+  \ Vatican II document, Unitatis Redintegratio # 1: \u201CYet almost all, though\
+  \ in different ways, long for the one visible Church [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/unitatis-redintegratio
+image: https://vaticancatholic.com/images/unitatis-redintegratio.jpg
+image:height: '349'
+image:type: image/jpeg
+image:width: '620'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/unitatis-redintegratio"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/unitatis-redintegratio.jpg"
-image:width: "620"
-image:height: "349"
-image:type: "image/jpeg"
+title: "Unitatis Redintegratio \u2013 Decree on Ecumenism"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/unitatis-redintegratio)
 

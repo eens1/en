@@ -1,8 +1,9 @@
 ---
-title: "Chapter 41"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 41
 ---
+
 
 
 1 O death, how bitter is the remembrance of thee to a man that hath peace in his possessions!

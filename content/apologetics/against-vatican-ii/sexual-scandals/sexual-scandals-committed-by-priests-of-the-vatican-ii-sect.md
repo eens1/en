@@ -1,17 +1,22 @@
 ---
-title: "Sexual Scandals Committed By “Priests” Of The Vatican II Sect"
-date: "2024-12-23T06:56:28"
-draft: "false"
-description: "“Cardinal” Bernard Law, formerly of Boston, who presided over the Vatican II sect’s massive sexual scandal there CBS News - Clergy members and others in the Boston Archdiocese likely sexually abused more than 1,000 people [...]"
+date: '2024-12-23T06:56:28'
+description: "\u201CCardinal\u201D Bernard Law, formerly of Boston, who presided over\
+  \ the Vatican II sect\u2019s massive sexual scandal there CBS News - Clergy members\
+  \ and others in the Boston Archdiocese likely sexually abused more than 1,000 people\
+  \ [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/sexual-scandal-priests-vatican-ii/
+image: https://vaticancatholic.com/images/bernard-law-scandal-sexual.jpg
+image:height: '333'
+image:type: image/jpeg
+image:width: '490'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/sexual-scandal-priests-vatican-ii/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/bernard-law-scandal-sexual.jpg"
-image:width: "490"
-image:height: "333"
-image:type: "image/jpeg"
+title: "Sexual Scandals Committed By \u201CPriests\u201D Of The Vatican II Sect"
+type: article
 ---
+
+
 
 <p style="text-align: center;">“Cardinal” Bernard Law, formerly of Boston, who presided over the Vatican II sect’s massive sexual scandal there</p>
 <blockquote>

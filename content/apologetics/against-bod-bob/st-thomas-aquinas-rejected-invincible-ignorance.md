@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/st-thomas-aquinas-rejected-invincible-ignorance/"
+external_url: https://vaticancatholic.com/st-thomas-aquinas-rejected-invincible-ignorance/
 title: "St. Thomas Aquinas Rejected \u201CInvincible Ignorance\u201D"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

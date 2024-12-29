@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 Now shalt thou be laid waste, O daughter of the robber: they have laid siege against us, with a rod shall they strike the cheek of the judge of Israel.

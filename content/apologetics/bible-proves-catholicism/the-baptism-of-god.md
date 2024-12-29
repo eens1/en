@@ -1,17 +1,21 @@
 ---
-title: "The Baptism Of God"
-date: "2024-11-24T14:41:47"
-draft: "false"
-description: "At the end of Mass in the Roman Rite is recited the Last Gospel.  These profound words found in the first chapter of the Gospel of St. John are very powerful, striking the reader by [...]"
+date: '2024-11-24T14:41:47'
+description: "At the end of Mass in the Roman Rite is recited the Last Gospel.\_ These\
+  \ profound words found in the first chapter of the Gospel of St. John are very powerful,\
+  \ striking the reader by [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/the-baptism-of-god/
+image: https://vaticancatholic.com/images/baptism-of-christ-2_v2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/the-baptism-of-god/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/baptism-of-christ-2_v2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Baptism Of God
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-baptism-of-god/)
 

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 Paul, an apostle of Jesus Christ, according to the commandment of God our Saviour and Christ Jesus our hope:

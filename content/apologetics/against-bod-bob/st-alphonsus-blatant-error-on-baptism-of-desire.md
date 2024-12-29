@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/st-alphonsus-blatant-error-on-baptism-of-desire/"
+external_url: https://vaticancatholic.com/st-alphonsus-blatant-error-on-baptism-of-desire/
 title: "St. Alphonsus\u2019 Blatant Error on \u2018Baptism of Desire\u2019"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

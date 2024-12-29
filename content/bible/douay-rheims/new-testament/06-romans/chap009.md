@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 I speak the truth in Christ: I lie not, my conscience bearing me witness in the Holy Ghost:

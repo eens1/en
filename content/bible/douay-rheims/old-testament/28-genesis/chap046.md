@@ -1,8 +1,9 @@
 ---
-title: "Chapter 46"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 46
 ---
+
 
 
 1 And Israel taking his journey, with all that he had, came to the well of the oath, and killing victims there to the God of his father Isaac,

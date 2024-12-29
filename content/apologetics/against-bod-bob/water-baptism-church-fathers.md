@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/water-baptism-church-fathers/"
+external_url: https://vaticancatholic.com/water-baptism-church-fathers/
 title: "Baptism of Blood and Baptism of Desire \u2013 Erroneous Traditions of Man"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

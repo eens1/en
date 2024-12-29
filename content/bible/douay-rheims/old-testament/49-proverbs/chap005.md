@@ -1,8 +1,9 @@
 ---
-title: "Chapter 5"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 5
 ---
+
 
 
 1 My son, attend to my wisdom, and incline thy ear to my prudence,

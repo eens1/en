@@ -1,17 +1,21 @@
 ---
-title: "Lumen Gentium – ‘Dogmatic’ Constitution on the Church"
-date: "2024-12-01T19:21:25"
-draft: "false"
-description: "3.  Lumen Gentium – Vatican II’s Constitution on the Church Lumen Gentium, Vatican II’s constitution on the Church, became famous (or rather, notorious) for its heretical teaching of [...]"
+date: '2024-12-01T19:21:25'
+description: "3.\_ Lumen Gentium \u2013 Vatican II\u2019s Constitution on the Church\
+  \ Lumen Gentium, Vatican II\u2019s constitution on the Church, became famous (or\
+  \ rather, notorious) for its heretical teaching of [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/lumen-gentium
+image: https://vaticancatholic.com/images/lumen-gentium.jpg
+image:height: '1662'
+image:type: image/jpeg
+image:width: '2500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/lumen-gentium"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/lumen-gentium.jpg"
-image:width: "2500"
-image:height: "1662"
-image:type: "image/jpeg"
+title: "Lumen Gentium \u2013 \u2018Dogmatic\u2019 Constitution on the Church"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/lumen-gentium)
 

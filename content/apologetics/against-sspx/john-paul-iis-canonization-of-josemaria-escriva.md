@@ -1,13 +1,18 @@
 ---
-title: "John Paul II’s “Canonization” of Josemaria Escriva"
-date: "2024-12-23T07:35:52"
-draft: "false"
-description: "A VOICE CRYING IN THE WILDERNESS newsletter#4 Antipope John Paul II’s “Canonization” of Josemaria Escriva reveals Schism among many “traditionalists” - by Bro. Peter Dimond, O.S.B. - As we send out an advertisement for our [...]"
+date: '2024-12-23T07:35:52'
+description: "A VOICE CRYING IN THE WILDERNESS newsletter#4 Antipope John Paul II\u2019\
+  s \u201CCanonization\u201D of Josemaria Escriva reveals Schism among many \u201C\
+  traditionalists\u201D - by Bro. Peter Dimond, O.S.B. - As we send out an advertisement\
+  \ for our [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/canonization-of-josemaria-escriva/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/canonization-of-josemaria-escriva/"
-locale: "en_US"
-type: "article"
+title: "John Paul II\u2019s \u201CCanonization\u201D of Josemaria Escriva"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/canonization-of-josemaria-escriva/)
 

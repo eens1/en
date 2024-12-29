@@ -1,13 +1,17 @@
 ---
-title: "Works of the Law, and Romans 4"
-date: "2024-11-24T11:32:26"
-draft: "false"
-description: "First, we would have to object to a description of a Protestant as biblically astute. Many Protestants have a knowledge of certain verses, the biblical languages, biblical history, etc; but they remain in the dark [...]"
+date: '2024-11-24T11:32:26'
+description: First, we would have to object to a description of a Protestant as biblically
+  astute. Many Protestants have a knowledge of certain verses, the biblical languages,
+  biblical history, etc; but they remain in the dark [...]
+draft: 'false'
+external_url: https://vaticancatholic.com/works-of-the-law-romans-4/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/works-of-the-law-romans-4/"
-locale: "en_US"
-type: "article"
+title: Works of the Law, and Romans 4
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/works-of-the-law-romans-4/)
 

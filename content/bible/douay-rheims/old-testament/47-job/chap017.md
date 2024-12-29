@@ -1,8 +1,9 @@
 ---
-title: "Chapter 17"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 17
 ---
+
 
 
 1 My spirit shall be wasted, my days shall be shortened and only the grave remaineth for me.

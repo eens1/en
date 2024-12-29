@@ -1,8 +1,9 @@
 ---
-title: "Chapter 82"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 82
 ---
+
 
 
 1 A canticle of a psalm for Asaph.

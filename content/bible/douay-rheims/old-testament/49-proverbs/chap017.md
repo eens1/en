@@ -1,8 +1,9 @@
 ---
-title: "Chapter 17"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 17
 ---
+
 
 
 1 Better is a dry morsel with joy, than a house full of victims with strife.

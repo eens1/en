@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/baptism-not-impossible-to-receive/"
-title: "The Argument That Baptism Is Impossible For Some To Receive"
+external_url: https://vaticancatholic.com/baptism-not-impossible-to-receive/
+title: The Argument That Baptism Is Impossible For Some To Receive
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

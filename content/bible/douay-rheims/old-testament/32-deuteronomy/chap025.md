@@ -1,8 +1,9 @@
 ---
-title: "Chapter 25"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 25
 ---
+
 
 
 1 If there be a controversy between men, and they call upon the judges: they shall give the prize of justice to him whom they perceive to be just: and him whom they find to be wicked, they shall condemn of wickedness.

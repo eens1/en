@@ -1,16 +1,18 @@
 ---
-title: "The Apocalypse & The Prophesied Whore Of Babylon"
-date: "2024-12-23T07:46:05"
-draft: "false"
+date: '2024-12-23T07:46:05'
+draft: 'false'
+external_url: https://vaticancatholic.com/apocalypse/
+image: https://vaticancatholic.com/images/whore-of-babylon-v2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/apocalypse/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/whore-of-babylon-v2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Apocalypse & The Prophesied Whore Of Babylon
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/apocalypse/)
 

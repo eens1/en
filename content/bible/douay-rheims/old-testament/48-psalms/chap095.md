@@ -1,8 +1,9 @@
 ---
-title: "Chapter 95"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 95
 ---
+
 
 
 1 A canticle for David himself, when the house was built after the captivity. Sing ye to the Lord a new canticle: sing to the Lord, all the earth.

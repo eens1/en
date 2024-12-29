@@ -1,8 +1,9 @@
 ---
-title: "Chapter 24"
-date: 2024-09-06T20:00:31+02:00
+date: 2024-09-06 20:00:31+02:00
 draft: false
+title: Chapter 24
 ---
+
 
 
 1 Wisdom shall praise her own self, and shall be honoured in God, and shall glory in the midst of her people,

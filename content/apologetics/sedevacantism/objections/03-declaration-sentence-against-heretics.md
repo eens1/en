@@ -1,9 +1,12 @@
 ---
-title: "Objection 3): You cannot know if someone is a heretic or denounce him as such without a trial and declaratory sentence."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/declaration-sentence-against-heretics"
+external_url: https://vaticancatholic.com/declaration-sentence-against-heretics
+title: 'Objection 3): You cannot know if someone is a heretic or denounce him as such
+  without a trial and declaratory sentence.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

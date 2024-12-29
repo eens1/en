@@ -1,8 +1,9 @@
 ---
-title: "Chapter 123"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 123
 ---
+
 
 
 1 A gradual canticle. If it had not been that the Lord was with us, let Israel now say:

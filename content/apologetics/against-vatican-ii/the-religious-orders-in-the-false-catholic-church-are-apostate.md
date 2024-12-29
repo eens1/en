@@ -1,17 +1,22 @@
 ---
-title: "The Religious Orders In The False \"Catholic Church\" Are Apostate"
-date: "2024-12-23T07:16:10"
-draft: "false"
-description: "“We devoted two full days to sharing our personal spiritual journeys… attending the Buddhist community’s chanting services, meditating together and enjoying superb Chinese vegetarian cuisine.”[1]  Novus Ordo “Benedictines” at the “Monks in the West” Conference [...]"
+date: '2024-12-23T07:16:10'
+description: "\u201CWe devoted two full days to sharing our personal spiritual journeys\u2026\
+  \ attending the Buddhist community\u2019s chanting services, meditating together\
+  \ and enjoying superb Chinese vegetarian cuisine.\u201D[1]\_ Novus Ordo \u201CBenedictines\u201D\
+  \ at the \u201CMonks in the West\u201D Conference [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/religious-orders-vatican-ii-apostate
+image: https://vaticancatholic.com/images/novus-ordo-buddhist-conference-monks-in-the-west.jpg
+image:height: '445'
+image:type: image/jpeg
+image:width: '644'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/religious-orders-vatican-ii-apostate"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/novus-ordo-buddhist-conference-monks-in-the-west.jpg"
-image:width: "644"
-image:height: "445"
-image:type: "image/jpeg"
+title: The Religious Orders In The False "Catholic Church" Are Apostate
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/religious-orders-vatican-ii-apostate)
 

@@ -1,9 +1,11 @@
 ---
 date: 2024-09-06 20:02:27+02:00
 draft: false
-external_url: "https://vaticancatholic.com/baptism-of-desire-tradition-of-man"
+external_url: https://vaticancatholic.com/baptism-of-desire-tradition-of-man
 title: "The Theory of Baptism of Desire \u2013 a tradition of man"
 ---
+
+
 
 
 By Brother Peter Dimond, O.S.B.

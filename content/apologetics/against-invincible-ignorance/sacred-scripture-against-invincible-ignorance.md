@@ -9,6 +9,8 @@ title: Sacred Scripture Against Invincible Ignorance
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/sacred-scripture-against-invincible-ignorance/)

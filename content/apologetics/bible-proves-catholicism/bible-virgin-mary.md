@@ -6,6 +6,8 @@ title: The Biblical Basis for Praying to Mary and for Catholic Teaching on Mary
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-virgin-mary/)

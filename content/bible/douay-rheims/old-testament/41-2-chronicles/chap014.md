@@ -1,8 +1,9 @@
 ---
-title: "Chapter 14"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 14
 ---
+
 
 
 1 And Abia slept with his fathers, and they buried him in the city of David: an Asa his son reigned in his stead: in his days the land was quiet ten years.

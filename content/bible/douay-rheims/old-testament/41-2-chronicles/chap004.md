@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 He made also an altar of brass twenty cubits long, and twenty cubits broad, and ten cubits high.

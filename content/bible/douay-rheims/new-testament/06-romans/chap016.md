@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 And I commend to you Phebe, our sister, who is in the ministry of the church, that is in Cenchrae:

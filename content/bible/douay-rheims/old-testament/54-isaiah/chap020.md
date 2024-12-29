@@ -1,8 +1,9 @@
 ---
-title: "Chapter 20"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 20
 ---
+
 
 
 1 In the year that Tharthan entered into Azotus, when Sargon the king of the Assyrians had sent him, and he had fought against Azotus, and had taken it:

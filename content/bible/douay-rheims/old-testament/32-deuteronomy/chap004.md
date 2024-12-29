@@ -1,8 +1,9 @@
 ---
-title: "Chapter 4"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 4
 ---
+
 
 
 1 And now, O Israel, hear the commandments and judgments which I teach thee: that doing them, thou mayst live, and entering in mayst possess the land which the Lord the God of your fathers will give you.

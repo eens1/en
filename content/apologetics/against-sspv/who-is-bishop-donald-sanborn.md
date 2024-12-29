@@ -1,13 +1,18 @@
 ---
-title: "Who is Bishop Donald Sanborn?"
-date: "2024-12-23T12:43:31"
-draft: "false"
-description: "By Bro. Peter Dimond, O.S.B. Bishop Donald Sanborn is a “traditionalist” bishop who attacks those who don’t believe in 'baptism of desire'.  In addition to attacking Catholic teaching on baptism, Donald Sanborn believes that souls [...]"
+date: '2024-12-23T12:43:31'
+description: "By Bro. Peter Dimond, O.S.B. Bishop Donald Sanborn is a \u201Ctraditionalist\u201D\
+  \ bishop who attacks those who don\u2019t believe in 'baptism of desire'.\_ In addition\
+  \ to attacking Catholic teaching on baptism, Donald Sanborn believes that souls\
+  \ [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/bishop-donald-sanborn/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/bishop-donald-sanborn/"
-locale: "en_US"
-type: "article"
+title: Who is Bishop Donald Sanborn?
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bishop-donald-sanborn/)
 

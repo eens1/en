@@ -1,8 +1,9 @@
 ---
-title: "Chapter 12"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 12
 ---
+
 
 
 1 And Samuel said to all Israel: Behold I have hearkened to your voice in all that you said to me, and have made a king over you.

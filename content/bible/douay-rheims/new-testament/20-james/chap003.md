@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 Be ye not many masters, my brethren, knowing that you receive the greater judgment.

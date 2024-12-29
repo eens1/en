@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/baptism-bible/
 title: The Bible teaches Baptismal Regeneration and that Baptism is Necessary for
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/baptism-bible/)

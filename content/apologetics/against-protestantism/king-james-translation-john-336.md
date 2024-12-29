@@ -6,6 +6,8 @@ title: The King James Translation And John 3:36
 ---
 
 
+
+
 Source: [vaticancatholic.com](https://vaticancatholic.com/king-james-translation-john-336/)
 
 <p>Your John 3:36 was from a Catholic translation.  Here's what it says in the KJV: "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."</p>

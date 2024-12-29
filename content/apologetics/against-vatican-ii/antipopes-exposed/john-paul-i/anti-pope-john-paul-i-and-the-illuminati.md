@@ -1,17 +1,22 @@
 ---
-title: "Antipope John Paul I and the Illuminati"
-date: "2024-12-01T19:43:30"
-draft: "false"
-description: "“He could and did accept divorcees. He also easily accepted others who were living in what the Church calls ‘sin.’”[1] (Father Mario Senigaglia, secretary to John Paul I when he was “Patriarch” of Venice) John [...]"
+date: '2024-12-01T19:43:30'
+description: "\u201CHe could and did accept divorcees. He also easily accepted others\
+  \ who were living in what the Church calls \u2018sin.\u2019\u201D[1] (Father Mario\
+  \ Senigaglia, secretary to John Paul I when he was \u201CPatriarch\u201D of Venice)\
+  \ John [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/anti-pope-john-paul-i-illuminati/
+image: https://vaticancatholic.com/images/jpi-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/anti-pope-john-paul-i-illuminati/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/jpi-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Antipope John Paul I and the Illuminati
+type: article
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

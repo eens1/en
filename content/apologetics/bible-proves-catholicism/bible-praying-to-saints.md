@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/bible-praying-to-saints/
 title: The Bible on Praying to and Venerating Saints of the Catholic Church
 ---
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-praying-to-saints/)

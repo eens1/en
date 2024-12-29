@@ -6,6 +6,7 @@ title: The Brown Scapular
 ---
 
 
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/the-brown-scapular/)

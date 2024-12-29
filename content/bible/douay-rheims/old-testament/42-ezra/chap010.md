@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 Now when Esdras was thus praying, and beseeching, and weeping, and lying before the temple of God, there was gathered to him of Israel an exceeding great assembly of men and women and children, and the people wept with much lamentation.

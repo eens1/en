@@ -1,8 +1,9 @@
 ---
-title: "Chapter 16"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 16
 ---
+
 
 
 1 He went also into Gaza, and saw there a woman, a harlot, and went in unto her.

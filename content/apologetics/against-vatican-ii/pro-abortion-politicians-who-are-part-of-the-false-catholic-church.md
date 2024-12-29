@@ -1,17 +1,22 @@
 ---
-title: "Pro-Abortion Politicians Who Are Part Of The False \"Catholic Church\""
-date: "2024-12-23T07:13:16"
-draft: "false"
-description: "“…no pro-abortion politician, no matter how prominent the figure nor how boldly he supports abortion, has been excommunicated (i.e. expelled from the “Church”) by the Vatican II antipopes.”  John Kerry receiving “Communion” in a Vatican [...]"
+date: '2024-12-23T07:13:16'
+description: "\u201C\u2026no pro-abortion politician, no matter how prominent the\
+  \ figure nor how boldly he supports abortion, has been excommunicated (i.e. expelled\
+  \ from the \u201CChurch\u201D) by the Vatican II antipopes.\u201D\_ John Kerry receiving\
+  \ \u201CCommunion\u201D in a Vatican [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/pro-abortion-part-of-vatican-ii/
+image: https://vaticancatholic.com/images/john-kerry-abortion-baby-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/pro-abortion-part-of-vatican-ii/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/john-kerry-abortion-baby-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: Pro-Abortion Politicians Who Are Part Of The False "Catholic Church"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/pro-abortion-part-of-vatican-ii/)
 

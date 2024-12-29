@@ -1,8 +1,9 @@
 ---
-title: "Chapter 9"
-date: 2024-09-06T20:00:29+02:00
+date: 2024-09-06 20:00:29+02:00
 draft: false
+title: Chapter 9
 ---
+
 
 
 1 So on the thirteenth day of the twelfth month, which as we have said above is called Adar, when all the Jews were designed to be massacred, and their enemies were greedy after their blood, the case being altered, the Jews began to have the upper hand, and to revenge themselves of their adversaries.

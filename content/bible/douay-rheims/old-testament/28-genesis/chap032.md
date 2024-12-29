@@ -1,8 +1,9 @@
 ---
-title: "Chapter 32"
-date: 2024-09-06T20:00:25+02:00
+date: 2024-09-06 20:00:25+02:00
 draft: false
+title: Chapter 32
 ---
+
 
 
 1 Jacob also went on the journey he had begun: and the angels of God met him.

@@ -1,8 +1,9 @@
 ---
-title: "Chapter 3"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 3
 ---
+
 
 
 1 Therefore if you be risen with Christ, seek the things that are above, where Christ is sitting at the right hand of God.

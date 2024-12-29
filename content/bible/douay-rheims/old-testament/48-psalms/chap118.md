@@ -1,8 +1,9 @@
 ---
-title: "Chapter 118"
-date: 2024-09-06T20:00:30+02:00
+date: 2024-09-06 20:00:30+02:00
 draft: false
+title: Chapter 118
 ---
+
 
 
 1 Blessed are the undefiled in the way, who walk in the law of the Lord.

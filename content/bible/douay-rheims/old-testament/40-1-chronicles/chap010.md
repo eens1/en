@@ -1,8 +1,9 @@
 ---
-title: "Chapter 10"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 10
 ---
+
 
 
 1 Now the Philistines fought against Israel, and the men of Israel fled from before the Philistines, and fell down wounded in mount Gelboe.

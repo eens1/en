@@ -1,17 +1,21 @@
 ---
-title: "Deplorable State Of “Catholic” Parochial And High Schools"
-date: "2024-12-23T07:02:14"
-draft: "false"
-description: "“I believed in the beginning it would be easy to stop the filthy material from being taught in schools.  I was confident that if any decent person would just look at the material, they would [...]"
+date: '2024-12-23T07:02:14'
+description: "\u201CI believed in the beginning it would be easy to stop the filthy\
+  \ material from being taught in schools.\_ I was confident that if any decent person\
+  \ would just look at the material, they would [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/deplorable-state-of-catholic-parochial-high-schools/
+image: https://vaticancatholic.com/images/cont_Bishop-Manogue-Catholic-High-School.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/deplorable-state-of-catholic-parochial-high-schools/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/cont_Bishop-Manogue-Catholic-High-School.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: "Deplorable State Of \u201CCatholic\u201D Parochial And High Schools"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/deplorable-state-of-catholic-parochial-high-schools/)
 

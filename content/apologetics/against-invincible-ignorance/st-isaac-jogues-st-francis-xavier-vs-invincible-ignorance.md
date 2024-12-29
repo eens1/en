@@ -7,6 +7,8 @@ title: St. Isaac Jogues and St. Francis Xavier Against Invincible Ignorance and 
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/st-isaac-jogues-st-francis-xavier-vs-invincible-ignorance/)

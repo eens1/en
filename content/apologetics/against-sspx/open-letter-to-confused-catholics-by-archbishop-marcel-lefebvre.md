@@ -6,6 +6,8 @@ title: Open Letter to Confused Catholics, by Archbishop Marcel Lefebvre
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/open-letter-to-confused-catholics-by-archbishop-marcel-lefebvre/)

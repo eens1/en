@@ -1,17 +1,21 @@
 ---
-title: "The Vatican II sect on partaking in non-Catholic worship"
-date: "2024-12-23T06:44:16"
-draft: "false"
-description: "Pope Pius XI, Mortalium Animos (# 10), Jan. 6, 1928: “… this Apostolic See has never allowed its subjects to take part in the assemblies of non-Catholics…”[1] John Paul II in common prayer in 1982, [...]"
+date: '2024-12-23T06:44:16'
+description: "Pope Pius XI, Mortalium Animos (# 10), Jan. 6, 1928: \u201C\u2026 this\
+  \ Apostolic See has never allowed its subjects to take part in the assemblies of\
+  \ non-Catholics\u2026\u201D[1] John Paul II in common prayer in 1982, [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/vatican-ii-non-catholic-worship
+image: https://vaticancatholic.com/images/john-paul-ii-robert-runcie-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/vatican-ii-non-catholic-worship"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/john-paul-ii-robert-runcie-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: The Vatican II sect on partaking in non-Catholic worship
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/vatican-ii-non-catholic-worship)
 

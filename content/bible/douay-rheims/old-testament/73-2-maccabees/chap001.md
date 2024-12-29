@@ -1,8 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Chapter 1
 ---
+
 
 
 1 To the brethren, the Jews that are throughout Egypt; the brethren, the Jews that are in Jerusalem, and in the land of Judea, send health and good peace.

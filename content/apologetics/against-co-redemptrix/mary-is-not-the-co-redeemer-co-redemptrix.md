@@ -1,13 +1,18 @@
 ---
-title: "Mary is not the Co-Redeemer (Co-Redemptrix)"
-date: "2024-11-25T06:15:53"
-draft: "false"
-description: "It's an infallibly defined dogma that Jesus Christ alone is the Redeemer. Pope Pius IV, Council of Trent, Sess. 25, On Invocation, Veneration and Relics of Saints, and on Sacred Images, ex cathedra: “… the saints, who reign [...]"
+date: '2024-11-25T06:15:53'
+description: "It's an infallibly defined dogma that Jesus Christ alone is the Redeemer.\
+  \ Pope Pius IV,\_Council of Trent, Sess. 25, On Invocation, Veneration and Relics\
+  \ of Saints, and on Sacred Images,\_ex cathedra: \u201C\u2026\_the saints, who reign\
+  \ [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/mary-co-redeemer-co-redemptrix/
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/mary-co-redeemer-co-redemptrix/"
-locale: "en_US"
-type: "article"
+title: Mary is not the Co-Redeemer (Co-Redemptrix)
+type: article
+video: true
 ---
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/mary-co-redeemer-co-redemptrix/)
 

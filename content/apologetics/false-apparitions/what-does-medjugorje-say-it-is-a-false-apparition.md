@@ -1,17 +1,21 @@
 ---
-title: "What Does Medjugorje Say? It is a False Apparition"
-date: "2024-12-23T07:26:30"
-draft: "false"
-description: "“The Madonna always stresses that there is but one God and that people have enforced unnatural separation.  One cannot truly believe, be a true Christian, if he does not respect other religions as well.”[1]  – [...]"
+date: '2024-12-23T07:26:30'
+description: "\u201CThe Madonna always stresses that there is but one God and that\
+  \ people have enforced unnatural separation.\_ One cannot truly believe, be a true\
+  \ Christian, if he does not respect other religions as well.\u201D[1] \_\u2013 [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/medjugorje-apparition-false/
+image: https://vaticancatholic.com/images/false-virgin-medjugorje_g.jpg
+image:height: '568'
+image:type: image/jpeg
+image:width: '1000'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/medjugorje-apparition-false/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/false-virgin-medjugorje_g.jpg"
-image:width: "1000"
-image:height: "568"
-image:type: "image/jpeg"
+title: What Does Medjugorje Say? It is a False Apparition
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/medjugorje-apparition-false/)
 

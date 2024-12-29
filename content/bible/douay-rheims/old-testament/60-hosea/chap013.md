@@ -1,8 +1,9 @@
 ---
-title: "Chapter 13"
-date: 2024-09-06T20:00:33+02:00
+date: 2024-09-06 20:00:33+02:00
 draft: false
+title: Chapter 13
 ---
+
 
 
 1 When Ephraim spoke, a horror seized Israel: and he sinned in Baal, and died.

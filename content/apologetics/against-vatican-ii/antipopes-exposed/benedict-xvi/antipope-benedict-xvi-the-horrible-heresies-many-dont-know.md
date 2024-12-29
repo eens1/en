@@ -1,17 +1,20 @@
 ---
-title: "Benedict XVI: The Horrible Heresies Many Don't Know"
-date: "2024-12-23T06:54:14"
-draft: "false"
-description: "Anti-Pope Benedict XVI Exposed! The most devastating exposé of Benedict XVI's heresies."
+date: '2024-12-23T06:54:14'
+description: "Anti-Pope Benedict XVI Exposed! The most devastating expos\xE9 of Benedict\
+  \ XVI's heresies."
+draft: 'false'
+external_url: https://vaticancatholic.com/anti-pope-benedict-xvi/
+image: https://vaticancatholic.com/images/b16-mufti.jpg
+image:height: '391'
+image:type: image/jpeg
+image:width: '578'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/anti-pope-benedict-xvi/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/b16-mufti.jpg"
-image:width: "578"
-image:height: "391"
-image:type: "image/jpeg"
+title: 'Benedict XVI: The Horrible Heresies Many Don''t Know'
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/anti-pope-benedict-xvi/)
 

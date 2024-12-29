@@ -6,6 +6,8 @@ title: Some Facts about Martin Luther, The Originator of Protestant
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/martin-luther/)

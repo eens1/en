@@ -1,8 +1,9 @@
 ---
-title: "Chapter 21"
-date: 2024-09-06T20:00:28+02:00
+date: 2024-09-06 20:00:28+02:00
 draft: false
+title: Chapter 21
 ---
+
 
 
 1 And after these things, Naboth the Jezrahelite, who was in Jezrahel, had at that time a vineyard, near the palace of Achab, king of Samaria.

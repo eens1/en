@@ -6,6 +6,8 @@ title: "Refuting the Protestant rejection of the Catholic and the Bible\u2019s t
 ---
 
 
+
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/bible-celibacy-saint-paul/)

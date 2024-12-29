@@ -1,17 +1,20 @@
 ---
-title: "What Catholics can and should do in the present apostasy"
-date: "2024-12-23T07:50:19"
-draft: "false"
-description: "First, if you’re not a Catholic, you need to become a traditional Catholic as soon as possible, since there is no salvation outside the one Church Christ has established.  The information in this book shows [...]"
+date: '2024-12-23T07:50:19'
+description: "First, if you\u2019re not a Catholic, you need to become a traditional\
+  \ Catholic as soon as possible, since there is no salvation outside the one Church\
+  \ Christ has established.\_ The information in this book shows [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/what-catholics-can-and-should-do-in-the-present-apostasy/
+image: https://vaticancatholic.com/images/confession-2.jpg
+image:height: '281'
+image:type: image/jpeg
+image:width: '500'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/what-catholics-can-and-should-do-in-the-present-apostasy/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/confession-2.jpg"
-image:width: "500"
-image:height: "281"
-image:type: "image/jpeg"
+title: What Catholics can and should do in the present apostasy
+type: article
 ---
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/what-catholics-can-and-should-do-in-the-present-apostasy/)
 

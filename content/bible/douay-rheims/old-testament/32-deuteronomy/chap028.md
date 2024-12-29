@@ -1,8 +1,9 @@
 ---
-title: "Chapter 28"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 28
 ---
+
 
 
 1 Now if thou wilt hear the voice of all his commandments, which I command thee this day, the Lord thy God will make thee higher than all the nations that are on the earth.

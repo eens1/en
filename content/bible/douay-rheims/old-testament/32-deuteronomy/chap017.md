@@ -1,8 +1,9 @@
 ---
-title: "Chapter 17"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 17
 ---
+
 
 
 1 Thou shalt not sacrifice to the Lord thy God a sheep, or an ox, wherein there is blemish, or any fault: for that is an abomination to the Lord thy God.

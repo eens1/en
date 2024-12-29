@@ -1,8 +1,9 @@
 ---
-title: "Chapter 27"
-date: 2024-09-06T20:00:26+02:00
+date: 2024-09-06 20:00:26+02:00
 draft: false
+title: Chapter 27
 ---
+
 
 
 1 Thou shalt make also an altar of setim wood, which shall be five cubits long, and as many broad, that is four square, and three cubits high.

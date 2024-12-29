@@ -1,9 +1,12 @@
 ---
-title: "Objection 17): Both the 1917 and 1983 Codes of Canon Law teach that a declaration is needed for one to lose his office due to heresy."
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-external_url: "https://vaticancatholic.com/codes-of-canon-law-1917-1983/"
+external_url: https://vaticancatholic.com/codes-of-canon-law-1917-1983/
+title: 'Objection 17): Both the 1917 and 1983 Codes of Canon Law teach that a declaration
+  is needed for one to lose his office due to heresy.'
 ---
+
+
 
 By Brother Michael Dimond and Brother Peter Dimond, O.S.B.
 

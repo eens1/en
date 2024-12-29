@@ -5,6 +5,8 @@ external_url: https://vaticancatholic.com/new-rite-consecration-bishops/
 title: The New Rite of Consecration of Bishops
 ---
 
+
+
 By Brother Michael Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/new-rite-consecration-bishops/)

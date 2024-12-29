@@ -1,17 +1,21 @@
 ---
-title: "The New “Catholic” Seminaries And Homosexuality"
-date: "2024-12-23T06:58:02"
-draft: "false"
-description: "Pope Pius XI, Ad catholici sacerdotii (# 66), Dec. 20, 1935: “Give the best of your clergy to your seminaries; do not fear to take them from other positions.  These [other] positions may seem of [...]"
+date: '2024-12-23T06:58:02'
+description: "Pope Pius XI, Ad catholici sacerdotii (# 66), Dec. 20, 1935: \u201C\
+  Give the best of your clergy to your seminaries; do not fear to take them from other\
+  \ positions.\_ These [other] positions may seem of [...]"
+draft: 'false'
+external_url: https://vaticancatholic.com/seminaries-homosexuality-heresies/
+image: https://vaticancatholic.com/images/seminary-vatican-ii.jpg
+image:height: '407'
+image:type: image/jpeg
+image:width: '527'
+locale: en_US
 tags: []
-external_url: "https://vaticancatholic.com/seminaries-homosexuality-heresies/"
-locale: "en_US"
-type: "article"
-image: "https://vaticancatholic.com/images/seminary-vatican-ii.jpg"
-image:width: "527"
-image:height: "407"
-image:type: "image/jpeg"
+title: "The New \u201CCatholic\u201D Seminaries And Homosexuality"
+type: article
 ---
+
+
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/seminaries-homosexuality-heresies/)
 

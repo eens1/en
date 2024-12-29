@@ -1,8 +1,9 @@
 ---
-title: "Chapter 11"
-date: 2024-09-06T20:00:24+02:00
+date: 2024-09-06 20:00:24+02:00
 draft: false
+title: Chapter 11
 ---
+
 
 
 1 I say then: Hath God cast away his people? God forbid! For I also am an Israelite of the seed of Abraham, of the tribe of Benjamin.

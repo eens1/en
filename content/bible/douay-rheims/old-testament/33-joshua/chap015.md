@@ -1,8 +1,9 @@
 ---
-title: "Chapter 15"
-date: 2024-09-06T20:00:27+02:00
+date: 2024-09-06 20:00:27+02:00
 draft: false
+title: Chapter 15
 ---
+
 
 
 1 Now the lot of the children of Juda by their kindreds was this: From the frontier of Edom, to the desert of Sin southward, and to the uttermost part of the south coast.

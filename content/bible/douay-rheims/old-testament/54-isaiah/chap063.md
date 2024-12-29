@@ -1,8 +1,9 @@
 ---
-title: "Chapter 63"
-date: 2024-09-06T20:00:32+02:00
+date: 2024-09-06 20:00:32+02:00
 draft: false
+title: Chapter 63
 ---
+
 
 
 1 Who is this that cometh from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength. I, that speak justice, and am a defender to save.
