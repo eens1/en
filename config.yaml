@@ -40,7 +40,7 @@ menu:
 
       - identifier: youtube
         name: ""
-        url: "https://www.youtube.com/@FrereMatthieuCap"
+        url: "https://www.youtube.com/@BroMatthewCap"
         weight: 6
         pre: "<i class='fab fa-youtube'></i> "
         params:
