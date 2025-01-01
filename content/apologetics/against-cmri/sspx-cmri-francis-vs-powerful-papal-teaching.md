@@ -4,6 +4,4 @@ title: SSPX, CMRI & Francis vs. Powerful Papal Teaching
 video: true
 ---
 
-
-
 {{< youtube Q1TQdT8idgA >}}

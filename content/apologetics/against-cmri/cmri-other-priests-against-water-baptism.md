@@ -9,6 +9,7 @@ title: The CMRI and Other Priests
 
 
 
+
 By Brother Peter Dimond, O.S.B.
 
 Source: [vaticancatholic.com](https://vaticancatholic.com/cmri-other-priests-against-water-baptism/)
