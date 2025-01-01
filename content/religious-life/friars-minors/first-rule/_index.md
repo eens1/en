@@ -1,4 +1,5 @@
 ---
+show_summary: true
 title: "First Rule of Saint Francis"
 date: 2024-09-06T20:02:28+02:00
 draft: false
